@@ -1,0 +1,38 @@
+name: Notify
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  notify:
+    name: Notify about new dependents
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Install github-dependents-info
+        run: pip install -U github-dependents-info
+
+      - name: Update
+        shell: bash
+        run: ./ratatui-notify.sh
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+          REPO: ${{ secrets.REPO }}
+
+      - name: Commit
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          set +e
+          git add *.txt
+          git commit -m "Update data"
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git main
