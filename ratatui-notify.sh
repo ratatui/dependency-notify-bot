@@ -13,7 +13,7 @@ notify() {
 	}' "${WEBHOOK_URL}"
 }
 
-readarray -t dependents <<<$(bin/github-dependents-info --repo "${REPO}" --json | jq -r .all_public_dependent_repos[].name)
+readarray -t dependents <<<$(github-dependents-info --repo "${REPO}" --json | jq -r .all_public_dependent_repos[].name)
 
 printf "%s\n" "${dependents[@]}" >"${file}"
 
