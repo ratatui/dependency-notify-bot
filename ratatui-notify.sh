@@ -8,9 +8,8 @@ dependents=()
 # REPO=""
 
 notify() {
-	msg="**$REPO** dependents:\n$1"
 	curl -X POST -H "Content-Type: application/json" -d '{
-    	"content": "```diff\n'"${msg//$'\n'/\\n}"'\n```"
+    	"content": "'"**$REPO** dependents:"'```diff\n'"${1//$'\n'/\\n}"'\n```"
 	}' "${WEBHOOK_URL}"
 }
 
