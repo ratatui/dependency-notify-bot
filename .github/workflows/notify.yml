@@ -24,12 +24,19 @@ jobs:
       - name: Install github-dependents-info
         run: pip install -U github-dependents-info
 
-      - name: Update
+      - name: Notify ratatui dependents
         shell: bash
         run: ./ratatui-notify.sh
         env:
-          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
-          REPO: ${{ secrets.REPO }}
+          WEBHOOK_URL: ${{ vars.WEBHOOK_URL }}
+          REPO: ${{ vars.RATATUI_REPO }}
+
+      - name: Notify tui-rs dependents
+        shell: bash
+        run: ./ratatui-notify.sh
+        env:
+          WEBHOOK_URL: ${{ vars.WEBHOOK_URL }}
+          REPO: ${{ vars.TUI_RS_REPO }}
 
       - name: Commit
         run: |

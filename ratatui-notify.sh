@@ -2,14 +2,15 @@
 
 set -e
 
-file="dependents.txt"
+file="$(basename "$REPO").txt"
 dependents=()
 # WEBHOOK_URL=""
 # REPO=""
 
 notify() {
+	msg="**$REPO** dependents:\n$1"
 	curl -X POST -H "Content-Type: application/json" -d '{
-    	"content": "```diff\n'"${1//$'\n'/\\n}"'\n```"
+    	"content": "```diff\n'"${msg//$'\n'/\\n}"'\n```"
 	}' "${WEBHOOK_URL}"
 }
 
