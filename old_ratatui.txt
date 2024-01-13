@@ -970,7 +970,6 @@ kaubu/future-os
 kdash-rs/kdash
 kddkdd/tgi-demo
 kdheepak/game-of-life
-kdheepak/ratatui-macros
 kdheepak/ratatui-utils
 kdheepak/taskwarrior-tui
 keagud/gptui
@@ -1247,6 +1246,7 @@ rainshowerLabs/blutgang
 ranjeethmahankali/ftag
 ras-drive/weather-tui
 ratatui-org/async-template
+ratatui-org/ratatui-macros
 ratatui-org/templates
 ratatui-org/website
 raulbethencourt/el-cartero
@@ -1338,6 +1338,7 @@ sgj123456/chinese_dictionary_tui
 sgrimee/webex-tui
 sharithg/lack
 shawnharmsen/foundry
+shellrow/netpulsar
 shigepon7/aerostream
 shirecoding/yggdrasil
 shitamachi/v2ex-terminal
