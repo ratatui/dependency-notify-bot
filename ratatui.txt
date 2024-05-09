@@ -1804,6 +1804,9 @@ lusingander/cargo-selector
 lusingander/stu
 lusingander/termbf
 luukvanderduim/statspi
+lwd-temp/atuin
+lwd-temp/nushell
+lwd-temp/veloren
 lxl66566/beatmap-downloader
 mWalrus/tood
 mWalrus/tui-utils
@@ -2557,6 +2560,7 @@ vitali2y/json_viewer
 vitdevelop/brian
 vitordeoliveira/hello-ratatui
 vitordeoliveira/ratatui-counter-app
+vitordeoliveira/ratatui-counter-async-app
 vitordeoliveira/ratatui-json-editor
 vlad-onis/command_organiser
 vm910/tui-mutagen-solver
