@@ -231,7 +231,6 @@ Al3c5/snarkOS
 AlanForester/snarkOS
 AleksanderEvensen/cfd
 AleksanderGondek/diskonaut
-AleoNet/snarkOS
 AleoXofficial/AleoXMiner
 Alevsk/openapi-fuzzer
 Alex222222222222/rgames
@@ -1382,7 +1381,6 @@ Kibouo/tui-logger
 KimberleyCook/spotify-tui
 Kindhearted57/diem
 Kindhearted57/move
-Kingtous/RustPlayer
 KinoThe-Kafkaesque/munin
 KireevskiyGleb/aptos-core
 KirisakiAria/aptos-core
@@ -1719,12 +1717,10 @@ MuhannadAlrusayni/dioxus
 MuharremOkutan/veloren
 Mukul115/playit-agent
 MuneebRabaney/spotify-tui
-Munksgaard/prss
 Musashi7/vector
 Mutate-Labs/aptos-core
 Mvmo/letter
 MyBigKnowledgeBase/nushell
-MystenLabs/sui
 Mythbusters123/rtfm
 N48LL/tui-rGTP
 NCrashed/eclair-tortoise
@@ -3097,7 +3093,6 @@ aproposload619/tari
 aprzn123/evertu
 apscan/indexer
 aptos-labs/aptos-api-key-examples
-aptos-labs/aptos-core
 aptos-labs/move
 aptos-rabbit/aptos-smartcontracts-boilerplate
 aptosis/aptos-toolkit
@@ -3129,7 +3124,6 @@ arkadiuszsz/fluence
 arkark/git-hist
 arkbig/mntime
 arkbig/throbber-widgets-tui
-arknave/chip8
 aromeronavia/jira-tui
 aromeronavia/spotify-tui
 aromeronavia/spotuify
@@ -3747,7 +3741,6 @@ coal-rock/gome
 coastalwhite/lemurs
 cobbles/rust-demo
 cobrakin37/aptos-core
-cocobot/eurobot-base
 cocodee/vector
 codabrink/aquinas
 codabrink/market-bomb
@@ -4616,7 +4609,6 @@ fezboy/spotify-tui
 ff1bit/tickrs
 fhaynes/backertrack
 fiatleak/aptos-core
-figsoda/mmtc
 fiinnnn/spotify-tui
 fil303/file_manager_rust_cli
 filaretov/arduino_nano_imu_plotter
@@ -4689,7 +4681,6 @@ fortgo/bandwhich
 fossabot/clock-1
 fossabot/fontfor
 fossabot/rust-battery
-foundry-rs/foundry
 foxfriends/climb
 foxfriends/joshuto
 foxxnuaa/vector
@@ -5235,7 +5226,6 @@ iamsingularity/spotify-tui
 iamyourexpert/vector
 ian-moody/Duckception
 ianAndrewClark/veloren
-ianfabs/cereal
 ianoc/bazel-fe
 ianoc/bazelfe
 ianrrees/cargo-embed
@@ -5784,7 +5774,6 @@ jtdavey/metrics
 jtgeibel/console
 jthornber/device-mapper-test-suite-2
 jthornber/dm-unit
-jthornber/thin-provisioning-tools
 jtickle/learn-rust-cards
 jtriley-eth/foundry
 juan88/sexe
@@ -5850,7 +5839,6 @@ kamadorueda/alejandra
 kamenpopov/svchat
 kamilWyszynski1/data-tracker
 kamiyaa/dizi
-kamiyaa/joshuto
 kamiyaa/tsuchita
 kamkow1/m
 kangqian623/snarkOS
@@ -6037,7 +6025,6 @@ kpreid/all-is-cubes
 kquirapas/foundry-hammer
 kquirapas/pom-tui
 kquirapas/rust-pomodoro-tui
-krABMaga/krABMaga
 krgainer/Bank-of-Rust
 krgn/snorkel
 kris524/aptos-core
@@ -6201,7 +6188,6 @@ lewisdiamond/reactiontime
 lewisdiamond/rms
 lexfrl/diem
 lf-/dev-suite
-lf-/dotfiles
 lflxp/showme-rs
 lfordyce/tonic_broadcast
 lg31415/vector
@@ -6295,7 +6281,6 @@ lovesegfault/crate2nix
 loveyang2012/vector
 lparcq/procmon-oprs
 lpil/archive
-lpil/lpil
 lpil/nushell
 lpraneis/aranet4-dashboard
 lqpl38/aptos-core
@@ -6701,7 +6686,6 @@ mind1949/practical_system_programming_for_rust_developers
 minerdao/snarkOS
 minezeratul/music-player
 mingnus/dm-unit
-mingnus/thin-provisioning-tools
 minhchauyds1996/starknet
 miniBill/nixpkgs
 minicheddar/crypto-stream
@@ -7240,7 +7224,6 @@ oranellis/mmm
 orangeant/Practical-System-Programming-for-Rust-Developers
 orangejyc/gping
 oraoto/systeroid
-orf/gping
 orgTestCodacy11KRepos110MB/repo-2939-starcoin
 orgTestCodacy11KRepos110MB/repo-3021-nushell
 orgTestCodacy11KRepos110MB/repo-4861-darkfi
@@ -7249,7 +7232,6 @@ orgTestCodacy11KRepos110MB/repo-6652-matrix-rust-sdk
 orgTestCodacy11KRepos110MB/repo-9021-vector
 orgTestCodacy11KRepos110MB/repo-9527-speki
 orguetta/vector
-orhanbalci/rust-steering-behaviors
 orhanbalci/tunik
 orhun/atuin
 orhun/cicero-tui
@@ -7776,7 +7758,6 @@ renegade-fi/renegade-contracts
 reniowood/tui-2048
 renlichao3/aptos-core
 renovate-tests/tools
-replydev/cotp
 repoarchiver/gping
 repos-rust/bottom
 repos-rust/gitui
@@ -8565,7 +8546,6 @@ stanos/color_tui
 stanxii/veloren
 starcoinorg/diem
 starcoinorg/move
-starcoinorg/starcoin
 starcoinorg/starcoin-jsdk-monorepo
 starklyappose/tari
 starnodes/aptos-core
@@ -8719,7 +8699,6 @@ syllogy/vector
 sylvia-ou/netcheck
 sym233/terminal-game
 synchro-driver/synchro.rs
-synchronal/dyd
 synek317/tuja
 synnoveolsdatter/todo.rs
 synsa/spotify-tui
@@ -9381,7 +9360,6 @@ wilbeibi/spotify-tui
 wilhow/vector
 will-ing/plop-tui
 willeslau/move
-willhug/gg
 williamtetlow/rsnake
 willief/vdash
 willir/gitui
