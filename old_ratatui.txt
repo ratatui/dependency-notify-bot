@@ -3,7 +3,6 @@
 0b-s3rv3r/kioto
 0b-s3rv3r/tui-pattern-highlighter
 0x152a/three-body-game
-0x4E43/rust-ui
 0x4ndy/pomidor
 0x5844/mirage
 0x69pi/apexlegends_kvm
@@ -1239,7 +1238,7 @@ abhirajputnikku7/nixpkgs
 abhishek-kar-greyamp/monitoring-platform
 aburg/pkmnt
 abusch/sinuous
-acesnofleirbag/dbclient
+acesnofleirbag/dbc
 acheronfail/repgrep
 achillesdawn/geonodes-bake-tool
 achristmascarl/rainfrog
@@ -2718,6 +2717,7 @@ nigelloppie/typing_game
 niklastreml/gitlab-tui
 nimaaskarian/c3
 nimaaskarian/jou
+nimaidev/rust-ui
 nine-point-eight-p/x86-qemu-fuzzer
 nineonine/gcviz
 nionata/statsd-monitor
@@ -3449,7 +3449,6 @@ verbasu/servmantui
 vercel/turbo
 verdant621/text-generation-inference
 veryshyjelly/mnist_classification_burn
-vexide/pros-simulator
 vhsconnect/basmati
 vic1707/rens
 vicanso/diving-rs
