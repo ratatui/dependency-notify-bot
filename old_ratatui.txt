@@ -1809,6 +1809,7 @@ dasassygoat/ratatui_counter
 dasassygoat/ratatui_hello_world
 dashpay/platform-tui
 data-niklas/os
+datafusion-contrib/datafusion-tui
 datskos/rollup-tui
 dav-wolff/journal
 dav-wolff/nixpkgs
@@ -2725,6 +2726,7 @@ matoanselmo/password_manager_rust
 matrix-org/matrix-rust-sdk
 matta/joinery
 matta/sift
+matteo-luraghi/linutils
 matter-labs/foundry-zksync
 matthewelse/red
 mattheworris/rlt-poc
