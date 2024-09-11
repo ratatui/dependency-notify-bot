@@ -426,6 +426,7 @@ FelixFern/tetrs
 FilipKon13/speedtype
 Filo6699/rpg
 FizzyApple12/TankCommander
+FlowDeskMarkets/vector
 Flowneee/etcd-tui
 Fluzko/irm
 FormidableLabs/envy-tui
@@ -750,7 +751,6 @@ LordCasser/IKnow
 LordFoom/rashcard
 LordFoom/rrss
 LordGoatius/tui_chess
-LostPieceUniverse/FlashMindForge
 LouisAndrew/fsr
 LouisMary008/FOUR
 LrsNate/timer-rs
@@ -1032,6 +1032,7 @@ SMKJ42/ml_stock
 SNIAPA/dechat
 SOF3/lpl
 SOF3/plotters-ratatui-backend
+SRabia/crb-alarm
 SRabia/fed-chat
 SSJDeathSpawn/eq-solver
 SSebigo/rust_mini_projects
@@ -1265,6 +1266,7 @@ VasyaPRO/sound-analyzer
 Vazpera/Character-Info-TUI
 Vazpera/VazPU
 Vazpera/ratatui_experiments
+Vazpera/rust
 Vazpera/supermarket
 Veethikyn/exam-grading
 Venomxd27/Ratype
@@ -1380,7 +1382,6 @@ ad-ops/monorust
 adabarx/bespoke-ed
 adam-jw-casey/sniper
 adameza/unix-settings-tui
-adamperkowski/rldash
 adamse/c
 addisoncrump/sokoban-fuzz
 adradan/yate
@@ -1846,7 +1847,6 @@ dagle/qb
 daijikaijuu/playground
 dajde/pq_chat
 dallosmpg/tidal-tui
-dan-kc/editor
 dandels/dmodman
 dangerous-frog/nano-helper
 danhper/eclair
@@ -2015,7 +2015,6 @@ ekxide/iceray
 elbaro/downtown
 electrototo/rusty-ec2
 elel-dev/tocker
-elianmanzueta/spotifystats
 eltsu7/todo
 emilevr/space
 emily33901/remote
@@ -2209,7 +2208,7 @@ gosub-io/dive
 gosub-io/poc-taffy
 gparmer/participation
 graelo/pumas
-grampelberg/kuberift
+grampelberg/kty
 gran-software-solutions/tui-router
 graydon/submerge
 greged93/proof-of-exploit
@@ -2565,6 +2564,7 @@ jrivers-iclass/rust-aws-sso-tui
 jrmoulton/probe-rs
 jrmoulton/tmux-sessionizer
 jrobsonchase/bevy_mud
+jrschmidt/gb80-console-rust
 jscarrott/wyrcan
 jteer/powertop
 jthomme1/tress
@@ -3095,6 +3095,7 @@ oalders/dependaboard
 oberien/binmerge
 obliviouslabs/oblivSparseMPT
 ocfox/ventora
+oiwn/redb-tui
 olaitanade/RustBattleshipGame
 olidacombe/tuiscope
 oligamiq/crypto-rng-verification
@@ -3267,6 +3268,7 @@ pythops/tuix
 qlurkin/synthesizer
 qompassai/Equator
 qsiandre/ts-reg
+quackzar/calicomp
 quanguanlangze/new_new_exam
 quantumsheep/sshs
 quffaro/wyd
@@ -3350,7 +3352,6 @@ robertgshaw2-neuralmagic/blora-text-generation-inference
 robertpsoane/ducker
 robfalken/gittd
 robgonnella/r-lanscan
-robinvolf/tuimer
 robjtede/inspect-cert-chain
 robn/veneer
 robo-corg/porgi
@@ -3365,7 +3366,6 @@ ronhass/stick
 ropez/hitman
 rosako/sl0w-rust
 rossedwards64/typing-test
-rottedfm/tabv
 rowan-sl/dmm
 rrecalo/algo-visualizer
 rromanowicz/nordvpn-tui
@@ -3531,8 +3531,6 @@ siddhantrao23/yudi
 sidsabh/oh-queue
 sigma-andex/tiny-transformer
 sigoden/projclean
-sigurdo/test-ratatui
-sigurdo/upaint
 sile/erldash
 sile/sorastats
 silvasch/tuidocs
@@ -3752,6 +3750,7 @@ tomgroenwoldt/new-keyglide
 tomsanbear/bitnet-rs
 tomsik68/weather-clock
 tonychg/budget
+tonytech83/linux-menu
 toolbisoftware/project-template
 topaxi/tirc
 torinmr/tetris
