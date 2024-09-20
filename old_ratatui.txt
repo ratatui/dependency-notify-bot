@@ -30,6 +30,7 @@
 1337isnot1337/discord-bot
 1337isnot1337/roulette
 149segolte/carton
+16arpi/meteo-tui
 17999824wyj/exam-grading
 17999824wyj/test-post
 1906353110/exam-grading
@@ -63,6 +64,9 @@
 996666925/exam-grading
 9LLPPLL6/exam-grading
 9elt/youtube-cli
+A-SunsetMkt-Forks/atuin
+A-SunsetMkt-Forks/nushell
+A-SunsetMkt-Forks/veloren
 AAspCodes/sr-rs
 AFLplusplus/LibAFL
 ALaggyDev/nc8-mainframe
@@ -298,6 +302,9 @@ D0liphin/Testnice
 DAC098/RFS
 DJ0301/foundry-personal
 DMLhope/hecto-demo
+DZappala/json-editor
+DZappala/pomo
+DZappala/ratatui-counter
 Dah-phd/idiom
 DanBlackwell/DGFuzz
 DanBlackwell/PrescientFuzz
@@ -936,6 +943,7 @@ PainStaker0331/dioxus
 Panda-Boi/terminal-tac-toe
 PapyKahan/rhap
 Paradox-Cat-GmbH/text-generation-inference
+Passeriform/BalatroTUI
 PatrickLerner/escrit
 Patryk27/kartoffels
 PaulHerk/matrix-client
@@ -1100,6 +1108,7 @@ ShirleyChung/cata_cel
 Shirotha/rusty-awa
 Shnob/powershell-bookmarker
 Shopify/nixpkgs
+Shresht7/hex-ray
 ShreyJ1729/termcall
 SiddharthShyniben/flux
 Sidharth-Singh10/goal
@@ -1160,9 +1169,6 @@ Strawberry-Foundations/cranberry
 Subwoof01/cli-task-board
 SummerRolf/mev-rs
 SundaeSwap-finance/gastronomy
-SunsetMkt/atuin
-SunsetMkt/nushell
-SunsetMkt/veloren
 SupaMaggie70Incorporated/terrace-game
 Super-JK/radiorecord-tui
 SuperSandro2000/nixpkgs
@@ -1347,6 +1353,7 @@ Xithrius/tui-dashboard
 Xithrius/twitch-tui
 Xithrius/weather-tui
 Xobtah/ratatui-crossterm-template
+YBonnemay/dirplayer
 YJDoc2/LogRocket-Blog-Code
 YS-L/csvlens
 YS-L/flamelens
@@ -1511,6 +1518,7 @@ anikiandy/disco_hooker
 anishakd4/hello-ratatui
 anmalkin/tui-blackjack
 anmol1115/Sudoku-TUI
+annurdien/maca
 anshsarkar/text-generation-inference-010-deployment
 anthonyamaro15/file-finder-rust
 antimora/face-onnx
@@ -1957,6 +1965,7 @@ desonglll/nanogpt-burn
 detypstify/detypstify
 dev-michal-skiba/workout-timer
 devUserContact/sreader_tui
+devactivity/ai_chat
 devactivity/m-player
 devactivity/puzzle_game_tui
 devactivity/random_adventure_generator
@@ -2024,6 +2033,7 @@ dsal3389/toodu
 dsipasseuth/rusty-chip8
 dsmtE/wiper
 dsolerh/rust-code-samples
+dstoc/zellij-halp
 dtwiers/cargo-wizard
 duckfromdiscord/mljtui
 durbanlegend/thag_rs
@@ -2754,7 +2764,6 @@ ksk001100/picterm
 ksk001100/tui-template
 kstepanovdev/fbmark_v2
 ktt-ol/ktt-shopsystem
-kui04/chopsticks
 kumudiaorong/easycfg
 kumudiaorong/rv-simulator
 kurtlawrence/ivly
@@ -3035,6 +3044,7 @@ mrdg/unsound
 mrjackwills/oxker
 mschuwalow/nixpkgs
 mseok/jupyter-tui
+msharipov/minimodal
 mskasal/check_daily
 mslauson/lazycurl
 msminhas93/hacker_pulse
@@ -3104,6 +3114,7 @@ ngraham20/speedylemon
 nguyenquocuong/raws
 nialov/nixpkgs
 nibon7/clap_complete_nushell
+nicelgueta/cdktr
 nicholasraphael/dsh
 nick-child-ibm/nipa-results
 nick42d/ratatuirepro
@@ -3371,7 +3382,6 @@ rage/tmc-cli-rust
 rahul-korthiwada/jalleda
 rainshowerLabs/blutgang
 rajivpo/hyperliquid-cli
-ralaethepayfs/linutil
 ralexstokes/mev-rs
 ralphbean/logging-vector
 ralphmb/rust_tui_calc
@@ -3560,6 +3570,7 @@ scorpion-26/rkbuild
 scott223/tmPoller
 scroll-tech/rust-interview
 scuderia-fe/lsp-manager
+sdsc-ordes/fuzon
 seal/speed-test
 seancraven/delta_db
 seanec327/nixpkgs
@@ -3789,6 +3800,7 @@ terajot/terajot
 tertsdiepraam/hexview
 test295804367/tui-plotter
 testfailed/nushell
+tesujimath/gitmoto
 tetsugakusha256/key-viewer
 tezos/tezos-mirror
 th-duvanel/nu_pack
