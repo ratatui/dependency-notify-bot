@@ -26,7 +26,6 @@
 0xicl33n/obsidian
 0xphen/wyre
 0xricksanchez/AFL_Runner
-0xurb/reth-exex-plugin
 0xurb/reth-exex-template
 112buddyd/stew
 1337isnot1337/discord-bot
@@ -107,6 +106,7 @@ Alex-Gilbert/actuire
 Alex-Programs/netcheck
 AlexScriba/local_paperclips
 AlexTDWilkinson/Nail
+AlexanderARodin/vimo-game
 AlexanderHieser/clever
 AlexanderMaxRanabel/ganymede
 AlexanderReaper7/reapers-wf
@@ -206,6 +206,7 @@ BipulLamsal/onlinekhabar-tui
 Biscgit/docker_rash
 Biscgit/rustword_manager
 BiswajitThakur/host-rs
+Bitwardenoff/bitwarden-russh
 BlKlShip/apexsky
 BlackRavenoo/todo-app
 Blourvim/LicessCliRust
@@ -537,6 +538,7 @@ HannesFeil/regex-playground
 HannesFeil/totui
 Happyigr/Blind-typing
 HappyySunshine/Rufuf
+Harmonyblue/nixpkgs
 Harsith27/project50
 HasChad/cli-pipes
 Hashino/navfs
@@ -725,8 +727,6 @@ Kl4rry/ferrite
 Knight-Ops/kaggle-space-titanic
 Kobayashi-takumi/dancing-gopher
 Kodylow/learn-burn
-Konnektoren/konnektoren-rs
-Konnektoren/konnektoren-web-tui
 Kromzem/rusty-nes
 Kryszak/penny
 Ktwsz/rustbonsai
@@ -1025,6 +1025,7 @@ PythonHacker24/rust-development
 QU4SIMOTO/sudoku
 Qasura-H/gitui
 Qasura-H/turbo
+Quarmire/constellations
 QueenOfDoom/Wenchou
 Quessou/qsspodcasts
 Questiero/Rust-projects
@@ -1156,6 +1157,7 @@ SkyyZe/apexdma
 Slap-Slang/physics_engine_2d
 Slava0135/N3onDiff
 SleepySwords/do_todo
+Snowman524/Vector_master
 SoapyDev/holla
 SofiiaVarich/konnektoren
 Solarcode-org/Centauri-Code-Editor
@@ -1323,7 +1325,6 @@ UPB-RustWorkshop/ratatui-apr2024-dragos-gheorghioiu
 UPB-RustWorkshop/ratatui-apr2024-vlad-acs
 UZ9/gt-tracker-rs
 UmtERTS/what
-UncertainSchrodinger/molokki
 UncleScientist/rataclock
 UncleScientist/slowpoke
 UnkwUsr/nctok
@@ -1464,6 +1465,7 @@ abusch/sinuous
 acheronfail/repgrep
 achillesdawn/geonodes-bake-tool
 achristmascarl/rainfrog
+acrlabs/simkube
 ad-ops/monorust
 adabarx/bespoke-ed
 adam-jw-casey/sniper
@@ -1540,7 +1542,6 @@ amorriscode/pasta
 amorx1/cal-tui
 amorx1/old-relic
 amothm80/spacetraderio
-amrbz/1Prefix
 amtoine/nu_plugin_explore
 amtoine/nu_plugin_tui_template
 anas-contribs/gpg-tui
@@ -1723,6 +1724,7 @@ bitswired/blitzkey
 bitwarden/bitwarden-russh
 bixia/foundry-verify2
 bjoernQ/esp-generate
+bjohnson5/blast
 bjornrun/tgi-gaudi-fixed
 bjornrun/tgi-gaudi-fixed-llama3.1
 bktech2021/abacs
@@ -2045,6 +2047,7 @@ dhonus/jellyfin-tui
 dhruvmehtaaa/Positivity-Exchange
 diamondAlex/chess_rust
 diblan/othello
+diegostafa/rrss
 dim0sh/burn_nannou_mnist
 dimfeld/smelter
 diondokter/induction-heater
@@ -2715,6 +2718,7 @@ junkdog/glim
 junkdog/tachyonfx
 jussisaurio/kas-santra
 justinDeu/chatty
+justinfrevert/zkvm-gadget
 jw/brt
 jwiegley/nixpkgs
 jwodder/nhmoon
@@ -2811,6 +2815,8 @@ knoxy5467/a-better-notion
 kobaltcore/renkit
 kod-kristoff/ancestors-playground
 koki-morino/labs
+konnektoren/konnektoren-rs
+konnektoren/konnektoren-web-tui
 konradsz/igrep
 korgrunt/COURS
 kostek001/pkgs
@@ -2835,6 +2841,7 @@ ksk001100/picterm
 ksk001100/tui-template
 kstepanovdev/fbmark_v2
 ktt-ol/ktt-shopsystem
+kuglimon/molokki
 kurtlawrence/ivly
 kuutamolabs/kld
 kworkflow/patch-hub
@@ -4003,6 +4010,7 @@ tuidocs/tuidocs
 tw0ten/mousikes
 tweag/nixpkgs
 twhice/learn-deep-learning
+twinexyz/sp1-prover-execution-extension
 twitchax/kord
 twizmwazin/trivial-fuzzer
 twvd/snow
