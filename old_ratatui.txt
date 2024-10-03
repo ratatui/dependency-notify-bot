@@ -26,6 +26,7 @@
 0xicl33n/obsidian
 0xphen/wyre
 0xricksanchez/AFL_Runner
+0xurb/reth-exex-plugin
 0xurb/reth-exex-template
 112buddyd/stew
 1337isnot1337/discord-bot
@@ -95,6 +96,7 @@ AfaanBilal/sorting-visualizer
 AgustinBadi/Quest
 AidoP/bluemetal
 Airor4/chash-client
+Ajalsr/rust-todo-list
 AkkuRam/chess
 Al3x-G/rustlings
 AlMrvn/arxivlens
@@ -158,6 +160,7 @@ ArtiomTr/os
 AsherJingkongChen/Gausplat
 AsherJingkongChen/simple-nerf-rust
 Ashfmate/runimanga
+Asice-Cloud/tz-rust
 AsriFox/rat-editor
 Astroboyjj/BunniesGame-Rust
 AsyncEgg/basic_player
@@ -502,8 +505,6 @@ Gnarlsley/weather_util_test_1_1
 Gnarus-G/maccel
 Gobeyn/crust
 Gobeyn/dumpling
-Godel-bach/sudoku
-Golzeb/noita_graveyard
 GomesGoncalo/gameoflife
 GoodBoyNeon/sprofile
 Goose97/terminal-guitar-tuner
@@ -702,7 +703,7 @@ KaranveerB/pacdedep
 KarlHeitmann/rails_explorer
 Karta775/rtftui
 KasarLabs/deoxys-tui
-Kaucrow/SimpleProjects
+Kaucrow/simple-projects
 Kazik24/hashsummer
 KekmaTime/IronKey
 KennethPrice288/sudoku_solver
@@ -947,6 +948,7 @@ OlofMoriya/todo-tui
 OmerJauhar/server
 OneOfOne/swtormeter
 Optics-Boss/leosys
+OptimisticPeach/cs251simulator
 OrigamiDream/text-generation-inference
 Osakana-pichipichi/yahtzee
 Otard95/rudis-tui
@@ -1078,7 +1080,6 @@ RonDeBen/rustic
 RonsBrain/gcribbage
 RooSoft/project_commander
 Rubenduburck/rgpt
-Rubystar730/foundry
 RustLoverTheCoder/test-cms
 RustamIrzaev/rust-guess
 RustySnout/rustysnout
@@ -1172,8 +1173,6 @@ Spagett1/GLauncher
 SpeedyGo55/terminal_weather
 Spiryd/leprechaun
 SpringHan/hire
-Spyder337/libtui
-Spyder337/ratatui-template
 Srynetix/qx
 Srynetix/sshh
 StableCrimson/pokemon-api-rs
@@ -1349,6 +1348,7 @@ VergeDX/nixpkgs
 VerifiedFemboy/Noters
 VerifiedFemboy/Soluna
 VerifiedFemboy/music-player-tui
+VerifiedFemboy/websocket-chat
 Vesulius/gitgre
 VicAlexandre/6502-rs
 VicVerevita/rust-json-editor
@@ -2137,6 +2137,7 @@ ekxide/iceray
 elbaro/downtown
 electrototo/rusty-ec2
 elel-dev/tocker
+elianmanzueta/spotifystats
 eltsu7/todo
 emilevr/space
 emily33901/remote
@@ -3426,6 +3427,7 @@ presento-rs/presento
 pretzelhammer/chat-server
 prezeswastaken/rust-todo-cli
 pricelessjunk/nerd-retro
+probablySophie/todoria
 probe-rs/embedded-test
 probe-rs/probe-rs
 programatik29/rewrk-tui
@@ -3566,7 +3568,6 @@ ronhass/stick
 ropez/hitman
 rosako/sl0w-rust
 rossedwards64/typing-test
-rottedfm/ratatui-template
 rottedfm/tmenu
 rowan-sl/dmm
 rrecalo/algo-visualizer
@@ -3724,7 +3725,7 @@ shengdaozm/exam
 shenlebantongying/ArtifactCabinet
 shigepon7/aerostream
 shinedog/nixpkgs
-shiori-unconscious/livox-lidar-rs
+shioko-chan/livox-lidar-rs
 shirecoding/yggdrasil
 shitamachi/v2ex-terminal
 shivajreddy/my_rust
@@ -4017,6 +4018,7 @@ twvd/snow
 txtx/txtx
 tylermaran/terminus
 u240/bandwhich
+u7f8au7fbd/aranea
 u7f8au7fbd/mc_sync_tui
 uTkArShVeRm4/rust-todolist
 uberFoo/dwarf
@@ -4262,6 +4264,7 @@ zachcoyle/bookshelf
 zachcoyle/callisto
 zaghaghi/openapi-tui
 zalupa35/tui-calculator
+zanderlewis/zanderlewis-card
 zaphodb2002/bigterm
 zchira/librecast
 zchira/tui-textbox
