@@ -230,6 +230,7 @@ Brod8362/phasmoterm
 BrowserSync/bslive
 BruceChen7/case-study
 Brudihawo/wd
+Bryntet/analyzing-vpn-traffic
 Builditluc/wiki-tui
 Bull-Goose-Looney/rust-text-editor
 Byron/dua-cli
@@ -252,6 +253,7 @@ CameronBarnes/valve_log_viewer
 Cantido/casino
 CarbonFlora/sli
 CarlosCRG19/cube
+Catfish1210/rustySocket
 CeNiEi/hexagon
 ChangedNameTo/DoIt-rs
 ChangqingW/SeqSizzle
@@ -319,6 +321,7 @@ DMLhope/hecto-demo
 DZappala/json-editor
 DZappala/pomo
 DZappala/ratatui-counter
+Dagunov/tool-exiftool
 Dah-phd/idiom
 DanBlackwell/DGFuzz
 DanBlackwell/PrescientFuzz
@@ -477,6 +480,7 @@ Furiousslave/rustgram
 FuzzingLabs/sui-fuzzer
 GDSC-IIIT-Kalyani/fictional-waffle
 GHAUTHAM2509/cli-rpg-ghautham2
+GHaxZ/brb
 GIP2000/email-tui
 GQAdonis/burn_the_candle
 GRBurst/rust-burn-dev
@@ -494,7 +498,6 @@ Galus/rust-edu
 GaoXiangYa/exam-grading
 Gargafield/kingdom-crisis
 Gaunah/game_of_life
-Gecko-Security/gecko-fuzz
 Geostartico/webcam_tui
 Gerrit15/ponder
 GiancarlosIO/ratatui-counter-app
@@ -708,6 +711,7 @@ Karta775/rtftui
 KasarLabs/deoxys-tui
 Kaucrow/simple-projects
 Kazik24/hashsummer
+Kazooki123/LunarDB
 KekmaTime/IronKey
 KennethPrice288/sudoku_solver
 Keterion/tag_database
@@ -824,6 +828,7 @@ MariaSolOs/binocular
 MarioHabor/cli_pass_manager_rs
 Marlstar/FileExplorerTUI
 Martinits/heart7
+Marvin-Dziedzina/tipp10w
 MarvinTheMoodLifter/horme
 Marwan-lord/terminal-json-editor
 MasterHarun/BlockBash
@@ -845,6 +850,7 @@ Meph1sto666/horizon
 MercuryTechnologies/ghciwatch
 Meziu/fierceful-atto
 MichaelOwenDyer/Blackjack
+MichaelOwenDyer/poker
 Micro-ATP/exam-grading
 Mikeost/github-profile-explorer
 Milind220/Baud
@@ -896,12 +902,14 @@ NEWSLabNTU/pcd-tool
 NFTbfs/Rust-template
 NIWC-Intern-Team/Blank-NET
 NJUPT-SAST/aurora-ui
+NQMVD/zeox
 Nandinski/tic-tac-toe
 Narayanbhat166/blazer
 Narfinger/TheoryGrabber
 Narfinger/job-data
 NateSeymour/pz-server-manager
 NeViRAIDE/neviraller
+NegrilaRares/ScryXPNG
 Neptune-Crypto/neptune-core
 Neptune-Crypto/neptune-explorer
 Nerkled/ratatui-counter-app
@@ -926,6 +934,7 @@ Nithiya2021/vector
 Nithiya2021/vectormpl
 NixOS/nixpkgs
 NormanStansfield/binllion
+North-West-Wind/cls
 NotA0ua/pomodoro-tui
 NotA0ua/todo-tui
 Nukesor/game-saver
@@ -1070,6 +1079,7 @@ Rinyaresu/notecli
 RioKato/libafl-sample
 Ripper53/RustySchedule
 Ritvik-Gupta/watch-rs
+Ritzier/rust
 Rjected/execution-payload-builder
 Rjected/storage-changes-exex
 RoastBeefer00/rmatrix
@@ -1290,6 +1300,7 @@ TiregeRRR/kyors
 Tobhal/hiof-oop-rust
 Toerktumlare/who
 TomCanTech/rust_ucd
+TomMcPh/BedwarsStats
 TomasZlamal/tex_cli
 Tommy-ASD/playground
 TommyAmberson/ember-rs
@@ -1318,6 +1329,7 @@ TylerBloom/avid-rustacean
 TylerBloom/specte-rs
 TylerBloom/webatui
 Tyrannican/neomod
+UDAIOT1000/burn_udaiot1000
 UMDBPP/PacketRaven
 UPB-RustWorkshop/ratatui-apr2024-CAmi307
 UPB-RustWorkshop/ratatui-apr2024-Darius-Constantin
@@ -1415,6 +1427,7 @@ YeongCheon/ycchat-cli
 YesSeri/dataman
 YoEight/raft-playground
 Yohannnn/wordle_tui
+YoungHaKim7/rust_TUI_ratatui_Training
 YousefEZ/space-traders
 YoutacRandS-VA/gitui
 Yucklys/wudao
@@ -1483,12 +1496,13 @@ afkNewt/Hundred-Days
 agl-alexglopez/maze-tui
 agneum14/gridkid
 ahmedaabouzied/rlogmine
-aida0710/Sechack-365-project
+aida0710/ip-reassembly
 aidanbossart/fenrir
 aihphysics/isspanel
 ajensen1234/shell3d
 akarsh1995/leetcode-tui
 akasprzok/temporary_hack_rs
+akatsuki-no-kage/sql-race
 akazdayo/MathGame-Rust
 akesling/callisto
 aki-masaki/rust-file-manager
@@ -1536,6 +1550,7 @@ alphastrata/nvtop-rust
 altsem/gitu
 alvaromagu/rtop
 alvarowm/brickchunkgame
+alvindimas05/AMDHelper
 am009/LibAFL-SBFT24
 amassa22/terminal_arena
 amatagonsk/klok
@@ -1662,6 +1677,7 @@ azenna/third-eye
 azerupi/bwlat
 azorng/material
 azthec/playground
+b-n/finnit
 b0wter/shellbooks
 b1rger/typelerate
 babak-kh/restopher
@@ -1904,7 +1920,9 @@ commune-ai/redvblue
 conner-s/football_rs
 connorwyatt/hangman-rust
 coopdloop/tui-testing-rs
+copper-project/copper-rs
 coratgerl/zig-ratatui
+corbanvilla/icsquartz-ndss2025
 corporealshift/chat-gpr
 corysabol/Framer
 corysabol/aif
@@ -2115,6 +2133,7 @@ dvessey/rusty_terraform_wizard
 dvush/prfrh
 dweatherstone/one_deck_dungeon
 dylan-stark/aic-tui
+dylanfair/checklist
 dylanowen/display-board-pi
 dzania/Rue
 ealayoub/raino-scan
@@ -2399,10 +2418,8 @@ harshvishu/tournal
 hasnum-stack/registry-admin
 hatoo/oha
 hatoo/oha-release-test
-haunt98/gitui
 hauntedhost/boo-rs
 hawkw/eclssd
-hayden-donnelly/health-tracker
 haydenflinner/wd
 hayesHowYaDoin/pokedex
 hbuxiaofei/exam-grading
@@ -2446,6 +2463,7 @@ hobbszhou/exam-grading
 hobo1618/kefir
 hobosock/lostship
 hocman2/rust-tcp-chat
+hocnguyen12/ratatui-rustify
 holly-hacker/td
 holochain/holochain
 holzhey/noaa-spc-rss-watcher
@@ -2461,6 +2479,7 @@ hueblu/octyl
 hueblu/octyl-new
 hueblu/tectyl
 huggingface/text-generation-inference
+hughcameron/finetype
 hustler-z/rsdog
 huuff/rust-exercises
 hymm/bevy_mod_console_debug
@@ -2468,6 +2487,7 @@ hyoungjoojin/todui
 hyperb1iss/git-iris
 hyprland-community/MonitorMaestro
 iCraft85/FXplorer
+iKadmium/sacn-neewer-lite
 iKineticate/LinkEcho
 iamdb/hifi.rs
 iceseyes/worm
@@ -2757,6 +2777,7 @@ katanallama/moodl-rs
 katekorsaro/budgr-tui
 katlasik/wordle
 kaubu/future-os
+kazuhideoki/calendar-notice
 kcajeel/music-library
 kdash-rs/kdash
 kddkdd/tgi-demo
@@ -2853,6 +2874,7 @@ kurtlawrence/ivly
 kuutamolabs/kld
 kworkflow/patch-hub
 kxxt/tracexec
+kyco/termai
 kyoto7250/zhobo
 kyu08/fzf-make
 kyu08/rust-playground_
@@ -2901,6 +2923,7 @@ lexstudio/asdasd
 lf-edge/eve-monitor-rs
 lib-eramen/terminal-arcade
 lielfr/activity-monitor-rs
+like-engels/whisper
 lilhammer111/cycle-gan-burn
 lilhammer111/mnist-burn
 lilyinstarlight/nixpkgs
@@ -2932,6 +2955,7 @@ lparcq/procmon-oprs
 lpylpyleo/bwp
 lthoerner/message-tui
 lthoerner/rush
+luancgs/openvpn-tui
 luannndev/progressbar
 luannndev/todo-list
 luca-iachini/word-runner
@@ -2972,7 +2996,6 @@ m4rch3n1ng/maym
 mWalrus/tood
 mWalrus/tui-utils
 maan2003/humsh
-mac172/rufl
 madara-alliance/madara
 madeofpendletonwool/pinepods-firewood
 madhavan-raja/rest_assured
@@ -3148,6 +3171,7 @@ mterring/canalyzer
 mtodorov95/tuist
 mtvrsh/bulbs-tui
 mudit-51/cli-calender-rust
+mudpuppy-rs/mudpuppy
 mufeez-amjad/stsh
 mugraph-payments/mugraph
 muksee/drust
@@ -3203,6 +3227,7 @@ nenadjakic/memory-rs
 nenikitov/chip-8-emulator
 neo1908/wg-tui
 neoncitylights/ncli
+nestars16/curlman
 network-alchemist/AdGuardian-Term
 neurelo-public/neurelo-api-examples
 nevivurn/nixpkgs
@@ -3217,6 +3242,7 @@ nialov/nixpkgs
 nibon7/clap_complete_nushell
 nicholasraphael/dsh
 nick-child-ibm/nipa-results
+nick199910/onchain_fuzz
 nick42d/ratatuirepro
 nick42d/youtui
 nickpwhite/reqcoon
@@ -3323,6 +3349,7 @@ orogenicbelt/hiview
 osmak1234/pomodoro
 osmak1234/quicktick-tty
 otcova/miniterms
+otechdo/commit
 otechdo/oh
 oupson/sony-rs
 ourgal/snowfall
@@ -3342,7 +3369,6 @@ pandeyanup/yt-cli
 pandeyanup/ytclimp
 pandorixtech/rask
 panghu-huang/media-downloader
-panostriantafyllidis/CounterStrike-comp63342-project
 panthervis/commune-test
 pants721/pants-editor
 paradigmxyz/alphanet
@@ -3517,6 +3543,7 @@ raylu/git-whence
 raysuliteanu/blog-examples
 raysuliteanu/sprintrs
 rchriste/OnPurpose
+rcorre/boxt
 rdawson46/editor
 rdelfin/chip8_test
 readlnh/InfiTensor-grading
@@ -3592,6 +3619,7 @@ rtkay123/mirro-rs
 rubenhorn/nightride-fm-tui
 rudyardrichter/kit
 runawayaway/exam-grading
+rune-runtime/rune
 rupakhetibinit/ytui
 russellbanks/Komac
 rust-adventure/yt-ratatui-audio-viz
@@ -3624,6 +3652,7 @@ s9tpepper/sergeant
 sZeta99/borrow
 sachaos/viddy
 sachnr/tmux-fzy
+sadkodev/llm_rs
 sadkodev/ui-json-editor
 sadovsf/RadioLog
 sadtriyo100jt/lens_tea
@@ -3640,7 +3669,6 @@ salsasteve/PikaPulse
 salsasteve/majin
 sam-scale/open-tgi
 saman0i0/FinTrackR
-sambergo/tollo
 samp5/keepTUI
 samuela/nixpkgs
 samuelt87/squealer
@@ -3696,6 +3724,7 @@ sebmentation-fault/deutschland-tui
 sebszyller/tui-llm-chat-rs
 secondary-smiles/molehole
 secretsaucers/newsroom
+seekingalpha/nixpkgs
 sehandev/env-filers
 sehnryr/wfcache-api
 selfagency/nushell
@@ -3938,8 +3967,6 @@ thales-maciel/one-wip
 thallosaurus/gewusel
 tharyckgusmao/rust_machine_learn
 theCalcaholic/ncp-restore
-theDevJade/cartridge
-theDevJade/rustracer
 theMackabu/pmc
 theOGognf/private_poker
 thebino/exif-sorter
@@ -4095,6 +4122,7 @@ victorhornet/fano
 victorhornet/vpm
 victormaximchuk19/mtrix
 videnlabs/onefuzz
+vidolch/control-panel
 vidurkhanal/taskity
 vieitesss/rustydo
 vijhhh2/weather-tui-app
@@ -4288,7 +4316,7 @@ zehreken/bonjou-rs
 zemelLeong/table-structure-recognition
 zgrow/spacegame
 zh4ngx/burn_nix
-zhangzongshuaiqi/shuaiqizhangmouren
+zhangzongshuaiqi/zhangmouren
 zifeo/whiz
 ziggoon/vmgr
 zigzagpig/exam-grading
