@@ -219,7 +219,6 @@ BismuthCloud/cli
 BiswajitThakur/host-rs
 Bitwardenoff/bitwarden-russh
 BlKlShip/apexsky
-BlackRavenoo/todo-app
 Blourvim/LicessCliRust
 Bogay/normal_game_jam_2024
 Boltzmachine/DanLu
@@ -426,6 +425,7 @@ ElMoustacho/deeznuts-downloader
 ElXreno/nixpkgs
 ElectrifyPro/dnd-initiative-tracker
 Elekrisk/spiral
+ElevenJune/todo-app-rust
 EliahKagan/gitoxide
 ElinksFr/net-monitor
 ElisR/pdb-tui
@@ -1122,6 +1122,7 @@ Rinyaresu/notecli
 RioKato/libafl-sample
 Ripper53/RustySchedule
 Ritvik-Gupta/watch-rs
+Ritzier/ratatui_example
 Ritzier/rust
 Rjected/execution-payload-builder
 Rjected/storage-changes-exex
@@ -1447,7 +1448,7 @@ WaltBranning/forgotten-city-of-xeo
 WanderingLemon/saswatch
 WarFox/ratatui-counter-app
 WarFox/ratatui-json-editor
-Warkanlock/dreaming
+Warkanlock/dreaming.rs
 Washiil/syf
 WatDuhHekBro/stuff
 Wava11/City-Builder-CLI
@@ -1815,7 +1816,6 @@ biologicalwaste/mlcc
 bitfield/hit
 bitfl0wer/pwnbackup
 bitswired/blitzkey
-bitwarden/bitwarden-russh
 bixia/foundry-verify2
 bjohnson5/blast
 bjornrun/tgi-gaudi-fixed
@@ -2513,6 +2513,7 @@ hardfau1t/chatterbox
 harilvfs/rdevs
 harperfu6/passmr
 harshvishu/tournal
+haruki-nikaidou/mem-yaml
 hasnum-stack/registry-admin
 hatoo/oha
 hatoo/oha-release-test
@@ -2608,6 +2609,7 @@ illia-st/RustPacman
 illia-st/it-db
 illia-st/it-db-group
 illiteratewriter/todoist-rs
+imAliAzhar/jf
 imRohan/Apple-Music-cli
 imishinist/marks
 immanelg/tg9
@@ -2862,7 +2864,6 @@ k4g4/tui_game_engine
 k86td/hid-rc-controller
 kabouzeid/turm
 kade-robertson/uggo
-kaeeraa/nixpkgs
 kaisenlinux/sshs
 kaishaoshao/exam-grading
 kaishaoshao/infinie2
@@ -3085,6 +3086,7 @@ lucodear/matetui
 ludblom/dungeoneer
 luisdanieldlcg/timer
 luisrmendes/rush
+lukaszKielar/lokai
 luke-a-thompson/FastASX
 lukeleppan/nuuslees
 lukewberg/commerce-commander
@@ -3516,6 +3518,7 @@ paradigmxyz/reth
 paradigmxyz/reth-exex-examples
 paranoikcodit/not-pixel-abuse
 parapsychic/2lazy4arch
+parkingspace/pomoduro
 parrottq/watch-party
 parslie/tsea28-computer
 parthdt/optfuzzilli
@@ -3615,6 +3618,7 @@ programatik29/rewrk-tui
 progremister/bert_comparison
 projeto-dev404/lima-squad
 protojour/kano
+prototypefund/psylink
 proxin187/cortez
 proxin187/edgecoin
 proxin187/wecraw
@@ -4481,7 +4485,6 @@ zeenix/gimoji
 zegevlier/waitingroom
 zehreken/bonjou-rs
 zemelLeong/table-structure-recognition
-zenzille/logrok
 zgrow/spacegame
 zh4ngx/burn_nix
 zifeo/whiz
