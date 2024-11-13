@@ -1,3 +1,4 @@
+00y300/OrchardMac
 0237h/learn-rust
 06chaynes/tfc-toolset
 097115/tuisky-forked
@@ -11,6 +12,7 @@
 0xBradock/alfred
 0xFAC0/arp-watch-tui
 0xHumban/emergency-withdraw
+0xIntuition/intuition-rs
 0xJepsen/intuition
 0xKoda/diffrs
 0xNathanW/bitter
@@ -387,6 +389,7 @@ Daru-san/timed-rs
 Dauthdaert/chest
 DavJCosby/rasp-pi-setup
 DavJCosby/sled
+DavJCosby/spatial_led_examples
 DavangeSam/Peer-to-Peer-Chat-System
 Davey-Hughes/advent-of-code
 Davidos533/crash-reports-recognizer
@@ -595,6 +598,7 @@ H2CO3/steelsafe
 HAOyang-L/exam-grading-demo
 HAUST-SE-ZhiTui/rustlings-test
 HUOd/text-generation-inference
+Hackbotics/Daybreak
 Haksell/zappy
 Halkcyon/LcMods
 Hamblok0/tui-planner
@@ -707,6 +711,7 @@ Jedsek/bad-apple-rust
 Jedsek/tui-dashboard
 Jedsek/tuimager
 Jedsek/wi-editor
+Jeffrey-P-McAteer/hello-ai-game
 Jeklah/fishtank
 Jelvani/hddb
 JeromeSchmied/cgol-tui-rs
@@ -802,7 +807,7 @@ Kibadda/dmenu
 Kibadda/passmenu
 Kibadda/pinentry
 Kibadda/powermenu
-KilroyWasHere-cs-j/Web-browser
+KilroyWasHere-cs-j/Sugar
 KimWang906/creamhack
 KingTimer12/CNN_study
 KiraCoding/lyn
@@ -814,6 +819,7 @@ Kl4rry/ferrite
 Knight-Ops/kaggle-space-titanic
 Kobayashi-takumi/dancing-gopher
 Kodylow/learn-burn
+Kodylow/makemore-rs
 Kromzem/rusty-nes
 Kryszak/penny
 Ktwsz/rustbonsai
@@ -1071,6 +1077,7 @@ PabloLec/sb_websocket_rust
 PainStaker0331/dioxus
 Pairadux/ratatui-tuts
 Pairadux/taskcrab
+Pairing-lab/Stardust-Testnet
 PalmsNiro/Monkey-Type-Oxide
 Panda-Boi/terminal-tac-toe
 PapyKahan/rhap
@@ -1251,6 +1258,8 @@ Scrivin/ScrivinCLI
 SeaWal/noted
 SecSamDev/ChaosBench
 SecurityLogMiner/log-collection-client
+Seeunsama/hugging-face
+Seeunsama/text-generation-inference-0.9.3
 Seliaste/nme
 Sem1Rose/pong-tui
 Setland34/foundry
@@ -1384,6 +1393,7 @@ TechLogicals/LinuxToolbox
 Techassi/otel-tui
 TeddyHuang-00/TurboTrash
 TelurijevDioksid/keeper-crabby
+Terpsichord/minimax
 TerraDOOM/Upheaval-Draft
 Terraciano/getman
 Terraciano/ratatui-template
@@ -1451,6 +1461,7 @@ TortitasT/taskt
 ToruNiina/tuiwave
 TotallyThatSandwich/incremental-game
 ToxicakerJL/tmb
+TravisBubb/Spire
 TreeGardenDev/tree-friend-tui
 TriedAngle/Kette
 Tristeme/SwapBytes
@@ -2502,6 +2513,7 @@ ftschirpke/kakebo
 fujiapple852/trippy
 fullzer4/AWSLayer
 funbiscuit/spacedisplay-rs
+furelid/nixpkgs
 furkankly/goffin
 furkankly/mookbark
 furlan-lab/viewmastR
@@ -3739,7 +3751,7 @@ petersimonsson/fell
 petersimonsson/gpsinfo
 peti/nixpkgs
 petr-muller/wetware
-petru-robu/weather-app-tui
+petru-robu/WeatherAppTUI
 phillipleblanc/gitui
 philopaterwaheed/fileio
 phip1611/wambo
