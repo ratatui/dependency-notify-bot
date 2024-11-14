@@ -1,4 +1,4 @@
-00y300/OrchardMac
+00y300/brewtui
 0237h/learn-rust
 06chaynes/tfc-toolset
 097115/tuisky-forked
@@ -641,6 +641,7 @@ HyperboreaHQ/hyperbox
 HyperboreaHQ/hyperchat
 IKchen/learning-ratatui
 IKchen/ratatui_musicplayer
+INHEALY/matrix-rust-sdk
 IRONICBo/LFX-WasmEdge-PreTest-3172
 IRONICBo/TOS-Builder
 IRSMsoso/audio-preview
@@ -738,7 +739,6 @@ Johannes990/ratatui_counter
 Johannes990/ratatui_json_editor
 Johannes990/ratatui_test
 JohnEdChristensen/chipy8
-JolleJ/doctop
 JonasKruckenberg/k23
 JonathanBHill/spot-lib
 JonnyWalker81/query-crafter
@@ -890,6 +890,7 @@ LucasPickering/slumber
 Lucky4Luuk/beammp_rust_server
 LuigiDaBro/ziel
 Luis-Gutierrez-Pereda/rustty
+LukeDias42/Learning-Sandbox
 Lunderberg/stardew_bot
 LuukE-cmd/chart_tui
 Luxury-Entertainment-CrowdTech/cache-distributed-server-storage
@@ -1259,7 +1260,6 @@ Scrivin/ScrivinCLI
 SeaWal/noted
 SecSamDev/ChaosBench
 SecurityLogMiner/log-collection-client
-Seeunsama/hugging-face
 Seeunsama/text-generation-inference-0.9.3
 Seeunsama/text-generation-inference-2.4.0
 Seliaste/nme
@@ -1602,6 +1602,7 @@ Zang3th/linux_config
 ZeeCas/IronIRC
 Zelvios/bitwise-calc
 Zelvios/todo-tui
+ZenSan3/cody3_bot
 Zendard/under-control-ler
 ZennoZenith/cestui
 Zenor27/AOC2023
@@ -1815,6 +1816,7 @@ arnavsacheti/hello-world
 arne-fuchs/edcas-client
 aromeronavia/spotuify
 aroralanuk/hyperlane-exex
+aroundwithalex/hammurabi
 arsmuradyan/rust-tui-experiment
 artis101/rustyrogue
 arvinsalehi/riverride
@@ -2146,7 +2148,6 @@ crasite/tidbit
 crazcalm/flash-cards-tui
 crcrworks/topdf
 creamlike1024/rs-chat
-cristian-zeni/cody3_bot
 crockeo/tasq
 crolbar/dapu
 crolbar/matm
@@ -3172,6 +3173,7 @@ ladycarbonfiber/Ephie
 lahoising/visualnv
 lakmiu/exam1
 lakrestofer/spbased
+lalaluke9/pick_a_movie
 lancelet/nn-landing-poc
 landonwork/rubiks
 landreussi/radio-garden-tui
@@ -3511,6 +3513,7 @@ myyrakle/nosyman
 mzs555557/MyLibaflFuzz
 n-arms/smorgasbord
 n0-computer/iroh
+n0-computer/iroh-willow
 n00body33/vector_etl1
 n1ghtmare/tiny-fe
 n42blockchain/N42-rs
@@ -4081,6 +4084,7 @@ sbernauer/pixelflut-v6
 sbxte/tuesday
 scalarorg/scalar-eth
 scaleway/moshi-client-examples
+scav/timet-tui
 schelcc/noteworthy
 schwartx/octoproxy
 sciism/OxideArcade
@@ -4312,6 +4316,7 @@ sxyazi/yazi
 synchronal/dyd
 syte-ai/http-diff
 syynis/robotac
+szuwgh/chappie
 t-nil/playground
 t123n123/term-draw
 tac550/chip8emu
@@ -4478,6 +4483,7 @@ udison/rust-counter-app
 udison/rust-json-editor
 udison/rust-ratatui-hello-world
 uhChainsaws/dagger-tui
+ukihot/dig3
 uku3lig/csf-reader
 ulic-youthlic/sudoku
 ulissesf/qmassa
@@ -4666,6 +4672,7 @@ xZeroW/anitui
 xalbd/tuitask
 xea/metalforge
 xebia-functional/quartiles-solver
+xen-troops/xen-fuzzer-rs
 xet7/dioxus
 xgillard/burn-bert-for-pretraining
 xgillard/couic
@@ -4678,7 +4685,6 @@ xoolive/rs1090
 xrelkd/caracal
 xsuz/MeisterLogger
 xubaiw/rdf-tui
-xupremix/kindle-burn
 xwillxw/proxyufo
 xxMudCloudxx/CPPLLT
 xyliax/CryptTalk
@@ -4773,4 +4779,5 @@ zuoyanzhang/exam-grading
 zurrty/shplit
 zuston/r1
 zuston/riffle
+zxfae/cratouille
 zyx-db/her
