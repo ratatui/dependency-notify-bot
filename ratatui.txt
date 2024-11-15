@@ -859,7 +859,7 @@ LightDotSo/LightDotSo
 LiliGPT/lili
 Lillevang/taskmaster
 LingChen23/Exam-Grading
-LingmoOS-Testing/lingmo-nix
+LingmoOS-Testing/LingmoNix
 Lintermute/advent-of-code-rs
 Linus-Mussmaecher/rucola
 LinusRichter/conman
@@ -1132,7 +1132,6 @@ PonasKovas/mistral-burn
 Popax21/wepcrack
 PottierLoic/fpm
 PraneethJain/simplipy
-PratikFandade/weatherman.rs
 PravithBA/posty_tui
 PraxTube/vimp
 Preemo-Inc/text-generation-inference
@@ -1370,6 +1369,7 @@ T-Marenk/blue-gear
 T-S321/cautious-waddle
 TBS1996/mischef
 TBS1996/remynder
+TClark1011/rs-ratatui-json-editor
 TDiblik/game-of-nim-rust
 TDiblik/tower_of_hanoi_rust
 THCLab/oca-bin
@@ -1540,6 +1540,7 @@ VodopaDev/suivui
 Vonr/breweri
 Vonr/parui
 Vuta/fen
+W3W-EdU/nixpkgs
 W4ff1e/rusty-hangman
 WUST-mengqinyu/icpc-cmake
 WVAviator/adventui
@@ -1595,6 +1596,7 @@ YuriiRG/game-of-life
 YuriiRG/sudoku-solver
 Yvaniak/wordle_yvaniak
 ZLATAN628/pdf-terminal-reader
+ZLangJIT/termux-gcc-riscv
 Zacholme7/NodeDB
 Zacholme7/Orderbook-Visualizer
 Zambrella/at_tui
@@ -1669,6 +1671,7 @@ ahmedaabouzied/rlogmine
 aida0710/ip-reassembly
 aidanbossart/fenrir
 aihphysics/isspanel
+airstrike/fired
 ajensen1234/shell3d
 akaday/russh
 akarsh1995/leetcode-tui
@@ -2275,6 +2278,7 @@ devadigapratham/RustNet
 devprofile98/determ
 devyn/nu_plugin_explore_ir
 devyntk/itr_rust_example
+dexloom/loom
 dezren39/nixpkgs
 dfinity/vector
 dgsantana/aoc2023
@@ -2567,6 +2571,7 @@ geordiegibson/swap-bytes
 georgyo/nixpkgs
 gertminov/scaffolder-rust
 geshengpsn/rpi
+getbasedai/creature
 getchoo-contrib/nixpkgs
 getumen/burn-rl-example
 gfannes/snippet
@@ -2839,6 +2844,7 @@ jackjohn7/file-manager-rust
 jacklund/voynich
 jacklund/voynich-term
 jacksonbrim/snake-game-tui
+jackyliu16/lglr-controller
 jacobat/railslens
 jacobb/urlx
 jacobdineen/rust-mnist-web-app
@@ -3323,6 +3329,7 @@ manuelarte/tarkov-puzzles
 manuelpepe/lazy-git-checkout
 maraloon/timer-tui
 marc2h9/todo-app
+marc47marc47/btm-pg
 marcelarie/vison
 marceneperry/bib_db
 marci1175/Matthias
@@ -3447,7 +3454,6 @@ mluna-again/ratata
 mm-zk/erath-node
 mm9942/snake-term
 mmai/trictrac
-mmsaki/foundry
 mochi-sann/sandbox
 mochivi/sys_tui
 modulated/phoenix
@@ -3824,6 +3830,7 @@ pretzelhammer/chat-server
 prezeswastaken/rust-todo-cli
 pricelessjunk/nerd-retro
 prixladi/conc
+prkbuilds/weatherman.rs
 probablySophie/todoria
 probe-rs/embedded-test
 probe-rs/probe-rs
@@ -4443,6 +4450,7 @@ tqwewe/eventus
 tracel-ai/burn
 tracyspacy/yacht
 tramhao/termusic
+transkatgirl/tapestry-loom
 traviskaufman/chip8-rs
 traxys/tap_runner
 trinhminhtriet/procx
@@ -4642,6 +4650,7 @@ wilswer/ait
 wiltaylor/prefab
 winecraft-dev/rust-f-c-converter
 winetree94/rust
+wingertge/craft-burn
 winpax/sfsu
 winpax/sprinkles
 wintermute-cell/ngrrram
@@ -4728,7 +4737,6 @@ yuanzhixiang1996/exam-grading
 yudai0804/yamapad
 yuedenu/exam-grading
 yukkop/gamelive
-yurtitov/wh-method-cli
 yuxuetr/burn-examples
 yzqdev/rust-proj
 yzy-1/quick-words
