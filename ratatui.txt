@@ -64,7 +64,6 @@
 3Xpl0it3r/ksre
 3rickDJ/rust-things
 452755/sanwuqingnian
-4hoe8pow/digger
 4lineclear/flc-tui-widgets
 4nZwar3/chess
 4nuit/Writeup
@@ -177,6 +176,8 @@ Antzed/uni-public
 Apfelfrosch/fm
 Apfelfrosch/ted
 Apsurt/rust-by-projects
+Arcanyx-org/nixpkgs-stable
+Arcanyx-org/nixpkgs-unstable
 ArchetypalTech/MeatMapEditor
 ArchetypalTech/PrayMachine
 ArcticXWolf/synacor-challenge
@@ -602,6 +603,7 @@ Green0318/G.Commune
 GregShiner/sudoku-but-fast
 GregePorter/DvorakTrainer
 Gregory-Eales/rusty-chat
+Grillware/digman
 Grsaiago/rtui
 Gteditor99/fm
 Guanran928/nixpkgs
@@ -815,6 +817,7 @@ KeeTraxx/k-print
 KeeganMyers/ri
 KekmaTime/IronKey
 KennethPrice288/sudoku_solver
+KerickHowlett/lazynx
 Keterion/tag_database
 KevinAlbrecht/pomodoro
 KevinL10/wirecrab
@@ -1041,8 +1044,6 @@ Nertsal/minbo
 Netetra/shuffle-seats
 Netflix/bpftop
 Ngz91/anya
-NiXium-org/nixpkgs-stable
-NiXium-org/nixpkgs-unstable
 Nichebiche/foundry
 NicoOhR/ratatat
 NikSneMC/NikSpkgs
@@ -1266,6 +1267,7 @@ Sam9212/tui_wrapper
 SamBroomy/rust-orderbook
 SamWallace04/pacmanman
 SamYouatt/typee-rs
+SamanodyJr/OS_Project
 Sammy99jsp/Civitai-client
 SamsterJam/Ratodui
 Samyc2002/wincast
@@ -1987,6 +1989,7 @@ bihari123/demo_tui
 bihari123/tui_counter
 biologicalwaste/mlcc
 birchmd/ratatui-type-and-scroll
+bishan-batel/pond-p2p
 bitfield/hit
 bitfl0wer/pwnbackup
 bitswired/blitzkey
@@ -2106,6 +2109,7 @@ chaosprint/bytebeat-rs
 charan-kumar-137/blaze
 charleschetty/ccfetch
 charleschetty/term_music_rs
+charlesvandal/ProjectEuler
 charlietlamb/rata-1
 charlietlamb/ratatui-counter-app
 chenhzhu/infinitensor-exam-grading
@@ -2313,6 +2317,7 @@ ddbnl/office365-audit-log-collector
 ddroche/Counter-tui
 deLiseLINO/snake-llm
 deadneuron/model-catalog
+deathslap/rustingitup
 debug-evac/assembler-crates
 dec4234/BurnModels
 dec4234/libafl_explore
@@ -2347,6 +2352,7 @@ devprofile98/determ
 devyn/nu_plugin_explore_ir
 devyntk/itr_rust_example
 dexloom/loom
+dexxiez/dex-rs
 dexxiez/nxplorer
 dezren39/nixpkgs
 dfinity/vector
@@ -2370,7 +2376,7 @@ disconsented/identity-traversal
 diseptennea/terebellum
 distantmagic/paddler
 distributedstatemachine/bittensor-rs
-ditsuke/nixpkgs-glibc-2.35-bc
+ditsuke/nixpkgs-compat
 div72/fsmtui
 divanvisagie/chat-gipitty
 djedi23/ddf
@@ -2789,6 +2795,7 @@ hercule-karuha/infiniTensor-stage1
 herisetiawan00/clack
 hermannm/gadd
 heroesofcode/inject-sql
+hertelukas/P2P-File-Sync
 heryfitiavana22/calculator-tui
 hesom/ezboard
 hexeaktivitat/sf_planner
@@ -2966,6 +2973,7 @@ jandremarais/parqour
 janstarke/loghawk
 jaredkirby/my_burn_app
 jason0x43/diff-explore-rs
+jasonknoll/Emulation
 jasonshyang/rustc8
 jasontheiler/tmuxion
 jaswged/blue_telemetry_tui
@@ -3022,6 +3030,7 @@ jm530ob/litelens-tui
 jmaarleveld/remy-widgets
 jmatte123/kafkatui
 jmdha/seeker
+jmeaster30/simpledns
 jming422/ydnc-time
 jmwoliver/hui
 jnoorchashm37/lib-reth
@@ -3268,6 +3277,7 @@ kyoto7250/zhobo
 kyu08/fzf-make
 kyu08/rust-playground_
 kyuds/rudoku
+kyunghyunHan/burn
 kyunghyunHan/deep_learning
 kyunghyunHan/kaggle
 kyutai-labs/moshi
@@ -3922,6 +3932,7 @@ pigeon-sable/tnap
 pileghoff/Datapoint2200
 pimalaya/himalaya-repl
 pimlicolabs/revm-proxy
+pimyn-girgis/os_project
 pinage404/nixpkgs
 pineapplehunter/nixpkgs
 pinhead-domi/musicquiz
@@ -4268,6 +4279,7 @@ sebmentation-fault/deutschland-tui
 sebszyller/tui-llm-chat-rs
 secondary-smiles/molehole
 secretsaucers/newsroom
+sectore/timr
 secureonelabs/foundry
 seekingalpha/nixpkgs
 sehandev/env-filers
@@ -4492,6 +4504,7 @@ sxyazi/yazi
 synchronal/dyd
 syte-ai/http-diff
 syynis/robotac
+szabgab/rust.code-maven.com
 szuwgh/chappie
 t-nil/playground
 t123n123/term-draw
@@ -4786,6 +4799,7 @@ warhodes-dev/geohog
 warpy-ai/rustubble
 wavefnx/roller
 wavepig/chat-rust
+wcampbell0x2a/heretek
 wcshds/cjk-ocr
 weaveVM/exex-templates
 weaveVM/hello-world-avs-as-exex
@@ -4805,7 +4819,6 @@ wezik/rabbit-task-dispatcher
 wfxr/rlt
 whatdislol/System_Analyzer
 whatot/base
-wheremyapis/vector
 whispercash/vara-contract-generator
 whoislimshady/tgiFlask
 whtsht/wev
@@ -4816,6 +4829,7 @@ willco-1/tamatui
 willco-1/trade-lib
 williamchildres/terminal_messenger
 willmartian/doot
+willmortimer/zellij-theme-plugin
 willothy/chat-grpc
 willothy/sanguine
 willothy/sanguine-demos
@@ -4977,3 +4991,4 @@ zxfae/Rusys
 zxfae/cratouille
 zykowal/search-in-terminal
 zyx-db/her
+zyxw59/carrier-pigeon
