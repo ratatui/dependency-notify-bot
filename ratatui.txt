@@ -164,6 +164,7 @@ AliSajid/BrainFoamKit
 AliSajid/dilemma-tactix
 AlkaidLu/24WinterInfiniTensor
 Allyedge/fead
+AloizioMacedo/wstest
 Alpha5402/exam-grading
 AlpinYukseloglu/orderbook
 AlxPatidar/Rust-Tic-Tac-Toe
@@ -416,7 +417,6 @@ ComlineProject/package-manager
 ComputationalBiomechanicsLab/osimperf-monitor
 ComradeJustin/schoolproj
 Consensys/corset
-Contribution-Tracking/nixpkgs
 CookLight/exam-grading
 CookbookDev/Foundry_build
 Coops0/wordle-tui
@@ -884,6 +884,7 @@ Jiajun-Ji/Infini_test
 Jiajun-Ji/jjj_InfiniTensor_c
 Jim-Hu365/open_camp
 Jinskiss/exam-grading
+Jkeyuk/JDbrowser
 Jo6a/multitimer-tui
 JocelynFlores-kyo/my-exam-grading
 Joe-Goodsell/flashy
@@ -1249,6 +1250,7 @@ Netflix/bpftop
 NethermindEth/agentic.city
 NethermindEth/gitwise
 NethermindEth/ice-nine
+NewAlice/exam-grading
 Ngz91/anya
 Nichebiche/foundry
 NicoOhR/ratatat
@@ -1434,6 +1436,7 @@ Rafael-Ramosc/ShellWhisper
 Ragnaroek/opl-emu
 Ragnaroek/terminus
 Ragnt/AngryOxide
+Ragnyll/protorat
 RahkarSanat/sim-emulator
 RahulSundkar/LFX_Mentorship-2024_Pre-Test_3172
 RainbowScientist-Playground/foundry
@@ -2320,6 +2323,7 @@ barsoosayque/minisong
 bartavelle/chatserver-lab
 barthelmeh/swapbytes
 barthr/dnsmon-rs
+bartlomiejkrawczyk/PBAD-24Z
 bartnv/meshmon
 bartosz-skejcik/socket_chat
 base-org/foundry
@@ -2451,6 +2455,7 @@ buerzong/ai_camp_coding_tests
 buerzong/git-clone-repo-addr-.-exam-grading-cd-exam-grading
 bugnano/fcd
 bugsnotabunny/tdtui
+bugzmanov/pkt-tui
 builtbyvys/wos-unscrambler
 bungogood/rassay
 bungogood/td-gammon
@@ -2553,6 +2558,7 @@ chrischriscris/alacritty-skins
 chrispaig3/rustick
 christeefy/burn-tutorial
 christian-plourde/fishies
+christiansassi/advanced-programming-of-cryptographic-methods-project
 chukwudinweze/hello-ratatui
 chupsondev/spelchek.rs
 chvish/tfpl
@@ -2718,10 +2724,12 @@ danik-tro/redis-rover
 danimelchor/todui
 daniqss/arriva-tui
 dannymato/fssh
+dante-gpu/vergil-gpu-share-manager-docker
 dantleech/strava-rs
 dantunan/vector-for-qnx
 danwritecode/toip-tui
 danyalutsevich/sandbox
+darkblinds/zana
 darkforestry/amms-reth
 darklinden/rust-chat
 darko-mesaros/not_gui
@@ -2937,6 +2945,7 @@ egegungordu/todo-term
 ehllie/nix-query
 eignnx/LARK
 eignnx/lark-vm
+einbocha/burning-experiments
 einsJannis/crabtype
 einstein8612/proxytester
 ejovo13/i3-mgr
@@ -3210,6 +3219,7 @@ gold-silver-copper/isv_game
 gold-silver-copper/macroquad_begin
 gold-silver-copper/ratatui-mockup
 gold-silver-copper/slovjanskirl
+goldenfox2025/exam-grading
 golemfactory/golem-certificate
 gollth/tui-bars
 goneHaywire/rusty-tmux-sessions
@@ -3287,6 +3297,7 @@ hardfau1t/chatterbox
 hardliner66/homeofficetracker
 harehare/gitype
 harehare/igrepr
+harilvfs/carch
 harilvfs/rdevs
 harperfu6/passmr
 harryytran/music-player
@@ -3364,6 +3375,7 @@ hobosock/lostship
 hocman2/rust-tcp-chat
 hocnguyen12/ratatui-rustify
 hofong428/exam-grading
+holdeg/parker
 holly-hacker/td
 holochain/holochain
 holzhey/noaa-spc-rss-watcher
@@ -3745,6 +3757,8 @@ jwu773/infini-tensor
 jyelloz/pvalve
 jywangx/infini-tensor-exam-grading
 jzLooning/exam-grading-infer
+jzombie/rust-ratatui-example-counter-app
+jzombie/rust-ratatui-example-json-editor-app
 k0zn4n3ja/crypto-wallet-rust
 k86td/hid-rc-controller
 kabouzeid/turm
@@ -3766,6 +3780,7 @@ karlpvoss/kubernetes-audit-log-explorer
 karman-ly/uika_countdown
 karstenes/snes
 kartva/keymashed
+kas2020-commits/termautomaton
 kashrafdev/ratatui_counter_app
 katanallama/moodl-rs
 katekorsaro/budgr-tui
@@ -3810,6 +3825,7 @@ khooj/poe-system
 khulnasoft-lab/AdGuardian-Term
 khulnasoft-lab/titanrepo
 khulnasoft/NRZ
+khulnasoft/turborepo
 khulnasoft/vector
 kibibyt3/tui-cellular-automaton
 kidanger/minink
@@ -3845,6 +3861,7 @@ kloki/bigbrainwordle
 kloki/ratios
 kloki/regect
 kloki/tmr
+kloki/weeks
 klover-rs/service_viewer
 km0e/rv-simulator
 kmatherne/ipterm
@@ -4014,6 +4031,7 @@ loitder/grading
 lokxii/feednotes
 lokxii/tsky
 lopree/rust-ratatui-demo
+lordisma/navu
 lost-melody/wafel-toaster
 louis-thevenet/vault-tasks
 louisponet/blog
@@ -4275,7 +4293,6 @@ mjohnson518/supernova
 mkalvas/haxxor-tag
 mkalvas/life
 mkeen/era
-mkrueger/icy_board
 mkuritsu/MessagIST
 mkxl/ftg
 mlb-rs/mlbt
@@ -5203,6 +5220,7 @@ sjagoe/gitbrowser-rs
 sjchaha/exam-grading
 sjewyr/funnyexplorerrust
 sk3p7ic/invoicers
+skadewdl3/flint
 skipkayhil/sdev
 skithao/sunsky-learn
 skiupace/GitNav
@@ -5399,6 +5417,7 @@ techygrrrl/sniprrr
 tecposter/tecpass
 tee-yankov/senso
 tegimeki/candor
+telmo-carmo/ru_ratatui1
 telosnetwork/telosevm-exex-example
 temporalxyz/solana-qos
 ten2mushi/synapse
@@ -5537,6 +5556,7 @@ twinexyz/sp1-prover-execution-extension
 twitchax/kord
 twizmwazin/trivial-fuzzer
 twvd/snow
+txtx/surfpool
 txtx/txtx
 tylermaran/terminus
 tylp/interceptr
@@ -5634,6 +5654,7 @@ vilben/whereami
 vilhei/electricity_exhange
 vimkim/just-csql
 vimkim/rgnav
+vimkim/timebox-rs
 vincent-thomas/teddy
 vinhtc27/chat
 vini-fda/wgpu-compute-benchmarks
