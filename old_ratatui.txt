@@ -3144,8 +3144,6 @@ except-solutions/yad-tui
 exscide/quantum_fix
 exsinod/aws-cli
 extrawurst/gitui
-exvacuum/bevy_terminal_dialog
-exvacuum/bevy_terminal_display
 exyreams/Utilix
 eyemotif/mimi
 f5/otel-weaver
@@ -4845,6 +4843,7 @@ pedrosfaria2/websocket_binance_api
 pegov/qbtui
 pemattern/launcher
 pemattern/ratquest
+pemattern/tui-shader
 pepone42/somepad
 peri4n/learning-ratatui
 perseus06/project-clean
@@ -5434,6 +5433,8 @@ snoooooooope/Spaceman
 snptkdn/pomodoro
 snubwoody/helium
 so-hey/snake-game
+soaosdev/bevy_terminal_dialog
+soaosdev/bevy_terminal_display
 social-protocols/mind-changer
 soenkehahn/porc
 sofamaniac/yama
