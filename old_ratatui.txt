@@ -19,6 +19,7 @@
 0xHumban/emergency-withdraw
 0xIntuition/intuition-rs
 0xJepsen/intuition
+0xKoda/coders
 0xKoda/diffrs
 0xNathanW/bitter
 0xPlaygrounds/rig-examples
@@ -1039,6 +1040,7 @@ KerickHowlett/lazynx
 Keterion/tag_database
 KevinAlbrecht/pomodoro
 KevinL10/wirecrab
+KeyrockEU/foundry
 Kh05ifr4nD/infini-tensor-exam-grading
 Khalzz/Dedicated-Server
 Ki11erRabbit/sevi
@@ -1384,6 +1386,7 @@ OIIy/sys-tui
 OJarrisonn/manbook
 OJarrisonn/patch-hub-actors
 OMGWINNING/reth-alchemy
+OST-Gh/prata
 OYASHI777/ForSale
 OchirErkhembayar/eng-log
 OchirErkhembayar/qcalc
@@ -1687,6 +1690,7 @@ Shad0wRim/chess
 Shad0wRim/conway
 Shadorain/shadobeam
 Shadorain/shadotui-template
+ShadowBlip/InputPlumber
 Sharp0802/ced
 Sheape/metamask-bruteforce
 Sheepc123/24wintercamp
@@ -1987,6 +1991,7 @@ UthimnaR/Linear-Regression-Assignment
 UtopiOne/wikipedia-cli
 V8gaming/RatatuiSVG
 VITObelgium/infra-rs
+Vagrantin/essaysahTui
 VakeDomen/HiveMonitorTUI
 ValJed/tomato
 Valentin271/fp
@@ -2025,7 +2030,6 @@ Vlad2030/solana-balance-monitor
 VladGTT/unet-practice
 Vladastos/adventofcode2024
 VladimiroPaschali/ebpf-experiments
-Vociferix/ratatui_image
 Vociferix/tpart
 VodopaDev/suivui
 VolumeCurl/local-exam-grading
@@ -2059,6 +2063,7 @@ Wihyeongsu/Ratatui-counter-app
 Wihyeongsu/Ratatui-json-editor
 Wilkuu-2/yapnet
 WilliamMoolman/three-body-tui
+WilsonHuang080705/term-kit
 Wireforce-LLC/bellissimo
 Wladoo/holochain
 WolverinDEV/bclean
@@ -2486,6 +2491,7 @@ banber0/one
 banber0/two
 bandithedoge/nixpkgs
 banr1/forked-flashbots-rbuilder
+banr1/forked-foundry
 banr1/forked-rbuilder
 banr1/forked-reth
 baptistecolle/tgi-gaudi
@@ -2638,6 +2644,7 @@ buster-so/buster
 bvaisvil/zenith
 bx3/little-dipper
 bytes-zone/beeps
+bytetrail/vaux
 c-cube/playground
 c0d3-dump/mini-base
 c0utin/market-jubs
@@ -3006,6 +3013,7 @@ devactivity/puzzle_game_tui
 devactivity/random_adventure_generator
 devadigapratham/RustNet
 devalain/oxono-rs
+devendra-official/FileScout
 devgony/nERD
 devprofile98/determ
 devyn/nu_plugin_explore_ir
@@ -3013,6 +3021,7 @@ devyntk/itr_rust_example
 dewiz-xyz/tycho-simulation
 dexloom/loom
 dexxiez/dex-rs
+dexxiez/nxplorer
 dezren39/nixpkgs
 dfinity/vector
 dgsantana/aoc2023
@@ -3649,7 +3658,7 @@ iKadmium/sacn-neewer-lite
 iKineticate/LinkEcho
 iamdb/hifi.rs
 iamjacobjia/LibAFL
-iampassos/algo-rs
+iampassos/algorithm-tui
 iamshiqing/exam-grading
 ibveecnk/time-tracker
 icewind1991/logsmash
@@ -3745,8 +3754,6 @@ iyicanme/pcap-flow-splitter
 izuzak/blame
 izzyabelle/pkml
 izzyn/WotW-projects
-j-briant/vivitui
-j-briant/vivitui-components
 j-c-fuchs/towerst
 j-ohmy/smrustpro
 j-stasiak/rusty-lock
@@ -3800,6 +3807,7 @@ janstarke/loghawk
 jaquobia/sbi
 jaredkirby/my_burn_app
 jason0x43/diff-explore-rs
+jasonpeacock/aws-logs-tui
 jasonshyang/rustc8
 jasontheiler/tmuxion
 jaswged/blue_telemetry_tui
@@ -4007,6 +4015,7 @@ jwt-rs/jwt-ui
 jwu773/exam-grading-demo
 jwu773/infini-tensor
 jyelloz/pvalve
+jyto7034/simulator
 jywangx/infini-tensor-exam-grading
 jzombie/rust-ratatui-example-counter-app
 jzombie/rust-ratatui-example-json-editor-app
@@ -4153,11 +4162,11 @@ kpreid/all-is-cubes
 kr105/ironcat
 kregerl/IMDB-to-MP4
 kregerl/restui
-krenyy/rsynth
 krishatch/taskboardcli
 kriskw1999/ratatui-snake
 kristoferssolo/traxor
 kronberger-industries-droid/simptui
+kronerm/rsynth
 krovuxdev/Simple-TUI-Counter
 kruczys/term-integrate
 krypt0nn/inductor
@@ -4242,7 +4251,6 @@ leslie255/message_board
 letsql/quickgrove
 letsrust/ecosystem
 levinion/slime
-levkk/pgdog
 lewis-carson/tapedeck
 lewisrai/blackjack
 lexmass/terminal_arena
@@ -4255,6 +4263,7 @@ lielfr/activity-monitor-rs
 lifeisacanvas24/fun-rust-experiments
 lihua114514/exam-grading
 like-engels/whisper
+lil-re/domain-hunter
 lilygorsheneva/clone-factory
 lilyinstarlight/nixpkgs
 limitcool/nyar
@@ -4679,6 +4688,7 @@ nad2040/sae_burn
 nagacharan-tangirala/disolv
 nagyben/ghtui-rs
 naidneelttil/RustHack
+nakkiy/turl
 nanakura/infinitensor-exam-grading
 nand-nor/plant-minder
 nanfangxiansheng/cppjudge
@@ -4991,6 +5001,7 @@ petersimonsson/gpsinfo
 peti/nixpkgs
 petr-muller/wetware
 petru-robu/WeatherAppTUI
+pgdogdev/pgdog
 phenylshima/segmentation-models-burn
 phillipleblanc/gitui
 philopaterwaheed/fileio
@@ -5450,6 +5461,7 @@ sequenceplanner/tui_state_monitor
 serayutaka/TUI-App
 serd223/textedit
 serd223/walked
+sergev/vak-opensource
 sergey-tihon/ooxml-tui
 serranoio/headifier
 serverlessnext/lumni
@@ -5617,6 +5629,7 @@ spencerwi/cliflux
 spiraldb/vortex
 sponkurtus2/Raifus
 spookyvision/udrome
+sposito88/appdisk
 spoutn1k/jbtop
 spoutn1k/pr-manager
 spyderorg/nixpkgs
