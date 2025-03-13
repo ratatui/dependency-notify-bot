@@ -1,4 +1,3 @@
-00paning/exam-grading-demo
 00phorak/kctx
 00y300/brewtui
 01000001BDO/rakakui-rs
@@ -141,6 +140,7 @@ AbhayFernandes/rmus
 AckerQzj/exam-grading-demo
 AdamL-Microsoft/onefuzz
 AdamWier/budget-tracker
+AdamuAbba/task-progress-bar
 AdamuAbba/tunani
 Adasumizox/htb-tui
 AdelGann/codx-editor
@@ -484,7 +484,6 @@ CookLight/exam-grading
 CookbookDev/Foundry_build
 Coops0/wordle-tui
 Coordinate-Cat/osint-tools-cli
-CorbanR/nixpkgs-1
 CornWorld/learning-infiniTensor-exam
 CorneliusCornbread/Volnita
 CosasDePuma/Landfill
@@ -773,11 +772,11 @@ Ghost-in-LCL/exam-grade
 GhostedGaming/Star-Game-Engine
 Ghostintheshell-iuseArchbtw/rustpacker
 GigaDAO/openbook
-GiovanniPeirone/TM
 Girgetto/gitclean
 GitWitIt420/nixpkgs
 GitoxideLabs/gitoxide
 Giuliao/simpe-gpt
+GnRlLeclerc/vocab
 Gnarlsley/ratatui_test1_0
 Gnarlsley/ratatui_test1_1
 Gnarlsley/weather_util_test_1_1
@@ -835,13 +834,14 @@ Happyigr/Blind-typing
 HarishRagavan34698/linutil
 Harmonyblue/nixpkgs
 Harsith27/project50
-HasChad/cli-pipes
+HasChad/clisnake
 Hashino/navfs
 HawkinDynamics/probe-rs
 Hawthorne001/foundry
 Hawthorne001/turbo
 Hchautard/RPG_Rust
 Hdpbilly/elizaCLI
+HeavyWeaponq1w2/BlockchainERCToken-Rust
 HectorSchreiner/Command_and_Control
 Hectorban/magick
 HectorxH/rust-synth-example
@@ -872,7 +872,6 @@ Hyde46/hoard
 HyperboreaHQ/hyperbloom
 HyperboreaHQ/hyperbox
 HyperboreaHQ/hyperchat
-IBCHgenomic/hpcprofiler
 IIMostro/rust-training
 IKchen/learning-ratatui
 IKchen/ratatui_musicplayer
@@ -1647,6 +1646,7 @@ Renux-Team/renuxos
 Resnog/prog_langs_stuff
 Revisit197/exam-grading
 Revive101/Arcane
+Rex-Sanchez/fzz
 Rhaki/process-terminal
 Rhelvetican/rsvancify
 Rhustish/rustinfancy
@@ -2769,6 +2769,7 @@ captain-kuan/what-to-eat
 captainzonks/Stisty
 captalphabet/save-point
 carlolalu/rust-ilearn
+carlosayam/bhatrs
 carykees98/rust-todo
 catch-twenty-two/mobilenet-burn
 catgirlcataclysm/zinc
@@ -3794,6 +3795,7 @@ icub3d/intcode.rs
 icub3d/puzzles
 id-2/vector
 idontcalculate/solar-station
+idp2p/idp2p
 ierezell/ierezell.github.io
 iewnfod/matrix-tui
 ifd3f/backrooms-rs
@@ -3828,6 +3830,7 @@ inclus16/feedback_score
 indieleet/iaue
 industrylol/blackjack-tui
 infinitensorai/exam-grading
+informalsystems/malaketh-turbo
 ingenieroariel/dummy
 init4tech/pawn
 inkscopexyz/inkscope-fuzzer
@@ -3917,7 +3920,6 @@ jadenaccord/emulatorr
 jadenaccord/stdr
 jadenaccord/widgetr
 jaennil/ptu
-jakehendersonx/anthropic-in-a-shell
 jakewaldrip/ssh_tui
 jako4295/crabtype
 jalalvandi/GuardX
@@ -4408,6 +4410,7 @@ li041/exam-grading
 liamwb/talendar
 lielfr/activity-monitor-rs
 lifeisacanvas24/fun-rust-experiments
+light-magician/anthropic-in-a-shell
 lihua114514/exam-grading
 like-engels/whisper
 lil-re/domain-hunter
@@ -4532,7 +4535,6 @@ luxkatana/mini-ftp-cli
 lwande-gubelana-25/linear-regression
 lwyBZss8924d/My-OpenAI
 lxl66566/beatmap-downloader
-lyfeblocnetwork/op-reth
 lyfeloopinc/reth
 lyx1213812138/ai-exam-grading
 lzt1008/powerflow
@@ -5277,7 +5279,6 @@ psobolik/gi-gen
 psobolik/ratatui-file-browser
 psobolik/tui-calc
 pswsm/rrmm
-psychvc/linutil
 pubgrub/keysim
 punisher1/net-rs
 punkestu/api-caller
@@ -5667,6 +5668,7 @@ shadow-hq/shadow-reth
 shadow111/payment_engine
 shadowgate15/nx-tui
 shadowoss/exam-grading
+shafouz/stdout-fuzzer
 shanecelis/potions
 shangsony/reth
 shantanugoel/advent-of-code-2024
@@ -5991,7 +5993,6 @@ testmachine-ai/reth
 tesujimath/gitmoto
 tetsugakusha256/key-viewer
 tez-capital/tezos
-tezos/tezos-mirror
 th-duvanel/nu_pack
 th3-5had0w/fuzzyboi
 thales-maciel/one-wip
@@ -6073,6 +6074,7 @@ tomasfarias/temporal-tui-rs
 tomberch/aws-console-tui-rs
 tomblazejewski/blaze-explorer
 tomblazejewski/blaze_flash
+tomblazejewski/blaze_git_diff
 tomblazejewski/blaze_telescope
 tomgroenwoldt/keyglide-cli
 tommy-gilligan/cdp
@@ -6534,7 +6536,6 @@ zigzagpig/exam-grading
 zippy1978/socli
 ziriuz84/asteroid_tui
 zjp-CN/term-rustdoc
-zloykotept/musicshell
 zlubsen/packet-rehash
 zmaril/bpfquery
 zmlcc/exam-grading-aaa
