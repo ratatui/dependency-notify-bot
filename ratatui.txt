@@ -108,6 +108,7 @@
 6arare/ciphered
 6arare/vita-rs
 72-S/mcl
+72mins/sequoia
 737069384/loom-main
 7ijme/copy-cards
 7k1nx34b/dropbear_unlock_console
@@ -702,6 +703,7 @@ FauxFaux/ansi-to-tui-testcase
 FedericoBruzzone/tgt
 FedorBuggins/journal-cli
 FelipMa/snake_game
+FelipeMorandini/stockterm
 Felix-Zhenghao/exam-grading
 FelixFern/tetrs
 FelixNgFender/teto-rs
@@ -2070,13 +2072,6 @@ TylerBloom/specte-rs
 TylerBloom/webatui
 Tyrannican/neomod
 UMDBPP/PacketRaven
-UPB-RustWorkshop/ratatui-apr2024-CAmi307
-UPB-RustWorkshop/ratatui-apr2024-Darius-Constantin
-UPB-RustWorkshop/ratatui-apr2024-GemDeKaise
-UPB-RustWorkshop/ratatui-apr2024-Stefan-B-Lwk2
-UPB-RustWorkshop/ratatui-apr2024-bogdan-deac
-UPB-RustWorkshop/ratatui-apr2024-dragos-gheorghioiu
-UPB-RustWorkshop/ratatui-apr2024-vlad-acs
 UPB-RustWorkshop/upb-rustworkshop-ratatui-nov2024-Ratatui-Nov2024
 UZ9/gt-tracker-rs
 UltimateBoomer/rust-sweeper
@@ -2414,7 +2409,6 @@ allstarissey/zen_atc
 allthatjazzleo/coinmarket
 almulalic/rust-ludo-game
 aloisrtr/renju_move_matching
-alpenlabs/strata
 alpha-tango-kilo/imdb-id
 alphastrata/nvtop-rust
 altinakseven/xvim
@@ -2545,12 +2539,12 @@ asakaicode/ratatui-practice
 aschey/daemon-slayer
 aschey/elm-ui-rs
 aschey/platune
-aschey/ratatui-syntax
 aschey/ratatui-xterm-js
 aschey/rooibos
 aschey/slite
 aschey/tilia
 aschey/tui-rsx
+aschey/tui-syntax-highlight
 asdfish/rsplayer
 asdrubalinea/mm-schema
 aselapasinduD/Rust-Terminal
@@ -3454,6 +3448,7 @@ firecrack/DLsys-lang-exam
 firefish111/way-two-fa
 fjpereny/rust-mechanical
 fkaa/logalyzer
+fkie-cad/squid
 flashbots/rbuilder
 flashbots/rbuilder-operator
 flatironinstitute/cephdu
@@ -3762,7 +3757,6 @@ hinto-janai/mw
 hiproco/tui-prac
 hirosystems/clarinet
 hiszd/zedit
-hitradian/eth-bsc-mev-bot
 hjens/json_explorer
 hjfreyer/hanoi
 hjy9725/exam-grading
@@ -4037,6 +4031,7 @@ jharlan-hash/pi-game
 jharrilim/dbterm
 jharrymoore/swatch
 jherimum/crab-chat
+jherimum/wine-orders
 jhonnatangomes/branches
 jhpetrichor/exam-grading
 jhpetrichor/exam-grading-origin
@@ -5549,6 +5544,7 @@ rust-benchmark1/omicron
 rust-lang/rustlings
 rustic-rs/rustic
 rustl3rs/banner
+rustnew/burn_CNN_neural
 rustsbi/standalone
 rusty-drone-2024/picto_rust_client
 rux-one/haxgent
