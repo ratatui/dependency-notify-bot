@@ -495,7 +495,6 @@ CmrCrabs/lava-lamp
 Code-Militia/jirust
 CodeCanna/whatshouldwewatch
 CodeSlogan/exam-grading
-CodecNomad/Taint
 Coded5/GameboyRust
 CodedMasonry/how_far
 CodedMasonry/polycasting.rs
@@ -646,6 +645,7 @@ DragonflyRobotics/RustCalculator-ISP
 Draichi/burn_hello_world
 Drazhar/RustyGains
 DreadedHippy/ratatui-project
+DreadedX/siranga
 DreckSallow/melody
 DreckSallow/music_shell
 Dregen-Yor/exam-grading
@@ -1307,6 +1307,7 @@ Luis-Gutierrez-Pereda/rustty
 LukeDias42/focusbuild
 Lunderberg/stardew_bot
 Lut99/justact-prototype-rs
+Lut99/rpg-rs
 Lut99/tui-toolkit-rs
 LuukE-cmd/chart_tui
 Luxury-Entertainment-CrowdTech/cache-distributed-server-storage
@@ -1576,6 +1577,7 @@ OperandOverflow/messagist
 Optics-Boss/leosys
 OptimisticPeach/cs251simulator
 OrigamiDream/text-generation-inference
+Origor/type-race-tui
 Osakana-pichipichi/yahtzee
 Otard95/rudis-tui
 OtherJohnGray/Sledit
@@ -1712,6 +1714,7 @@ Quessours/qsspodcasts
 Questiero/Rust-projects
 Quicksilver151/salatui
 Quicksoapy/tama_rust
+Qumulo/nixpkgs
 R-uan/bluetui
 R366Y/task-rustler
 R3ZV/walt
@@ -2070,6 +2073,7 @@ Telcoin-Association/telcoin-network
 TelurijevDioksid/keeper-crabby
 TelurijevDioksid/krab
 Telx-lab/telx-network
+Telx-utility/telxu-network
 TemurRust/gitoxide
 TenebrisUltorem/tmp
 Terpsichord/minimax
@@ -2173,6 +2177,7 @@ TritonVM/triton-tui
 Troels51/dtui
 TroyNeubauer/plane
 TrueDoctor/closest-string
+Truong1995-svg/foundry
 TsaoLun/guide
 Tsireledzo2/Tsireledzo-Makhado
 Tudmotu/forgery-rs
@@ -3062,6 +3067,7 @@ cidit/rustodo
 cihat/texus
 cioczekk/console-workstation
 cioczekk/currency-converter
+cipher-shad0w/TimeGuardian
 cipherblack/pulse
 ciqven/reboot-to
 circles-project/matrix-rust-sdk
@@ -3731,6 +3737,7 @@ frroossst/clipse-rs
 fscs/sitzungsverwaltung
 ftschirpke/kakebo
 fuad1502/oombak
+fuhan666/sheet-cli
 fujiapple852/trippy
 fullzer4/AWSLayer
 funbiscuit/spacedisplay-rs
@@ -3832,6 +3839,7 @@ gitui-org/gitui
 gitworkflows/nixpkgs
 giyermo/rtop
 gjogre/clockdate-rustwidget
+gjogre/gjpanel
 gk45mm/Rustodo
 glazari/lambda-calculus
 glicol/glicol-cli
@@ -3929,6 +3937,7 @@ haleihuixin/exam-grading
 hallabois/twothousand-forty-eight
 haloboy777/eddy
 hamed210/foundry
+hamlittle/blackjack
 hanasa2023/ykls
 hanshuaikang/Nping
 hansu2022/InfiniLM
@@ -4745,6 +4754,7 @@ lilyinstarlight/nixpkgs
 limitcool/nyar
 linmenglite/inf
 linux-cultist/ecs-containers
+linuxdeda/linutil
 linvegas/tiyt
 lipsanen/tmemo
 liron-research-org/python-sast
@@ -5483,6 +5493,8 @@ pandeyanup/ytclimp
 pandorixtech/rask
 panghu-huang/media-downloader
 pansila/mcp_server_gdb
+pantaelaman/case100
+panter-dsd/obsidian-todoist-sync
 panthervis/commune-test
 pants721/pants-editor
 paradigmxyz/eip3074-instructions
@@ -5688,6 +5700,7 @@ pythops/tegratop
 pythops/tenere
 pythops/tuix
 pyyupsk/todui
+qaop-coder/qa
 qcoral/card-grant-sender
 qexat/ratatui-things
 qkzk/fm
