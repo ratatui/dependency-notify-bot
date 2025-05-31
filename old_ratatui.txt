@@ -3529,6 +3529,7 @@ curver-game/curver-backend
 cvusmo/casaverde
 cxreiff/bevy_ratatui
 cxreiff/bevy_ratatui_camera
+cxreiff/chainmail
 cxreiff/fictui
 cxreiff/lifecycler
 cxreiff/ratthew
@@ -3957,7 +3958,7 @@ esp-rs/esp-generate
 espressif/idf-im-cli
 eswar2001/nixv
 etched-network/etched
-eth-applied-research-group/poost
+eth-applied-research-group/zkboost
 ethanAthompson/suparimoto-a3
 ethanAthompson/traffic_light
 ethankremerdojc/jumpterminalgame
@@ -5655,6 +5656,7 @@ mslauson/lazycurl
 msminhas93/hacker_pulse
 msminhas93/nviwatch
 mstallmo/portal
+mswkhan27/sysmon_rs
 mtclinton/termdex
 mterring/canalyzer
 mthproject/nixpkgs
