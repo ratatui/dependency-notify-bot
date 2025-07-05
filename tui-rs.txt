@@ -18,7 +18,6 @@
 0P3N50URC3-F0R3V3R/veloren
 0cole/resource-manager
 0mbi/veloren
-0o-de-lally/carpe-fork
 0o-de-lally/diem
 0o-de-lally/libra
 0o-de-lally/libra-framework
@@ -1370,7 +1369,6 @@ Mathou2121/Rust-tui
 Mathu-san/project_rust
 MatriX-/sui
 Matrix-Groups/diem
-MatrixCrawler/vector
 MatthewPritchard/gitoxide
 MatthewWilkes/waveguides
 Mauw94/wy-media
@@ -1483,7 +1481,6 @@ NVanger/aptos-core
 NYStud/gitui
 Nabushika/webexterm
 Nachasic/rtrackr
-Nadybot/ao-chat-client
 Naeil22/foundry
 NaiKiDEV/productivity-tui
 NamousNassim/rust_todo
@@ -2199,7 +2196,6 @@ Williamrjw/bandwhich
 Williamrjw/termscp
 Williamrjw/tickrs
 WindSoilder/nushell
-Winderton/vector
 Windows10CE/spotify-tui
 Winless/move-to-evm-tps-test
 WizardOhio24/gitui
@@ -3189,14 +3185,12 @@ coin1111/ollibra
 coinlist/hancock
 cole-h/passrs
 colessar/tetris
-colin-grapl/vector
 collinvandyck/rust-learning
 comcloudway/dioxus
 comerjt/sui
 compnetzero-ai/diem
 compyHaX/rlog
 conao3/rust-dioxus-tui-sample
-conblem/vector
 conceptlove/db-rs
 conceptor-pepe/aleo-pool-server
 conceptor-pepe/aleo-prover
@@ -3405,7 +3399,6 @@ daweth/test-sui-client
 dawidd6/gping
 day-trip/AiCraft
 dayeya/Bamba
-dazetsai/gitui
 db48x/console
 dbcfd/vector
 dbrafael/qop
@@ -3883,7 +3876,6 @@ farbanas/redis-tui
 faruba/veloren
 fasterthanlime/oha
 fasterthanlime/ruis
-fateh321/diem
 fathom-io/fluvio
 favetelinguis/bfg-rs_v1
 favetelinguis/glenn-tui
@@ -4066,14 +4058,12 @@ getong/metrics
 getong/rust_example
 getong/veloren
 gferon/gurk-rs
-ggaowp-zz/diem
 ggaowp-zz/move
 ggelabert/vector
 gheorghitamutu/RSnake
 ghostface/tuigreet
 giangtranmd/aptos-core
 gieno/veloren
-gijswijs/sapio
 gilescope/nushell
 gilesknap/eyes2
 gillespiecd/nushell
@@ -4252,7 +4242,6 @@ heavymetalthings/ArmoredKernel
 hecg119/kmon
 heckmarr/ogopogo
 hecrp/LLM-train-monitor
-hedonihilist/nushell
 heejin-github/snarkOS
 heeuid/rust_practice
 heeuid/tui_rust
@@ -4452,7 +4441,6 @@ imran-iq/taskwarrior-tui
 imrewang/MusicPlayer
 imsnif/bandwhich
 imsnif/diskonaut
-imsungchoi-fb/diem
 imthor/cal-rs
 imuxin/kubectl-watch
 inayet/nixpkgs
@@ -4652,7 +4640,6 @@ jfontanet/bctop
 jgalat/image-sorter
 jgarte/gpg-tui
 jgarte/kbd_stats
-jgarte/pomodoro-tui
 jgerrish/tui-command-bar-widget
 jgf-forks/nixpkgs
 jgrussell/gitui
@@ -4663,7 +4650,6 @@ jhonboy121/netaccess
 jhonnatangomes/branches
 jianghan1976/snarkOS
 jianku/nushell
-jiashiwen/tuisample
 jiayouchrislin/vector
 jiazhizhong/nushell
 jiblime/jiblime-overlay
@@ -4964,7 +4950,6 @@ knarfytrebil/blacktrade
 kneasle/sapling
 knight110001/aleo-prover
 knochm/spotify-tui
-knottio/nushell
 knutwalker/covidd
 koalp/nushell
 kobutomo/comet2simulator
@@ -5377,7 +5362,6 @@ matkrin/mvg-tui
 matoushybl/sm4
 matrixlin/veloren
 matt-bsd/xplr
-matt-warren/pomodoros
 mattcl/meanderer
 mattcl/taskwarrior-tui
 mattconde/vim-deathmatch
@@ -5679,7 +5663,6 @@ muhammadazzazy/proclynx
 muhammadn/vector
 mujpao/console
 mulfdev/rust-ticker
-mundry/atuin
 music-brain88/aws-tui
 muskanmahajan486/quake
 must479/Aleonode
@@ -7026,7 +7009,6 @@ ssommera/rust_schedule_system
 ssosik/markdown_query
 ssosik/meilizet
 ssosik/tika
-ssosik/tika-xapian
 sstelfox/bevy_tui
 sstoltze/rust-playground
 sszp888/aptos-core
@@ -7182,7 +7164,6 @@ svenstaro/bottom
 svenstaro/fredjam2018
 svetli-n/gitoxide
 swaitw/vector
-swankyPID/nushell
 swr1bm86/move
 syedriko/vector
 syegres/zenith
@@ -7590,7 +7571,6 @@ vitrioil/digup
 vivid-lukeloresch/vector
 vivint-smarthome/vector
 vk2gpu/voice-trainer-rs
-vkczyz/dosh
 vkleen/turbopump
 vladb99/paco
 vladimyr/gping
@@ -7697,7 +7677,6 @@ wezm/what
 wfvkvh/gobang
 wgb1990/vector
 wgslsmith/wgslsmith
-wh-antares/diem
 whalelephant/snarkOS
 whispersilk/fic_archive
 who-am-i1504/zenith
@@ -7901,7 +7880,6 @@ youhavethewrong/amelioration
 youhavethewrong/lg
 youhavethewrong/transmutation
 younghai/gobang
-younghai/kdash
 youngkangrui/aptos-core
 youngsaber/snarkOS
 yourmoonlight/diem
@@ -8033,7 +8011,6 @@ zmf2022/ALVR
 zmilan/console
 zmilan/diem
 zmilan/dioxus
-zmilan/gitoxide
 zmilan/gobang
 zmilan/nushell
 zmoveguy/aptos-move-linter
@@ -8055,7 +8032,6 @@ zthompson47/pseudotty
 ztlevi/joshuto
 ztroop/dead-ringer
 zu1k/LibAFL
-zuckerbrin/bottom
 zukaman/aptos-core
 zuodh/quake
 zupzup/rust-commandline-example
