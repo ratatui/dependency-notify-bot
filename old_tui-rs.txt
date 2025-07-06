@@ -16,7 +16,6 @@
 0LNetworkCommunity/zapatos
 0P3N50URC3-F0R3V3R/veloren
 0cole/resource-manager
-0mbi/veloren
 0o-de-lally/diem
 0o-de-lally/libra
 0o-de-lally/libra-framework
@@ -132,7 +131,6 @@ AFLplusplus/libafl_paper_artifacts
 AI21212019/rust-commandline-example
 ALinuxPerson/playit-agent
 AMBacelar/input-reader
-ANT-Studio/tli-checkers
 AP-based-snek-JAM/snek-server
 ARez2/RustyChat
 ARez2/Snippy
@@ -352,7 +350,6 @@ Birbwell/chat_app
 Birbwell/chat_app_server
 BitcoinOutput/imove
 Bittencourt/biosim-rust
-BiziPixels/kdash
 BlackYoup/spotify-tui
 Blatko1/zone-bot
 Blito/character-sheet
@@ -722,7 +719,6 @@ Flaise/sclan
 FlaminSarge/ALVR
 Flightlesseagle/snarkOS
 Flintblocks/reth-server
-Floflis/nushell
 FloppyDisck/GPTerm
 FlorianRohm/aoc2021
 Flynatol/masters-project
@@ -1063,7 +1059,6 @@ KarlHeitmann/git_explorer
 KarlHeitmann/needle_in_a_yaml
 KarlHeitmann/rg_explorer
 Karthik248/veloren
-KatsukiFujimoto/git-ex-rs
 KatsukiFujimoto/git-rs
 KatsukiFujimoto/tui-rs-tutorial
 KaylorBen/gensokyo-tui
@@ -1271,7 +1266,6 @@ MangoNetworkOs/Mango
 Manny27nyc/diem
 Maou-Shimazu/Explicits
 MaratGalin/snarkOS
-MarcelRobitaille/rustfm
 Marcus-Arcadius/bottom
 Marky-Shi/system_alert
 Marten1995/sui
@@ -1605,7 +1599,6 @@ QDaria/nushell
 QRWells/gol
 QRWells/proc-sc-sim
 QRWells/rnetv
-QiaolingTang/vector
 Qiaozy/nushell
 QuantumCoded/segment-scene
 QuantumCoded/torg
@@ -1650,7 +1643,6 @@ Reboot-Codes/clover
 RedDocMD/cp-tui
 RedHunter00/chess
 RedlineTriad/nushell
-RedlineTriad/rshub
 ReemSaidd/TaskManager
 RekhaDS/couchbase-shell
 RemyMiao/nushell
@@ -2051,7 +2043,6 @@ Voklen/Terminal_Cubing
 VolanDeVovan/minecraft-bots
 Volkalex28/tui_protoc
 Volkalex28/tui_va_tree_edit
-VonJC/nushell
 Vonr/parui
 Voxeon/voxfs
 Vrepol/Rust_Crypto_Chat
@@ -2169,7 +2160,6 @@ ZhengjunHUO/rust-playground
 Zhengzhouhao/gping
 ZhenxingXiao/tang-cli
 ZhiHanZ/vector
-Zhongguadedou/vector
 ZhuZhengyi/gitui
 ZingerLittleBee/netop
 Zohorul/vector
@@ -2251,7 +2241,6 @@ agiknight/veloren
 agouin/libra
 agstrc/maquina-de-turing
 agudbrand/emu8086
-ahd-playgrounds/rust-tui
 ahkrr/nushell
 ahkrr/pipr
 ahmadbky/ezmenulib
@@ -2369,7 +2358,6 @@ amadeusine/console
 amagi4ho3/snarkOS
 amarshall/spotify-tui
 amazingefren/calust
-amdyes-droid/nushell
 amerelo/Computor_v2
 amethix/RustDDS
 amexboy/vector
@@ -2517,7 +2505,6 @@ artcevvv/track-and-improve
 artempyanykh/shellmark
 arthurking000/diem
 arthurking000/vector
-arthurzllu/tickrs
 arturh85/factorio-bot
 arturogonzalezm/crypto_kline_tracker
 arustio/acli
@@ -2760,7 +2747,6 @@ boltlessengineer/tet-rs
 bombsimon/gitoxide
 bonedaddy/bottom
 bonedaddy/diskonaut
-bonega/taskwarrior-tui
 bonfus/gurk-rs
 boom27777777/taskwarrior-tui
 boostprox/gping
@@ -2996,7 +2982,6 @@ cocodee/vector
 codabrink/aquinas
 codacy-open-source-projects-scans/device-mapper-persistent-data
 code-lily/learning-tui
-code-pangolin/snarkOS
 codeb2cc/curtis
 coder-blockchain/aptos-core
 codervijo/qvault
@@ -3164,7 +3149,6 @@ danielteberian/Tetanus
 danielxiangzl/Block-STM
 daniloraisi/tui-rust
 danimelchor/todui
-danjl1100/crate2nix
 danjpgriffin/sqlx
 danniehans/aptos-core
 danny-burrows/idle
@@ -3223,7 +3207,6 @@ dbuchacher/logviewer
 dbz2k/spotify-tui
 dceddia/atuin
 dcompoze/fm
-dconnolly/diem
 dcrntn/trashcards
 ddaletski/irename-rs
 dddictionary/textura
@@ -3254,10 +3237,8 @@ denicenko/aptos-core
 denisidoro/spotify-tui
 denismaxim0v/gitui
 denji/kmon
-denveryan/game-2048-tui
 deodad/foundry
 derAlteBarbarossa/Learning_RUST
-derek-zl/gobang
 derrickcao1994/stock_rs
 derrickp/krustens
 dervus/fluvio
@@ -3416,7 +3397,6 @@ dsmo7206/kr_challenge
 dstufft/comrade
 dtimmer1/Peer-to-Peer-Chat
 dtolnay-contrib/rgis
-dtolnay-contrib/soundboard
 dtolnay-contrib/tokio-console
 dtrodrigues/clarinet
 dtynn/snarkOS
@@ -3429,7 +3409,6 @@ ducklin5/tui-clap-rs
 ducklin5/tui-logger
 dufabricio/diem
 dufferzafar/joshuto
-duguorong009/simple-shell-text-viewer
 duncanrhamill/tui-input
 dunnock/tari
 duong2024/snarkOS
@@ -3558,7 +3537,6 @@ endless-labs/endless-rust-sdk
 endwords/veloren
 enixdark/diem
 enowars/bambiXploit
-enp6/rusty_ladder
 enricozb/gopro-tui
 enricozb/intuitive
 enriquephl/diem
@@ -3709,7 +3687,6 @@ flaviusburca/libra
 flaymes/gping
 flber/RustPractice
 flihp/humility
-flip1995/spotify-tui
 flip1995/tui-rs-file-dialog
 florianPat/rust-stuff
 florianbellmann/trustllo
@@ -4177,7 +4154,6 @@ ind-igo/foundry
 inferiorhumanorgans/gitoxide
 infinyon/fluvio
 ingenieroariel/dummy
-ingenthr/couchbase-shell
 inhoinno/kmon
 iniakunhuda/learning-rust-by-doing
 initdc/aports
@@ -4428,7 +4404,6 @@ jokeyrhyme/nushell
 jol-le/smrustpro
 jolestar/move
 jonasrichard/http-capture
-jonathanalvares9009/diem
 jonfast565/metrix
 jonhoo/stuck
 jonsan-ng/diem
@@ -4471,7 +4446,6 @@ josmith42/gitui
 jovecodes/jim_editor
 joyanedel/monclitype
 joyongzhu/funds-panel
-jpdro/diskonaut
 jqnatividad/csvlens
 jqphu/foundry-temp
 jr0dsgarage/DirSync
@@ -4616,7 +4590,6 @@ kingshroud/aleo-prover
 kingshroud/snarkOS
 kingx48/gping
 kinyoklion/rester
-kioqq/crate2nix
 kirbycool/vik
 kirusfg/bookshelf
 kiscad/LittleEditor
@@ -4710,7 +4683,6 @@ kunalabs-io/sui-client-gen
 kunkun073/console
 kurisuke/navicon
 kuschovandrey/sui
-kuviman/dua-cli
 kuy/decom
 kuzlik340/RUSTGUARDIAN
 kvark/rs-voir
@@ -4749,7 +4721,6 @@ lantos1618/whisper_test
 lanyiyrt/aptos-core
 lasantosr/intelli-shell
 lasthyphen/dijets
-lattejed/foundry
 laudiacay/foundry
 laurentcarrie/legendary-memory
 lautung/music-player
@@ -4780,7 +4751,6 @@ lemunozm/termchat
 lenell16/atuin
 lenz913/atuin
 leo-mendonca/Algoritmos_2024
-leochen12-rgb/nushell
 leodutra/nushell
 leogau/foundry
 leoleoasd/rping
@@ -4827,7 +4797,6 @@ lisphacker/rs-chip8-emu
 literallymarvellous/foundry
 lithp/turtlescan
 little-chili/vector
-liu675200/nushell
 liusongde/rftp
 liuyepiaoxiang/aptos-core
 liuyonghai/gping
@@ -4936,7 +4905,6 @@ m1dwest/rsfm
 ma3103yd-s/pwmanager_tui
 ma3103yd-s/real_time_project
 maaxleq/mungeon-client
-mac-3/matrix-cascade-rs
 macabeus/rust-neander
 macalinao/move
 macguirerintoul/spotify-tui
@@ -5633,7 +5601,6 @@ otrho/smbox
 otter-sec/SuiTF
 otter-sec/aptos-ctf-framework
 otter-sec/aptos-test-adapter
-ouertani/fluvio
 ourgal/snowfall
 out-of-cheese-error/quoth
 owonwo/learning-rust
@@ -5706,7 +5673,6 @@ paulcoding810/todo-tui
 pauliancu97/rust-weather-cli
 paulip1792/snarkOS
 paullanum/olive
-paulperegud/libra
 paunstefan/adsb_deku
 paurosellfarre/modbus-tui-receiver
 pavlokuzmin/aptos-core
@@ -5818,7 +5784,6 @@ pontem-network/move
 popmeeting/libra
 portone-io/vector
 poscard/starcoin
-poseidon2011/vector
 posilva/gitui
 posva/minesweeper.rs
 potatogim/rsys-cli
@@ -6209,7 +6174,6 @@ samzkback/zkvote-monorepo
 sanchopanca/richeatta
 sanderkohnstamm/mavshark
 sandstorm/crow
-sanket143/alltwitch-cli
 sanpii/opds
 santakd/bandwhich
 santakd/gping
@@ -6367,7 +6331,6 @@ shaunstanislauslau/gitui
 shaunstanislauslau/gobang
 shaunstanislauslau/libra-1
 shaunstanislauslau/spotify-tui
-shauryapatel1995/dotfiles
 shawnharmsen/foundry
 shawntangy/CS3235-bitcoin-rust
 shazow/foundry
@@ -6601,7 +6564,6 @@ stereoknife/nbt
 steveberryman/vector
 stevecooperorg/backup-brogue
 steveej-forks/crate2nix
-steveej-forks/rep_interchange
 stevenchen3/libra
 stevenhailin/vector
 stevenhofmeyr/joy
@@ -6962,7 +6924,6 @@ tyrken/vector
 tyroruyk/xcalc
 tzyluen/gping
 u240/bandwhich
-uadp/bandwhich
 ualtinok/foundry
 uasi/nushell
 ubcctf/bambiXploit
@@ -7409,7 +7370,6 @@ z2oh/sexe
 z83166588/snarkOS
 zacharydenton/aptos-core
 zacharyeinspanier/todo_list_rust
-zachs18/chatapp
 zack466/jeopardy-go-brrr
 zacklukem/spotify-tui
 zalupenko/snarkOS
