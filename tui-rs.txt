@@ -70,7 +70,6 @@
 149segolte/carton
 15012700225/my-snarkOS
 16arpi/meteo-tui
-16arpi/termchat
 191220029/rust_benchmarks_1.71
 197g/vid-from-pdf
 1b5d/diem
@@ -106,7 +105,6 @@
 54m4d/soundboard
 56quarters/mtop
 5ko99/password-manager
-5thdimension/clarinet
 666lcz/move
 6block/zkwork_aleo_worker
 7415963987456321/spotify-tui
@@ -573,7 +571,6 @@ Dovineowuor/NFT-Marketplace
 DrDewayneRobe/aptos-core
 DrSloth/tui_repl
 DragonCapsule/DOMELAND
-DragonCapsule/veloren-wecw-source
 Dragoshel/rss-rs
 DrakeEvans/foundry
 Drewsapple/spotify-tui
@@ -882,7 +879,6 @@ JakeOShannessy/dua-cli
 JakeTurner616/restitch
 JamesPRobertson/ACCRT-engineer-rs
 JanHett/staged-timer
-Janmajayamall/foundry
 JaoCR/typing-reader
 Jarekkkkk/SuiLipse
 Jaso5/chatty-rs
@@ -1047,7 +1043,6 @@ LastMyName/aptos-core
 LazyDope/rclone-filter-former
 LeCyberDucky/bitgeon
 Ledich19/retype
-LeeWarnock/tickrs
 LegNeato/vector
 LegitCamper/my-spacetraders
 Lehrbas/cs-holder
@@ -1310,7 +1305,6 @@ NorfairKing/bevel
 NotAShelf/tempus
 NotSovetSpy/budget_manager
 NotThatRqd/totem-of-ket
-NovaT82/tari
 NovatecConsulting/skill-manager-cli
 NtiyisoN/veloren
 Nub/checkmate
@@ -1411,7 +1405,6 @@ PicoJr/geotui
 PieKing1215/FallingSandEngine
 PierreAntoineGuillaume/quick-automation-devtool
 PineAppleGrits/goose-game
-PinkDiamond1/diem
 PinkDiamond1/libra
 PitEG/rumu
 Pitusharka/aptos-core
@@ -1876,7 +1869,6 @@ Wladoo/holochain
 WlanKasper/aptos-core
 WoodyWizard/just_chat_rust_twitch
 Wooker/rayday
-WormOn/nushell
 WriteRaven/aptos-core
 Wuzado/hn-rs
 X-oss-byte/foundry
@@ -2015,7 +2007,6 @@ adrianvillanueva997/yak-workshop
 adrienthebo/mandelbrot-rs
 adsozuan/riptop-rs
 aduh95/spotify_rust
-aedrax/adsb_deku
 affidaty-blockchain/trinci-db-explorer
 afnanenayet/lc3-vm
 afshan-codes/atuin
@@ -3163,7 +3154,6 @@ eppixx/reel-moby
 equal1z3rr/aptos-core
 equirosa/nixpkgs
 erazoor/rustytool
-erbowl/vector
 erdiari/side-projects
 erhlee-bird/vector
 eric-huyl/rusty-jukebox
@@ -3307,7 +3297,6 @@ foxfriends/joshuto
 fpytloun/vector
 francis8991/typewriter-crossterm
 frankfanslc/gitoxide
-frankfanslc/lazycli
 frankh/atuin
 frankiebaffa/todo_tui
 frectonz/lobste-rs
@@ -3666,7 +3655,6 @@ igorlnunes/wallet_addr
 igravakka/aptos-core
 igtm/ri-calculator
 ihercowitz/spotify-tui
-iitians/diem
 iivu/music-player
 ikamanu/libra
 ikeukenhof/RustPlayer
@@ -3743,7 +3731,6 @@ ismeade/rust-exp
 isubasinghe/tintindb
 it4ch1-007/Buzz
 iterion/jira-ticket-fetch
-iterion/vector
 itn3000/crosstermlabs
 itn3000/nushell
 itsjunetime/smcurser
@@ -3792,7 +3779,6 @@ jamesatomc/kanari-move-cli
 jamesatomc/rooch-fix-windows
 janbrummer/gurk-rs
 jankeromnes/gitpod-benchmark-nushell
-janlisse/blackjack
 jannes/han-cihui
 janrockdev/rust-cli
 jantb/rlog
@@ -4469,7 +4455,6 @@ matthewmturner/spotify-tui
 matthiasdebernardini/rusty-krab-manager
 mattiasgronlund/cargo-embed
 mattico/bottom
-mattsu2020/aptos-core
 matubu/nixpkgs
 matusf/openapi-fuzzer
 matyunin/diem
@@ -4522,7 +4507,6 @@ meapdotfun/meap
 mebn/zfinger
 medwards/gitt
 meetmangukiya/foundry
-megumew/oxidatchi
 mehtaculous/foundry
 meilin96/snarkOS
 mel-project/melminter
@@ -4615,7 +4599,6 @@ mlyixi/sshrs
 mm9942/snake-term
 mmrakt/pretty-git-ui
 mmrmagno/quick-cli
-mochidaz/Just-Another-Todo-List.rs
 mochidaz/bebasin
 mochidaz/bunbuntype
 mochidaz/yorihime
@@ -4871,7 +4854,6 @@ nourspace/libra
 novafacing/emoto
 noviadi/system-monitor
 npc9001/vector
-nponsard/settings-manager
 npv2k1/learn-sui
 nrot/teleconsole
 nrskt/console
@@ -5088,7 +5070,6 @@ peterjweir/ytop
 peterkos/rolex
 petersimonsson/gpsinfo
 peterthesling/whale
-petervaro/gping
 petitcorbo/rust-game-collection
 petitcorbo/yunikod
 petrostrak/password-manager-in-rust
@@ -5667,7 +5648,6 @@ shivan-eyespace/md-reader
 shnwang/thokr
 sholderbach/nushell
 shomitarai/video2cmd
-shouc/LibAFL
 showBeginner/Rust_Practice
 shprotaa/aptos-core
 shroom00/slsk-rs
@@ -5864,7 +5844,6 @@ stmSi/tui-rust-example
 stnert/tuigreet
 stonecutter3/snarkOS
 stormasm/nushell-parquet-72
-stormgo/nushell
 storming0x/foundry
 stowiq/termauth-rs
 stowiq/tui-block
@@ -6046,7 +6025,6 @@ thomilx/aptos-core
 threefoldtech/zos-rs
 thrombe/musiman
 thrombe/wildo
-thrykol/vector
 thunklife/rust-cli-example
 tiagodeliberali/chip8
 tiennv166/aptos-core
@@ -6067,7 +6045,6 @@ tisd/tasky
 titanson2/move
 titusdmoore/helpdesk
 tjandrayana/vector
-tjcichra/tira-cli
 tklengyel/LibAFL
 tkmcclellan/slg
 tkmxqrdxddd/logviewer-systemd
@@ -6426,7 +6403,6 @@ x0f5c3/nushell
 x0oo11235oo0x/Aptos
 x0oo11235oo0x/aptos-core
 x1y9/rust-stock
-x2909/tari
 x3ro/lc3-rust
 xRetart/quick-menu
 xa888s/rmpc
