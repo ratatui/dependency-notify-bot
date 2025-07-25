@@ -274,7 +274,6 @@ COMP6991UNSW/termgame
 CRasico/pomorusto
 CSIS/nixpkgs
 CSML-by-Clevy/csml-engine
-CUB3D/rust-rtmfp
 CUBETIQ/vector
 CaffeineDuck/airfarm
 CakeWithDivinity/clocker
@@ -635,7 +634,6 @@ ItsBenyaamin/passmng
 Ivan-Shish/Aptos34
 Ivan-Shish/Sui34
 JCLLi/UAV-Rust
-JDuchniewicz/Rustalizer
 JJdastoner5099/nixpkgs-master
 JRMurr/bang
 JWaibong/tui-typing-test
@@ -1840,7 +1838,6 @@ camshaft/euphony-rs
 canac/mailbox
 capeter123/eurobot-base
 caphosra/monopolizer
-caralu74/bandwhich
 carlos1798/2048-in-rust
 cartoon-raccoon/rustyedit
 cartrius/resource-manager
@@ -2072,7 +2069,6 @@ dataO1/flow
 datacurve-ai/OxIDE
 datafusion-contrib/datafusion-dft
 davawen/minecraft-mod-downloader
-david-perez/taskwarrior-tui
 david072/conways-game-of-life-tui
 david47k/boxbopper
 davidiw/aptos-core
@@ -2149,7 +2145,6 @@ dist1ll/sc
 ditsuke/nixpkgs-compat
 diversable/nushell
 divij173/Rust-Programming
-djkloop/bottom
 dmaahs2017/ynab_tui
 dmadisetti/steam-tui
 dmarkey/spseer
@@ -2183,7 +2178,6 @@ dot-Sean/gping
 dotbitHQ/ckb-cli
 dougtq/rust-lang
 doytsujin/atuin
-doytsujin/bottom
 doytsujin/gping
 doytsujin/nushell
 doytsujin/tui-realm
@@ -2261,7 +2255,6 @@ ekusiadadus/vector
 ekxide/iceray
 elanjie/nushell
 elasticrash/tiggy
-elcih17/spotify-tui
 electronicarts/helmci
 electronicsleep/rust-cli
 eleijonmarck/pomo
@@ -2352,7 +2345,6 @@ fabolous005/sc
 facundoolano/rpg-tui
 fadelpamungkas/chip4editor
 fadenb/nixpkgs
-fahadbr/todotui-rs
 fallen/aports
 famasoon/baby_fuzzer
 famedly/matrix-rust-sdk
@@ -2469,7 +2461,6 @@ getong/rust_example
 getong/veloren
 gheorghitamutu/RSnake
 gilesknap/eyes2
-gillespiecd/nushell
 gimbalabs/oura
 gimust/nushell
 gin66/tui-logger
@@ -2533,7 +2524,6 @@ guysherman/kittymux
 guzzdev/blackjack
 gvsfans/Aleo1
 gvvynplaine/bottom
-gvvynplaine/gitui
 gvvynplaine/gping
 gwapIgot/aptos-core
 gwik/ptraf
@@ -2639,7 +2629,6 @@ iamdb/hifi.rs
 ian-moody/Duckception
 ianoc/bazel-fe
 iavael/nixpkgs
-ibhanu/gitui
 iblamekonradzuse/habit_tracker
 icy-ux/tui-logger
 idlab-discover/RustiFlow
@@ -2717,7 +2706,6 @@ iustusae/payertimes_rs
 ivan-gusiev/prolog-rs
 iwanders/spaced_repetition_tool
 iximeow/build-o-tron
-iysheng/dua-cli
 j1m-ryan/tasko
 j2ghz/ytop
 j2ghz/zenith
@@ -2736,7 +2724,6 @@ jaeheonji/nushell
 jaehyun1ee-furiosa/dot-viewer
 jafioti/lm_test
 jafriyie1/nushell
-jakabk/gitui
 jakesactualface/donut
 jakm/bandwhich
 jam1garner/nail
@@ -2777,7 +2764,6 @@ jeffa5/block-breaker-tui
 jeffdn/enigma
 jeffwoooo/move-build-test
 jeka1331/argocd-tui
-jellybobbin/gitui
 jemmyw/spec_detect
 jenggo/macchina
 jenoh/charbon
@@ -2988,7 +2974,6 @@ kmifa/learn-rust
 kn-lim/xivcrafter-rs
 knarfytrebil/blacktrade
 kneasle/sapling
-knochm/spotify-tui
 knutwalker/covidd
 kobyhallx/foundry
 kod-kristoff/slack-tui-rs
@@ -3125,7 +3110,6 @@ lpil/lpil
 lpolish/dockertop
 lpraneis/aranet4-dashboard
 lquinn2015/FFT-tui
-lsaa/ddstats-rust
 lsytj0413/ancla
 lthoerner/rut
 lucas-cauhe/chip8-rusterpreter
@@ -3488,7 +3472,6 @@ newAM/dp800
 newsch/sht
 nextonesfaster/wordle-cli
 ngraham20/nushell
-ngraham20/ssh-manager
 nguyenbathanh/gping
 nguyenthihai22222qt/sui
 nharper285/onefuzz
@@ -3663,7 +3646,6 @@ patelpreet422/gitoxide
 patevs/gobang
 pathim/doorui
 patmosxx-v2/gping
-patocl/rust-playground
 patrickanguyen/sqlite-watcher
 patrickkuo/sui-project
 paulcoding810/todo-tui
@@ -3722,7 +3704,6 @@ pkgltn/Blast
 pkulak/matui
 plaflamme/yaner
 planus-org/planus
-plasmoduck/spotify-tui
 playit-cloud/playit-agent
 plmwd/game-of-life-rs
 plmwd/rss-tui
@@ -3787,7 +3768,6 @@ quilt-lang/quilt
 quinnromanek/scantron
 quirinux/rust-gboy
 qurius/json_tui
-qwerty2501/gitui
 qxrein/onigiri
 qxzcode/RadBot
 r-zenine/sam
@@ -3875,7 +3855,6 @@ richardwesthaver/rlib
 richinseattle/LibAFL
 rickypcyt/miniprojects2025
 riddopic/diem
-right4mat/spotify-tui
 rikshot/rshsl
 riku-yanagihashi/Lazy-todo
 rimaout/pomodoRU
@@ -3931,7 +3910,6 @@ rtkay123/mirro-rs
 rubenhorn/nightride-fm-tui
 rubenjr0/sugar_diff
 rubydusa/oxidized_octi
-ruizhaoz1/ckb-cli
 ruizhaoz1/libra
 runlevel5/bottom
 runningcoders/easy_shell_os
@@ -4395,7 +4373,6 @@ thrombe/musiman
 thrombe/wildo
 thunklife/rust-cli-example
 tigercat2000/tiger-spacetraders
-tim77/bottom
 tim77/gping
 timaliberdov/gitui
 timb-machine-mirrors/tlspuffin-tlspuffin
@@ -4447,7 +4424,6 @@ trigg/discern
 trisasnava/koifish
 trman/ALVR-x
 trstruth/lope
-truedays/desed
 trustless-engineering/fluvio
 tshaynik/gurk-rs
 tsheinen/transmogrify
