@@ -8,6 +8,7 @@
 097115/tuisky-forked
 0PandaDEV/FullyRustAudio
 0x-dudu/ter-epub
+0x0-mico/meshetar-tui
 0x152a/three-body-game
 0x4D44/mdsorto
 0x4ndy/pomidor
@@ -612,6 +613,8 @@ CyndieKamau/secret_password_proof
 CynicalMrJones/focus_clock
 CynicalMrJones/logbook
 CynicalMrJones/mobile_logbook
+Cynn1989/Cjs
+Cynn1989/text-generation-inference
 Cypressxyx/lazycurl
 Cyril-Cf/rusty_adventures
 D-lyw/chat-tui
@@ -2434,7 +2437,6 @@ TheChilliPL/Moverr
 TheDan64/pupman
 TheDarrenJoseph/ARQ-Rust
 TheDarrenJoseph/Late-Night-Coding
-TheEmeraldBee/RustyTasks-UI
 TheEmeraldBee/ferrite
 TheEmeraldBee/rexplorer
 TheEmeraldBee/stategine
@@ -3282,7 +3284,6 @@ bdsilver89/p4tui
 bebetoh/codex
 beckend/email-validate-rs
 beelchester/Dev-Practice
-belakm/meshetar-tui
 belarte/rustyban
 bellroy/nixpkgs
 belurgas/trainer
@@ -3502,7 +3503,6 @@ cbdonohue/headlines_tui
 cbdonohue/weather_tui
 cbeust/maple-2
 cbmr-data/slurmboard
-cbosoft/doris
 ccalhoun1999/ratatui-hillclimb
 ccfreak2k/can_services
 ccgauche/ytermusic
@@ -5023,6 +5023,7 @@ jboynyc/nixpkgs
 jbrilha/FEAR
 jcfromsiberia/sensor-vision
 jchacks/accelmon
+jcserv/sqli
 jdavidson018/blackjack-engine-tui
 jdetter/ssh-tailscale
 jdonszelmann/soundboard
@@ -6395,7 +6396,6 @@ otechdo/oh
 otechdo/rei
 otechdo/zuu
 otter-sec/sui-ctf-framework
-otto-bus-dev/display-tui
 oupson/sony-rs
 ourgal/snowfall
 oussamasf/rust-dump-analyzer
@@ -7799,7 +7799,6 @@ unrenormalizable/micrograd.rs
 unrenormalizable/nanoGPT.rs
 untitled-/tuiwindow
 uonr/nixpkgs
-uos/minot
 uosis/nixpkgs
 uran0sH/exam-grading
 uran0sH/infini-tensor-exam-grading
@@ -8254,6 +8253,7 @@ zhonglangj/nockchain
 zhouazhou98/exam-grading
 zhouxy24/exam-grading
 zianksm/Probe
+zifeo/whiz
 ziggoon/vmgr
 zigzagpig/exam-grading
 zingolabs/zexcavator
