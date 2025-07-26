@@ -1,4 +1,3 @@
-0129general/FoundryProject
 01VCS/gitoxide
 02alexander/robby-fischer
 02alexander/rterm
@@ -12,7 +11,6 @@
 0LNetworkCommunity/move-0L
 0LNetworkCommunity/version-six
 0LNetworkCommunity/zapatos
-0cole/resource-manager
 0o-de-lally/diem
 0o-de-lally/libra
 0o-de-lally/libra-framework
@@ -2563,6 +2561,7 @@ jwiegley/nixpkgs
 jyelloz/pvalve
 jzvolensky/weather-tui
 k0zn4n3ja/crypto-wallet-rust
+kabouzeid/turm
 kachark/game-of-life-rs
 kageru/tracc
 kaievns/rusty-key
@@ -2904,7 +2903,6 @@ micmarty/miro-rs
 micnekr/filephile
 micouy/pisak
 migranram/rust-tools
-migroble/xplr
 mihirlaud/chip8-rs
 mike-lloyd03/rudy
 mikeevmm/boyl
@@ -3185,7 +3183,6 @@ oxade/node-stream
 oxidecomputer/maghemite
 oxidecomputer/probe-rs
 oxur/rucksack
-oxur/twyngled
 oyvinw/Advent-of-Code
 p-cottrell/todo-list
 p0p3yee/rust-aptos-account-client
