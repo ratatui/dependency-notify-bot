@@ -444,6 +444,7 @@ Blushyes/ask-ai
 Bogay/normal_game_jam_2024
 Boltzmachine/DanLu
 BolvicBolvicovic/rime
+BongoPoyo/json-editor-test
 BoolPurist/ratatui_todo_app
 Boomtoknlab/turborepo
 Bored-UI/rtop
@@ -1159,6 +1160,7 @@ Iwancof/RFRaptor
 IwantHappiness/psu
 J-Bockhofer/rs-ratatui-i649
 J-Bockhofer/succeed2ban-tui
+J-Bockhofer/termcolors-tui
 JCodV/pomodoro-cli
 JCodV/tui-project-manager
 JHelar/advent-of-code
@@ -1385,6 +1387,7 @@ Kobayashi-takumi/dancing-gopher
 Kodylow/learn-burn
 Kodylow/makemore-rs
 KonboiOne/copper-rs
+Konippi/crypto-tui
 Koshmar10/Tpad
 Kourin1996/ratatui-example
 Kreest/tmux_output_grabber
@@ -2406,7 +2409,6 @@ Ten0/nixpkgs
 TenebrisUltorem/tmp
 Terpsichord/minimax
 TerraDOOM/Upheaval-Draft
-Terraciano/ratatui-template
 Tesohh/hop
 Tesohh/tb
 Teufelchen1/TRIOPS
@@ -2908,11 +2910,9 @@ albanysiswanto/rust-ide-terminal
 albertshops/camel-cup
 albrycht/rsf
 albugowy15/toodles
-alcremytyl/tui-tetris
 aldorithms/fetchatui
 aldorithms/hello-ratatui
 aldorithms/ratatui-counter-app
-aldorithms/ratatui-json-editor
 aldreth/rusty-care-terminal
 aldur/clarinet
 aldur/nixpkgs
@@ -2955,7 +2955,6 @@ alexthegoodman/stunts-web
 alexykn/sps
 aleyan/dela
 alfazet/audioleaf
-alfinsyahruddin/tictactoe-tui
 algoshimo/exam-grading
 alimulap/coppied_private_codes
 alinGmail/riqi
@@ -3054,6 +3053,7 @@ anmol1115/Sudoku-TUI
 annihilatorrrr/nushell
 anotherhollow1125/json_editor_ratatui
 anotherhollow1125/nmed
+anotlife/2025_winter_vacation
 anshsarkar/text-generation-inference-010-deployment
 anthonyamaro15/file-finder-rust
 anthonyroussel/nixpkgs
@@ -4070,7 +4070,6 @@ dvir42/scoundrel-solitaire
 dvush/prfrh
 dwallet-labs/ika
 dweatherstone/one_deck_dungeon
-dybucc/labyrintuine
 dybucc/randy-ng
 dylan-stark/acres
 dylanfair/checklist
@@ -4385,7 +4384,6 @@ furlan-lab/viewmastR
 furrysalamander/ansicraft
 furtidev/srt-linter
 fury-chen/exam-grading-fury-chen
-furyXsol/foundry
 fusion44/nixblitz
 futsuuu/termsky
 fuzzknob/diskspace
@@ -4913,7 +4911,6 @@ j1m-ryan/lazynginx
 j3lmer/json-editor
 j3lmer/rust-ratatui-counter
 j3lmer/suus-game-hub
-j4ckd4n/RustProjects
 j4ng5y/ddtui
 ja-ko/ppoker
 jac-oblong/planit
@@ -6893,7 +6890,6 @@ rudy-in/Artemis
 rudyardrichter/kit
 ruefat-yusifli/Rust-Tools
 ruiiiijiiiiang/file_clipper
-runawayaway/exam-grading
 rune-runtime/rune
 runtimeverification/_audits_SorellaLabs_Angstrom
 rupakhetibinit/ytui
@@ -7117,7 +7113,6 @@ sevenautumns/niketsu
 sevki/ratalottie
 sfu-rsl/leaf
 sgilfeather/CyberGrape
-sgj123456/chinese_dictionary_tui
 sglk123/pte-revm
 sgrimee/webex-tui
 sgshea/agent_world
@@ -8135,7 +8130,6 @@ ybxs887/exam-grading
 ych-yang/exam-grading
 ych-yang/exam-grading-demo
 ych-yang/examg-grading-ych
-ye-junzhe/vimusic
 yekyam/mm_music_tui
 yelinator/lazydata
 yendo-eng/codex
