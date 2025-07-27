@@ -583,7 +583,6 @@ ColtNovak/rmath
 ComlineProject/comline
 ComlineProject/package-manager
 Commencement-Technology/codex
-ComradeJustin/schoolproj
 Consensys/corset
 CookLight/exam-grading
 CookbookDev/Foundry_build
@@ -1107,6 +1106,7 @@ IRSMsoso/audio-preview
 IRSMsoso/environment_tui
 IRSMsoso/tui-counters
 IWildSniperI/Fuzzing-Sorella
+IanTeda/authentication_tui
 IanTeda/hello_worlds
 IanTeda/personal_ledger_tui
 IchbinLuka/ruvola
@@ -1175,6 +1175,7 @@ JaMa-95/passman
 Jabawaka/rust_diary
 JackTench/minilaunch
 JackThomson2/virtio-playground
+JackWang2120/exam-grading
 Jackhr-arch/clashtui
 Jackhr-arch/vtyrec
 JackoCoolio/shux
@@ -1368,7 +1369,6 @@ KivalM/rowdle
 Kkobarii/Rusty-Tape
 Kl4rry/ferrite
 KleaSCM/wallgremlin
-Klectr/KlectrStandup
 Klomgor/AdGuardian-Term
 Klomgor/linutil
 Klomgor/vector
@@ -2387,7 +2387,6 @@ TechLogicals/LinuxToolbox
 Techassi/otel-tui
 Teddy-Kun/linux-hunter-rs
 TeddyHuang-00/TurboTrash
-Tejas242/devtunes
 Telcoin-Association/telcoin-network
 TelurijevDioksid/keeper-crabby
 TelurijevDioksid/krab
@@ -3236,6 +3235,7 @@ base/foundry
 base/node-reth
 base/op-rbuilder
 base/reth
+basementdevs/scyllash
 bayudha2/monsterex
 bbbbbq/llmcamp
 bbc/text-generation-inference
@@ -3335,7 +3335,6 @@ bjoernQ/esp-hal
 bjohnson5/blast
 bjornrun/tgi-gaudi-fixed
 bjornrun/tgi-gaudi-fixed-llama3.1
-bkstein/netview
 bktech2021/abacs
 blackdante101/ratatui-tutorial
 blackmagic-debug/bmputil
@@ -3660,7 +3659,6 @@ corporealshift/chat-gpr
 corysabol/Framer
 corysabol/aif
 cosmicrocks/merka-vault
-cosmikwolf/sazid
 cou723/today-google-calendar
 couchbaselabs/couchbase-shell
 coutureb/atuin
@@ -3674,7 +3672,6 @@ cpcsdk/rust.cpclib
 cpebble/rustui
 cr313/text-generation-inference-load-test
 crabble-rs/crabble
-craigbwagner/tui-file-explorer
 crasite/tidbit
 crazcalm/flash-cards-tui
 crcrworks/topdf
@@ -3776,7 +3773,6 @@ danielmckinnonanderson/ratatui-counter-app
 danielmckinnonanderson/roll-initiative
 danielsanjosepro/lazyros
 danielsyang/tui-do
-danik-tro/redis-rover
 danimelchor/todui
 daniqss/arriva-tui
 danjones1618/cirro
@@ -4107,7 +4103,6 @@ ektimmy/ladderrs
 ekuinox/nmea-monitor
 ekxide/iceray
 el-ev/sniffer
-el-yawd/room
 el-yawd/sqlite-browser
 elbaro/downtown
 electronicarts/helmci
@@ -4116,7 +4111,6 @@ electrototo/rusty-ec2
 elel-dev/tocker
 elkowar/pipr
 ellipticobj/mpvlayer
-elmjag/deutsch
 elsandkls/veloren_dragon_mod
 eltsu7/todo
 emamulandalib/aws-cw-tui
@@ -5017,7 +5011,6 @@ jguhlin/kmer-embeddings
 jguhlin/minimap2-rs
 jguhlin/taxotango
 jgumbley/phasorsyncrs
-jh-sbu/timers_tui
 jharlan-hash/pi-game
 jharrilim/dbterm
 jharrymoore/swatch
@@ -5326,7 +5319,6 @@ kimburgess/nixpkgs
 kindywu/04-ecosystem
 kingcabrams/typing
 kingki663/Rust-Learn
-kingwingfly/burnxp
 kingwingfly/gpt
 kingwingfly/ratchetx2
 kireevys/anna_ivanovna
@@ -5354,7 +5346,6 @@ klaatu01/shepherd
 klapovav/jerry
 kloki/advent-of-code-2024
 kloki/bigbrainwordle
-kloki/ratios
 kloki/regect
 kloki/tmr
 kloki/weeks
@@ -5692,6 +5683,7 @@ maciek50322/terminal-tetris
 madeinheaven91/pwned
 madeofpendletonwool/pinepods-firewood
 madeye13/timekeeper
+madhavan-raja/rest_assured
 madnoberson/ratatui-recipes
 madsbv/nix-options-search
 maebli/tutti-frutti
@@ -5764,6 +5756,7 @@ masrayfa/rust-todo-clap
 masroof-maindak/lughat
 massivebird/lanturn
 mat1gilson/Solace-Protocol
+mat813/imap-tools-rs
 mateocabanal/riscvm
 mateusauler/jj
 mateusauler/nixpkgs
@@ -6222,7 +6215,6 @@ nwiizo/claudelytics
 nwiizo/dur
 nwiizo/exp
 nwiizo/jposta
-nwiizo/workspace_2025
 nwiizo/yamori
 nxm-rs/nexum
 nyanloutre/nixpkgs
@@ -6479,7 +6471,6 @@ pike-text-editor/pike
 pileghoff/Datapoint2200
 pilot7747/etf-tool
 pimalaya/himalaya-repl
-pimlicolabs/revm-proxy
 pimyn-girgis/os_project
 pinage404/nixpkgs
 pineapplehunter/nixpkgs
@@ -6508,7 +6499,6 @@ plohan/sshe
 plsuwu/wosh
 plu7o/candado
 pluiedev/quotelementa
-plule/minitel
 plus7wist/tui_view
 pluumenbrownie/distributed-algorithms
 plx-pdg/plx
@@ -6833,7 +6823,6 @@ royvegard/baton
 rpgram/clirpgram
 rrecalo/algo-visualizer
 rrittste/nixpkgs
-rromanowicz/nordvpn-tui
 rromanowicz/rs_2048
 rrronit/flash
 rsadsb/adsb_deku
@@ -7929,7 +7918,6 @@ whbjzzwjxq/Foray
 whispercash/vara-contract-generator
 whitej031788/jamie-nx
 whoislimshady/tgiFlask
-whtsht/wev
 whu-dft/exam-grading
 whx57/exam-grading-winter25
 wicaksonoleksono/chat-tui
@@ -8175,6 +8163,7 @@ zgrow/spacegame
 zh4ngx/burn_nix
 zhaijiaqi/exam-grading
 zhan0280/codex
+zhangdanq/exam-grading-zhangdanq
 zhangyemengren/hit
 zhonglangj/nockchain
 zhouxy24/exam-grading
