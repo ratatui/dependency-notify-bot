@@ -116,7 +116,6 @@
 514-labs/moose
 56quarters/mtop
 5aaee9/nixpkgs
-66-demon/exam2
 6arare/ciphered
 6arare/vita-rs
 72mins/sequoia
@@ -1320,7 +1319,6 @@ Kibadda/pinentry
 Kibadda/powermenu
 Killer545537/ratatui-learning
 KilroyWasHere-cs-j/Sugar
-Kiltakaro/Rust_Gestion_Utilisateurs
 KimWang906/creamhack
 Kimsale/cxx-exam
 Kimsale/exam-grading
@@ -1347,7 +1345,6 @@ Kodylow/learn-burn
 Kodylow/makemore-rs
 KonboiOne/copper-rs
 Koshmar10/Tpad
-Kourin1996/ratatui-example
 Kreest/tmux_output_grabber
 KristianSvanholm/pleb
 Kromzem/rusty-nes
@@ -1476,7 +1473,6 @@ LxxxtSec/exam-grading
 Lycreal/snake-rs
 Lydanne/mongobar
 Lydanne/rmdev
-Lydia-363/exam-grading
 LylioveinTheSilly/risc-v
 LyonBerends/snake.rs
 M1K8/conductor
@@ -1930,7 +1926,6 @@ Qumulo/nixpkgs
 R366Y/task-rustler
 R3ZV/walt
 R9295/afl-fuzz
-R9295/autarkie
 RDO34/thyper
 REXABLE/lio
 RLuf/FazAI
@@ -2039,7 +2034,6 @@ Ryder-C/blackhole_importer
 Rydwxz/jade
 S4WA/sctui
 SAMoosavi/counter-strike-quera
-SAMoosavi/snake-game
 SINHASantos/gitoxide
 SKAJohanVenter/tango-controls-tui
 SL-RU/mmtui
@@ -2146,7 +2140,6 @@ Shourya742/Practise_lang
 Shresht7/hex-ray
 ShreyJ1729/termcall-rs
 Shringe/Graphinator
-Shringe/pgraph
 Shringe/whalecrab
 SibusisoDwayi03/linear_regression_model
 SiddharthShyniben/flux
@@ -2224,7 +2217,6 @@ SpringHan/tetor
 Sriram19g/Rustyvault-tui
 Srynetix/sshh
 StableCrimson/pokemon-api-rs
-Stalker2106/sapxemu
 StarsAligned/ai-anvil-tui
 Stattek/starstruck-rust
 SteelOverseer/rust_tui_game_of_life
@@ -2932,7 +2924,6 @@ andresganc/todo-list-rust
 andrew-d/nixpkgs
 andrewalvrz/Sentinel-TUI
 andrewalvrz/githeat
-andreymlv/durs
 andstepan/des-rustlings-2024
 anduresu/grounhog-test
 andycancado/rtun
@@ -3144,7 +3135,6 @@ barthelmeh/swapbytes
 barthr/dnsmon-rs
 bartlomiejkrawczyk/PBAD-24Z
 bartnv/meshmon
-bartosz-skejcik/socket_chat
 base/foundry
 base/node-reth
 base/op-rbuilder
@@ -3279,7 +3269,6 @@ bobby285271/nixpkgs
 bodenfisch/yummy
 bodyscrap/buran_sample
 bogzbonny/splashpad
-bogzbonny/yeehaw
 boings/crypto_tui_ticker
 bojohnson5/cliq
 boldandbrad/euchre-tui
@@ -3420,7 +3409,6 @@ charleywright/spotify-analyze-v2
 charlietlamb/rata-1
 charlietlamb/ratatui-counter-app
 chataignault/tasks
-chazfg/doot
 chbug/hc
 chebanne-az/MoniTUI
 chen-dylan-liang/AD-TRAIT
@@ -3527,7 +3515,6 @@ codemonkey76/dialler-rs
 coderonion/exam-grading
 codersparks/aoc-24
 codersparks/aoc-rust-utils
-codervijo/hint
 codervijo/qvault
 codewhisperer-rs/exam-grading
 codewithkenzo/swoop
@@ -5071,7 +5058,6 @@ jwodder/nhmoon
 jwrunge/ratatui_test
 jwrunge/text-editor
 jwt-rs/jwt-ui
-jwu773/infini-tensor
 jwwang2003/fde-cli
 jyasuu/rs-integration
 jyelloz/pvalve
@@ -5379,7 +5365,6 @@ livstyle/LearningInfiniTensor
 lizqwerscott/git_manager
 ljt019/jotview
 ljyoth/audio-player
-llaboon/exam-grading
 llamanodes/web3-proxy
 llamasearchai/llamagpt-rs
 llamasearchai/llamalogalyzer
@@ -5617,7 +5602,6 @@ matubu/nixpkgs
 matze/git-utils
 mavryk-network/mavryk-protocol
 mawis/nixpkgs
-max-code/nuno
 max-niederman/ttyper
 maxbergmark/rust-chess-stat-recorder
 maxbrunet/nixpkgs
@@ -5681,7 +5665,6 @@ mfro/btd6-tool
 mgattozzi/pare
 mgbvox/pom
 mgjm/twitch-tools
-mgjv/M6502
 mgomez0/tuitunes-rs
 mhmtipek/sudoku-term
 mhorod/rust-lang-course-labs6-tui
@@ -6065,7 +6048,6 @@ objz/mcl
 obliviouslabs/oblivSparseMPT
 obviyus/pong
 ocean0117/exam-garding2
-ocean0117/exam-grading
 ocfox/ventora
 ochsec/friend
 ocnow/SessionManager
@@ -6082,7 +6064,6 @@ oiwn/redb-tui
 okira-e/todd
 okxterm/okxTerm
 olaitanade/RustBattleshipGame
-oleeeedev/mouse-drawing-ratatu
 oleeeedev/tic-tac-toe
 olidacombe/tuiscope
 oligamiq/crypto-rng-verification
@@ -6363,7 +6344,6 @@ prbug/calculaterm
 predibase/lorax
 prefix-dev/rattler-build
 preiter93/edtui
-preiter93/tui-event-controller
 preiter93/tui-widget-list
 preiter93/wireman
 preprocessor/Terminart
@@ -7528,7 +7508,6 @@ varonroy/tispect
 vasilymilovidov/nts_cli
 vasthecat/neural-networks
 vasyharan/toku
-vbomfim/tui-poc
 vchekan/kafka4rust
 vchigrin/geekgram
 vcup/rust-playground
@@ -7821,7 +7800,6 @@ yaheath/advent2024
 yaheath/advent_lib
 yamachi4416/rust-life-game
 yamusic/yamusic
-yanet-platform/dwd
 yanghengyii/exam-grading
 yanhuangdata/vectorcxx
 yannham/nixpkgs
@@ -7834,7 +7812,6 @@ yassinebridi/serpl
 yasuhikomachino/ramen-timer
 yato-developer/youtube_player
 ybxs887/exam-grading
-ych-yang/exam-grading-demo
 ych-yang/examg-grading-ych
 yekyam/mm_music_tui
 yelinator/lazydata
