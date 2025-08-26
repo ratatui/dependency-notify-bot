@@ -3615,6 +3615,7 @@ data-niklas/os
 databeacon/rs1090
 datafoo/nixpkgs
 datafusion-contrib/datafusion-dft
+datainquiry/starter
 dataspace-rs/edc-connector-tui
 datawizz/Firestream
 dathere/qsv
@@ -4659,7 +4660,6 @@ jadenaccord/widgetr
 jadenblack/atuin
 jadenblack/kwaak
 jaennil/ptu
-jailop/starter
 jakeledoux/gizmo
 jakewaldrip/ssh_tui
 jakezhu9/sbi-fuzz
@@ -7086,6 +7086,7 @@ tcpessoa/dockspy
 team-telnyx/neptune-core
 teamktown/r-mcpsec
 teamniteo/nixpkgs
+tebriel/nixpkgs
 tecc/brainfuck
 tech4me/ptop
 techygrrrl/sniprrr
