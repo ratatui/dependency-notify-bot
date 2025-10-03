@@ -3125,6 +3125,7 @@ base/infra
 base/node-reth
 base/op-rbuilder
 base/reth
+base/tips
 bastaynav/nixpkgs
 bbc/text-generation-inference
 bbenno/nixpkgs
@@ -3135,6 +3136,7 @@ bblsh/tui-widget-list
 bcabanes/nx
 bcdarwin/nixpkgs
 bclarke123/nanogpt-rs
+bcollazo/deckgym-core
 bcooleman/belch
 bcspragu/mog
 bczhc/pseudo-cd
