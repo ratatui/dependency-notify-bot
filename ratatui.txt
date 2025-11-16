@@ -15,6 +15,7 @@
 0x53A/ractor-wormhole
 0x69pi/apexlegends_kvm
 0xB10C/nixpkgs
+0xBA51C/port-scanner-rust
 0xBradock/alfred
 0xCCF4/timetrax
 0xCCF4/ufuzz
@@ -6713,7 +6714,6 @@ rdk31/nixpkgs
 readlnh/InfiTensor-grading
 reaganmcf/piston
 reaganmcf/r2
-realmansukuna/port-scanner-rust
 realprogrammersusevim/gptrs
 reaudito/custom-image-dataset-classification
 recursive-record-registry/rrr-tui
@@ -7553,6 +7553,7 @@ therealklanni/secret-squirrel
 therishidesai/nixpkgs
 thespicybyte/ratatui_demo
 thetechnicker/console-chat
+thetechnicker/persistent-tui
 thibthibaut/libreeb
 thinker227/noa
 thinkgos/rs_practice
