@@ -144,6 +144,7 @@ ArchLinuxStudio/RaindropDick
 Archimidis/heartwood
 Ardelean-Calin/sensus-firmware
 Argannor/track-work
+ArielHorwitz/devjournal
 Arjun259194/roogle
 Arklingh/CLI-Rhythm
 Arm-Ava/Aleo
@@ -243,10 +244,13 @@ CodeMan62/leni-deni
 Coder-Spirit/versioner
 CohleRustW/tracker
 Cokemonkey11/thw-subscriber
+ColorCookie-dev/LedgerTUI
+ColsonXu/ctm
 Concelare/FASAM
 ConchuOD/lab
 ConchuOD/memory-aperature-configurator
 ConnorBaker/alejandra
+ConsensusFuzz/LOKI
 Coobyk/scrippiscrappa
 CorbanR/nixpkgs-1
 CorneliusCornbread/Volnita
@@ -474,6 +478,7 @@ JacobHaig/rustex
 JacobLinCool/missile-launcher
 JacquelineCasey/ConnectFour
 JaoCR/typing-reader
+Jaso5/chatty-rs
 JasonMiesionczek/chess-engine
 JasonZhangjc/stock_query
 JasoreKuhrt/bandwhich
@@ -988,6 +993,7 @@ Urs-Bruelhart/gitui
 UsedToBe97/snark-verifier
 User3574/hyperqueue
 V8gaming/RRS
+V8gaming/RatatuiSVG
 VLPatton/ruvi
 Vad-Vak/Sui
 Velfi/chatbot
@@ -1173,6 +1179,7 @@ anoraktrend/movieinfo
 anosatsuk124/crossterm-multiplexer
 anosatsuk124/viteditor-rs
 anoushk1234/tmev
+anoushk1234/tmev-cli
 ant1k9/daily-dashboard
 anthonyvd/yagbe
 antonguzun/pytest-explorer
@@ -1786,6 +1793,7 @@ foxfriends/joshuto
 fpytloun/vector
 francis8991/typewriter-crossterm
 frankh/atuin
+frectonz/lobste-rs
 fredlb/fred_podplayer_tui
 fredykoci/hyperqueue
 fricze/jonathan
@@ -1805,6 +1813,8 @@ fuzzland/ityfuzz
 fuzzland/ityfuzz-sui-fork
 fwastring/fwpkgs
 g-bulgarit/Mini-todo
+gabrieldemian/p2p-chat
+gabrieldemian/tui-test
 gadavy/tradio
 gadroen/sui
 gamebooster/soundboard
@@ -1817,6 +1827,7 @@ gemrest/sydney
 geniusnut/goodservicerm
 geometryolife/move
 georgyo/nixpkgs
+gerdoe-jr/tw-econ-tui
 get-convex/convex-rust-starter
 getchoo-contrib/nixpkgs
 getcollective-ai/collective
@@ -1879,6 +1890,7 @@ gyan0890/MoveWorkshop-ETHDenver
 gyrusdentatus/nymcat
 habu1010/tetrust
 haihala/rust-pentago
+haitemura/corrodoro
 hank-greene/rust-hp10c.v02
 hanning0511/acpied
 hanning0511/rwlinux
@@ -1916,6 +1928,7 @@ hieunguyent12/hourglass_old
 higersky/bandwhich
 himanshurajora/experiments
 himanshurajora/process_killer
+himanshurajora/various_rust_tests
 hirosystems/chainhook
 hirosystems/orchestra-archive
 hisbaan/kaboom
@@ -1935,6 +1948,7 @@ hublot-io/esl-services-backend
 hughdazz/sqlx
 hulxv/prqlite
 hunterjmay/diem
+huskyto/rail-arch-rust
 husseinhareb/term-typist
 hustcer/nushell
 huzaifaq/chip8
@@ -2007,8 +2021,10 @@ jacohend/rust-candles
 jacoloves/new_lab
 jadenaccord/emulatorr
 jae2tree/rust-study
+jaehyun1ee-furiosa/dot-viewer
 jafioti/lm_test
 jafriyie1/nushell
+jakesactualface/donut
 jam1garner/nail
 jaroslawroszyk/PlanAhead
 jasinco/termlof
@@ -2248,6 +2264,7 @@ lantos1618/whisper_test
 lasantosr/intelli-shell
 lasthyphen/dijets
 laurentcarrie/legendary-memory
+lavafroth/turntables
 laxect/terminus
 lchausmann/atuin
 ldt29/Wordle
@@ -2288,6 +2305,7 @@ lmihaig/Yuri
 loaki/aso
 lobarrel/btc-file-storage
 logos-messaging/logos-messaging-rust-bindings
+lokxii/mac-launcher
 lonepeon/wordle
 lonski/rustivanders
 lonyelon/rdiary
@@ -2315,6 +2333,7 @@ luisleee/RustPlayer
 luismeyer95/dacttylo
 lukasVirtual/termkeeper-rs
 luke-falvey/tic-tac-toe
+lukesteensen/test-embed-vector
 lukewaehner/toolbox
 lunatic-solutions/chat
 luolong/gall
@@ -2396,6 +2415,7 @@ mdheller/packetloss
 mdheller/spotify-tui
 meain/depman
 meanwhile131/nixpkgs
+mebn/zfinger
 medwards/gitt
 meetmangukiya/foundry
 mel-project/melminter
@@ -2657,6 +2677,7 @@ orhun/systeroid
 orhun/termusic
 oro-os/oro-logo-rle
 orotalt/nushell
+osmak1234/hangrs
 osmak1234/quicktick-tty
 otatski/vivify
 oteca58/lyhat
@@ -2697,6 +2718,7 @@ pbriggs28/termcrypt
 pea040119/Rdbg
 pecigonzalo/vector
 pegov/qbtui
+penumbra23/peerko
 pepa65/domaincheck
 perryjrandall/aptos-core
 petersimonsson/gpsinfo
@@ -2936,8 +2958,12 @@ sarvex/diem
 sarvex/foundry
 sarvex/gitoxide
 sarvex/gitui
+sarvex/helmci
+sarvex/humility
 sarvex/nixpkgs
 sarvex/nushell
+sarvex/omicron
+sarvex/snarkOS
 sarvex/sui
 sarvex/termviz
 sarvex/vector
@@ -3099,6 +3125,7 @@ spencerwi/cliflux
 spenserblack/favlist
 spiceai/metrics
 spicefarer/solana-build-station-berlin
+spmfte/BG-Sounds
 spoutn1k/ladle
 sputnick1124/spotify-tui
 srbpavel/grideye_tui
@@ -3235,11 +3262,13 @@ thobens/leftwm-theme-dark-nord
 thomas-mauran/tic-tac-toe
 thomasantony/chatgpt-term
 threefoldtech/zos-rs
+tigercat2000/tiger-spacetraders
 timb-machine-mirrors/tlspuffin-tlspuffin
 timokoesters/rtab
 tinydancer-io/tinydancer
 tisd/tasky
 titanson2/move
+titusdmoore/helpdesk
 tkmcclellan/slg
 tkmxqrdxddd/logviewer-systemd
 tkp1990/task_manager_cli
