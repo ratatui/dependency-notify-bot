@@ -5446,7 +5446,6 @@ joshka/tui-framework-experiment
 joshka/tui-markdown
 joshka/tui-tracing
 joshka/tui-vision
-joshka/tui-widgets
 joshprk/vtui
 joshskeen/githist-rs
 joshstevens19/rindexer
@@ -6425,6 +6424,7 @@ nbdd0121/nixpkgs
 nbdd0121/russh
 nberlette/gh-pages
 nberlette/huk
+nc-system/course-rust-cli
 ncayiyane/linear_regression_model
 nclack/aoc2024
 nclack/wya-factor
@@ -7098,6 +7098,7 @@ ratatui/crates-tui
 ratatui/mousefood
 ratatui/ratatui-website
 ratatui/templates
+ratatui/tui-widgets
 ratcrate/ratcrate-tui
 ratijas/windows-rust-counters
 ratsclub/nixpkgs
@@ -8437,7 +8438,7 @@ wangds/shoppingdb
 wanghche/sql-tui
 wangold/gitoxide
 warhodes-dev/geohog
-warpwm/devpilot
+warpcli/devpilot
 warpy-ai/rustubble
 watchpoints/rust-learn
 water-sucks/nixpkgs
