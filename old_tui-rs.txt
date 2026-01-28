@@ -150,6 +150,7 @@ AsyncEgg/tui_demos_and_tests
 AsyncEgg/wordle_clone
 AtharvPorate1/rust-billing
 AudranDoublet/rtx_opr
+AureliaDolo/clidle
 Axect/Rust
 Aysher-Intelligence-Agency/nixpkgs
 Azgrom/nushell
@@ -193,6 +194,7 @@ Byron/dua-cli
 Byron/tui-crates
 C0D3-M4513R/nixpkgs
 COMP6991UNSW/termgame
+CRasico/pomorusto
 CSIS/nixpkgs
 CSML-by-Clevy/csml-engine
 CUBETIQ/vector
@@ -238,6 +240,7 @@ ConchuOD/memory-aperature-configurator
 ConnorBaker/alejandra
 ConsensusFuzz/LOKI
 Coobyk/scrippiscrappa
+CorbanR/nixpkgs-1
 CorneliusCornbread/Volnita
 Cortantse/rust2048
 CrackerCat/kmon
@@ -289,6 +292,7 @@ DeCarabas/fwd
 Deadairx/nhl-stats-tui
 DebugMaster25/sui-move
 Delvoid/pet-tui
+Demuirgos/Brick-Station
 DevCleaner/devcleaner
 DevinR528/forget
 DevinR528/rumatui
@@ -355,6 +359,7 @@ FrankChinedu/rust-cli-TUI
 FrankieIsLost/foundry
 FredeHG/chess_rust
 Frederick888/bottom
+FreyMo/tetrs
 Freyskeyd/chekov
 Frost/pru
 Fryuni/advent-of-code-2021
@@ -412,6 +417,7 @@ HectorHW/bocchifuzz
 Henneberg-Systemdesign/devsync
 Herring-UGACSEE-4290-F24/SCC-Unix
 Herring-UGACSEE-4290-F24/SCC-Windows
+HeyLaurelTestOrg/aptos-core
 HicaroD/twitch.rs
 Himan-Miku/pack_hunter
 HippieHosenHustler/sftui
@@ -536,6 +542,7 @@ Lehrbas/cs-holder
 Leibniz137/libra
 LeoRiether/tori
 LeoniePhiline/showcase-dl
+LeperGnome/trre
 LeviLovie/rambda
 LievRenard/desktop_app
 LightDotSo/foundry-simulator
@@ -618,6 +625,7 @@ Moogsoft/vector
 Moooover/discord-bot
 MoralCode/TUI-coolors-demo
 Morgandri1/suipy
+MounikaDesu/AptosCoreJS
 Movebase/futhwe
 MrCasCode/log-analyzer-pro
 MrPoliteGrizlyM/wakeupneo
@@ -749,6 +757,7 @@ ReemSaidd/TaskManager
 Richardsl/nixpkgs
 RickdeJager/TrackmaniaFuzzer
 RickyC0626-forks/Termibbl
+RiffRaffRevv/sui
 Rigellute/spotify-tui
 Riley1101/nv
 Rithwik3425/ranger-linux
@@ -820,6 +829,7 @@ Shiva953/sol-clix
 Shivani2604/Online-Musing-Streaming-Application-using-Spotify-API
 Shopify/nixpkgs
 Si1veR123/rs-todo
+Simon-Busch/github-assistant
 Siriusmart/tui-additions
 Siriusmart/youtube-tui
 Sister19/if3230-tubes-horsestyle
@@ -1054,6 +1064,7 @@ aiwannafly/rust-cli-app
 akaday/move
 akaday/move-on-aptos
 akaday/move-sui
+akinsho/algorhythms
 aklk1ng/rmu
 akperrine/rust_todo
 aktowns/nixpkgs
@@ -1108,6 +1119,7 @@ anoraktrend/ee-fbsd
 anoraktrend/movieinfo
 anosatsuk124/crossterm-multiplexer
 anosatsuk124/viteditor-rs
+anoushk1234/tmev
 ant1k9/daily-dashboard
 anthonyvd/yagbe
 antonguzun/pytest-explorer
@@ -1277,6 +1289,7 @@ brightly-salty/nushell
 brocode/goat
 broletsrust/containers
 bronzelle/foundry
+brooksvb/hemm
 brown-qs/fuzzing-101-exercise
 brunerm99/ttf-viewer
 bryab/libeq
@@ -1569,6 +1582,7 @@ edgarhsanchez/choosedoors
 edgeguard-dev/metrics
 edgelesssys/nixpkgs
 edmocosta/tuistash
+eengamer2007/telegram-cli
 egolessengineer/renegade_pool
 ehsan-shahbakhsh/rstodo
 ehsan-shahbakhsh/rsusage
@@ -1700,6 +1714,7 @@ frodrok/training-clock
 frustak/Quest
 fullscreen-triangle/trebuchet
 funbiscuit/spacedisplay-rs
+funkymcb/gitops-tui
 funnsam/fixed
 furiosa-ai/dot-viewer
 fusetim/mkube
@@ -1767,6 +1782,7 @@ gsspdev/modsynth
 gsspdev/rust-tui-gssp-example
 guizo792/system-insights
 gul3isg00/Rust_Issue_Tracker_And_Experimentation
+gulis1/lisTUI
 gulizhasan/snakeInSpace
 guptaharsh13/gmail_cli
 guruswarupa/MonitorControl-Rust
@@ -1782,6 +1798,7 @@ habu1010/tetrust
 haihala/rust-pentago
 haitemura/corrodoro
 hank-greene/rust-hp10c.v02
+hanning0511/acpied
 hanning0511/rwlinux
 hanool/rust-guessing-game
 hansieodendaal/tari
@@ -1814,6 +1831,7 @@ heyrict/exhaust
 hieunguyent12/hourglass_old
 higersky/bandwhich
 himanshurajora/experiments
+himanshurajora/process_killer
 himanshurajora/various_rust_tests
 hirosystems/chainhook
 hirosystems/orchestra-archive
@@ -2020,6 +2038,7 @@ juicie-brucie/brucenix
 julianschuler/chords
 junghyun397/VirtualController
 junkil-park/move
+jurgden/rustchain_mvp
 juspay/dioxus
 juspay/nixpkgs
 justcatthefish/justctf-2023
@@ -2044,6 +2063,7 @@ kamkow1/m
 kankkueo/rmm2
 kantum/rust-tuto
 karinaKarinakarinaKarina/rust-practice
+kariy/jin
 karnpapon/tsiangt
 kathanjayshah/budget-manager-cli
 kazu914/kakisute
@@ -2174,6 +2194,7 @@ loaki/aso
 lobarrel/btc-file-storage
 logos-messaging/logos-messaging-rust-bindings
 lokxii/mac-launcher
+lonepeon/wordle
 lonski/rustivanders
 lonyelon/rdiary
 lotuscommunity/lotus
@@ -2382,6 +2403,7 @@ mschulteg/mtxstuff
 mslxl/dm
 msmouse/diem
 mtclinton/rust-cli-example
+mtclinton/tui-demo
 mtclinton/tui-examples
 mthom26/rid3
 mthproject/nixpkgs
@@ -2434,6 +2456,7 @@ neumantm/nixpkgs
 nevakrien/SourceViewer
 nevivurn/nixpkgs
 newAM/dp800
+newsch/sht
 nguyenthihai22222qt/sui
 nharring-adjacent/lyretail
 nhtyy/foundry
@@ -2530,6 +2553,7 @@ orhun/kmon
 orhun/systeroid
 orhun/termusic
 oro-os/oro-logo-rle
+orotalt/nushell
 osmak1234/hangrs
 osmak1234/quicktick-tty
 otatski/vivify
@@ -2563,6 +2587,7 @@ paulcoding810/todo-tui
 paurosellfarre/modbus-tui-receiver
 paytonward6/snek-tui
 pbackz/fdispatcher
+pbellens/lodder
 pbriggs28/termcrypt
 pea040119/Rdbg
 peake00/mSight
@@ -2682,7 +2707,6 @@ regerj/register_generator
 regular-dev/nevermind-neu
 reihera/ao3-tui
 reivanen/nutshell
-renegade-fi/renegade
 renegade-fi/renegade-stylus-contracts
 replydev/cotp
 resi1ience/rust-wordle
@@ -2735,6 +2759,7 @@ rsilvestre/sui
 rsubramani/pomodoro-timer
 rsuu/s
 rtkay123/mirro-rs
+rubenhorn/nightride-fm-tui
 rubydusa/oxidized_octi
 ruizhaoz1/libra
 runningcoders/easy_shell_os
@@ -2816,6 +2841,7 @@ sayanarijit/xplr
 saying121/lcode
 sblackshear/move-1
 scaevola/clarinet
+scale-protocol/scale
 schelcc/noteworthy
 schlunsen/maperick
 schmidma/NoteMD
@@ -2930,6 +2956,7 @@ skyne98/utf-rnn
 skyneticist/searchterm
 slavsan/news
 sliperly/rust_text_editor
+slitchfield/tuishark
 slumericanafi/aptos-core
 slyeet03/spoify
 smalitobules/lunitool
@@ -3057,6 +3084,7 @@ taybart/fm
 tcallan/file_task
 tcpessoa/dockspy
 team-borygo/yt-mirror
+technologicalMayhem/chat_app
 technologicalMayhem/ztl
 techpond31/smove
 tedbennett/kb
@@ -3081,6 +3109,7 @@ thecatcore/rusty-craft
 thecrypticace/mcworldgen
 thefcraft/tfbin
 thefu/tui-folder-cmp
+theloni-monk/pitch2synth-rs
 theodore-lheureux/joris-api-decimation-initiative
 theogilbert/spv
 theotherphil/lag
