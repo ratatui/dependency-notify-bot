@@ -120,6 +120,7 @@ AnomalyFi/nodekit-zk
 Another-Ashl3y/christmas-cli
 Another-Ashl3y/rai
 AnthonyRonning/LNsploit
+AntoneBrewer/spotify-tui
 AnyVM/mini-move
 Apetree100122/snarkOS
 Apocentre/sf-sui-extractor
@@ -250,6 +251,7 @@ CyberFlameGO/smokey
 CyberFlameGO/veloren
 DEFCONPRO/snarkOS
 DELTSV/Projet-Rust
+DI0IK/gpu-hashing
 DLFW/joshuto
 DaKingof/nixpkgs
 DadyaBorya/tui_backup
@@ -352,6 +354,7 @@ FuzzyLitchi/freak
 GReX-Telescope/GReX-T0
 GURUSUJAN/Rust
 Gabriel-M-Martins/todo-tui
+Galxe/gravity-sdk
 Gamlet-Gam/Sui
 Gandharikos/done
 Garmelon/cove
@@ -364,6 +367,7 @@ GitWitIt420/nixpkgs
 GitemOS/gitem
 GitoxideLabs/prodash
 Giviko28/ChatRust
+GizzZmo/move
 GlebIrovich/rudo
 Globidev/corewa-rs
 GobiasSomeCoffeeCo/angry
@@ -446,6 +450,8 @@ JimitSoni18/uzu
 Jitendra2603/Hvim
 JiwanChung/turm_gpu
 Jo6a/multitimer-tui
+JohnDaWalka/move
+JohnDaWalka/move-on-aptos
 Jon-Becker/heimdall-rs
 JonathanMurray/tiny-games
 JonathanVargasRoa/Spotify-Tui
@@ -529,6 +535,7 @@ LoipesMas/cargo-select
 LordFoom/rutudu
 LordFoom/sxredder
 Louis-Amas/reth-fork
+LouisBrunner/foundry
 LrsNate/timer-rs
 LucaSchinnerl/barsh
 LunaticHacker/lemmy-terminal-viewer
@@ -695,6 +702,7 @@ Quicksilver151/salatui
 Quicksilver151/tsuiyomi
 R34ll/httpserver
 RACE-Ecosystem/RACE-Chain
+RACE-Game/race
 RJ0088/aptos-core
 RJ0088/renegade-fi
 RadiatedMonkey/dioxus
@@ -733,6 +741,7 @@ RonDeBen/rustic
 Ronald-TR/tic-tac-toe-rs
 RookieChen4/git-commit
 RoseBlume/aports-prs
+RuleBrittonica/3712_Rust_Research_Project
 Runeword/dotfiles
 Ryandc20/pask
 RyzinRiley/nixpkgs
@@ -869,6 +878,7 @@ TomaszWaszczyk/ink-automated-market-maker-ui
 Tomishiko/rusty-anime
 Tonaion02/KrABMagaPersonalDev
 TorbenKoehn/rust-playground
+TorinM/ink
 Tortus-exe/p2pchess
 Tozinoo/use_aptos_indexer
 Tramposo1312/terminal-todo
@@ -1082,6 +1092,7 @@ appleswiggy/vtop-cli
 aproidd/TerminalOPE
 aptos-labs/aptos-api-key-examples
 aptos-labs/aptos-core
+aptos-labs/x402-rs
 aptosis/aptos-toolkit
 aptosis/faucet
 arafat877/nushell
@@ -1228,6 +1239,7 @@ bugnano/fcd
 burakbayramli/books
 bvaisvil/zenith
 bvluke/optimism-for-shibc
+bwarelabs/aptos-core
 bySimpson/unattended-setups
 calder/rust-mafia
 calldata/foundry
@@ -1270,6 +1282,7 @@ chanfaileui/ferris
 chanhyy/DTN-Chat-Client
 channable/nixpkgs
 chanq-io/syntect-tui
+chanq-io/vultan
 chaoticlonghair/ckb-cli
 chaphilar07/TUI-Rust-chat-app
 charisma98/foundry
@@ -1640,6 +1653,7 @@ gerdoe-jr/tw-econ-tui
 get-convex/convex-rust-starter
 getchoo-contrib/nixpkgs
 getcollective-ai/collective
+gethsun1/sui
 getong/diem
 getong/metrics
 getong/rust_example
@@ -1755,6 +1769,7 @@ iamdb/hifi.rs
 iamyourexpert/vector
 ianoc/bazel-fe
 iavael/nixpkgs
+idgarad/rsGalaxyForge
 idlab-discover/RustiFlow
 idontcalculate/solar-station
 ifacodes/dioscuri
@@ -2088,6 +2103,7 @@ lucky-tensor/current
 lucky-tensor/test-lib
 lucky-tensor/test-six
 lucylow/H3X460N
+ludoplex/dioxus
 luishsr/rust-dump-analyzer
 luisleee/RustPlayer
 luismeyer95/dacttylo
@@ -2415,6 +2431,7 @@ otatski/vivify
 oteca58/lyhat
 otter-sec/aptos-ctf-framework
 otter-sec/aptos-test-adapter
+ourgal/snowfall
 owonwo/learning-rust
 owrior/todo_list
 oxade/node-stream
@@ -2871,10 +2888,12 @@ substrate-asia/hackathon-2022-winter
 sudipghimire533/ytui-music
 sufilevy/riscyOS
 sugar700/nixpkgs
+suissa/Chisel-GPT
 sujithjay/nigant
 sukawasatoru/rust-myscript
 sulami/calc
 sum-catnip/padantic
+summercms/nushell
 sunnytangg/eldenring
 supakornn/myip-tui
 superisaac/suivaults
@@ -2934,6 +2953,7 @@ the-lean-crate/criner
 the-melionara/overfocus
 the-sushi/emu8086
 theabecaster/invoice-manager-rs
+thebeastunleashed/NixOS-NixPkgs
 thecatcore/rusty-craft
 thecrypticace/mcworldgen
 thefcraft/tfbin
@@ -3015,6 +3035,7 @@ ultrasoundmoney/reth-payload-validator
 ulyssa/iamb
 ulyssa/modalkit
 ulysseB/telamon
+unattended-backpack/petros
 univerz/foundry
 unixsuperhero/xt
 uqiotstudio/mmwave-rewrite
@@ -3048,6 +3069,7 @@ verde-rbx/verde
 verichains/revela
 vetlemt/DDDragon
 vgao1996/move
+vibhorjoshi/sui
 vicanso/diving-rs
 victor06-git/rustProgramms
 vigoux/redict
@@ -3120,6 +3142,7 @@ wlsnx/tokei-tui
 wojciech-zurek/rrtop
 wolfnether/EDR
 wolimst/nushell
+woochang2/integ
 workofimagination/ARM
 wose/satnogs-monitor
 wrwg/aptos-core
