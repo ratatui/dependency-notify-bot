@@ -1,7 +1,6 @@
 0o-de-lally/libra-framework
 0xSovereign/windows-update-manager
 0xbryer/aptos-core
-0xnullifier/AptWeaver
 1mpossible-code/mail-rs
 371tti/rwe
 485angelprocess/t800-emulator
@@ -63,8 +62,6 @@ Jayesh2291/chat-app
 JohnDaWalka/move
 JohnDaWalka/move-on-aptos
 Jspascal/git-contribution-analyzer
-Jumongweb/Sui
-KantLex/rust-tui-chat
 KdntNinja/Rust-Casino
 KdntNinja/Rusty
 KeKe-Li/detection
@@ -79,7 +76,6 @@ LingmoOS-Testing/nixpkgs
 LouisBrunner/foundry
 LutiDrist/mytool
 LutiDrist/rust-mytools
-MARKMENTAL/sparklinux-scripts
 Macmachi/kaspanode-performance
 MadebyDaris/Realtime-Stock-Data-Rust
 MathiasMonstrey/email_cli
@@ -87,7 +83,6 @@ Mathieu-Be/lite-move-vm
 Mathu-san/project_rust
 MauritzOrlinski/pomodo-rs
 Maximilianych/oxide_share
-McFacePunch/sui-test
 MoralCode/TUI-coolors-demo
 Mu-L/aptos-core
 NamanBalaji/rust_learning
@@ -96,7 +91,6 @@ NoirHQ/engine
 NoirHQ/engine-sidecar
 NopAngel/lionv
 NotAShelf/tempus
-OOPSLA2025Submission/HEMVM
 PKWadsy/codebase-concat
 Patricia-dev83/Boss-Loop-station
 Pazl27/typy-cli
@@ -108,17 +102,13 @@ RafiulPaceProjects/rust_https_Server
 Richardsl/nixpkgs
 Rithwik3425/ranger-linux
 RuleBrittonica/3712_Rust_Research_Project
-Runeword/dotfiles
 SINHASantos/fluvio
 Sakibimam/Sui-DevBot
-Sands-45/xlv
 SanjayUG/Real-time-monitoring-dashboard-and-terminal-user-interface-TUI-for-Crankshaft-GSoC2025-
 Saref111/budget-manager
 Saref111/rustodo
 Sasutski/Pyrobase
-Sawsqr68/aptos-core
 See887777/aptos-core
-SergZen/asn1_viewer
 ShabbirHasan1/librecdj
 Sin-Estres-dev/aptos-core
 SourashisB/rust-projects
@@ -168,7 +158,6 @@ apconole/octui
 aproidd/TerminalOPE
 aptos-labs/aptos-core
 aptos-labs/x402-rs
-arc-twelve/aptos_anniversary_nft_minting
 arkCyber/IMCP
 armaanishere/eCashonSui
 armaanishere/glaciorn
@@ -181,7 +170,6 @@ bahdotsh/wrkflw
 baijiahei888/reth-dis
 bbarwik/sui_publish_and_call_old
 bellboy-robotics/multail
-biohazel/tuipool
 bitx-sh/ai-agents
 blais/options-chain-vibecoding
 btbxbob/sinuous
@@ -210,7 +198,6 @@ danwdart/nixpkgs
 dbrafael/qop
 detetivepro15/diem
 devnw-forks/nixpkgs
-dexter-xD/7Days7RustProjects
 ditsuke/nixpkgs-compat
 donnemse/K8S_RM
 donnemse/repo-tree
@@ -239,20 +226,17 @@ fricze/marianna
 fritzrehde/unsw-comp6991-workshops-24t3
 fullscreen-triangle/trebuchet
 gethsun1/sui
-goatbtc/tuipool
 gold007-dev/p2p-chat
 gonative-cc/dwallet-network
 guzzdev/blackjack
 gwapIgot/aptos-core
 gyrusdentatus/nymcat
 heghness/vector
-helgesander/security-windows-checker
 hruday-HMS69/cryptowatch
 husseinhareb/term-typist
 iamyourexpert/vector
 iavael/nixpkgs
 idgarad/rsGalaxyForge
-idontcalculate/solar-station
 immunefi-team/attackathon-movement
 immunefi-team/attackathon-movement-aptos-core
 imthor/cal-rs
@@ -269,7 +253,6 @@ joefrost01/ecs_ai_compliance
 joelybahh/rust-micro-cron
 johngao122/ISE-Module-Planner
 jr0dsgarage/DirSync
-jsteeleiv/dirt
 jtrv/osintui
 juicie-brucie/brucenix
 julianschuler/chords
@@ -286,15 +269,11 @@ ktheindifferent/Sam
 kuschovandrey/sui
 kuzlik340/RUSTGUARDIAN
 lantos1618/whisper_test
-leo-mendonca/Algoritmos_2024
 lizongying/run
 llin590/akirataguchi115
 loaki/aso
 lpolish/dockertop
-lsytj0413/ancla
 ludoplex/dioxus
-luishsr/rust-dump-analyzer
-lukewaehner/toolbox
 lxcode/termusic
 mahoraga94/jimmer
 manifest-cyber/nixpkgs
@@ -315,7 +294,6 @@ mmrakt/pretty-git-ui
 mmrmagno/quick-cli
 mo-amir-code/web3-development
 moh-a-abde/THE-Process-Manager
-mostafa-fallaha/password-manager
 movebit/aptos-core
 movementlabsxyz/movement
 movementlabsxyz/movement-aptos-core
@@ -330,7 +308,6 @@ nagorniy95/sui
 nevakrien/SourceViewer
 nicktretyakov/txt_ml
 nikhiljha/nixpkgs
-nmb4/rashboard
 nolood/rust-tui-todo-list
 notBroman/parse-me
 notamicrodose/cointracker-cli
@@ -349,9 +326,7 @@ pickupp-dev/csml-engine
 piyushS3V3N/Pokidex
 planus-org/planus
 plastic-forks/nixpkgs
-pog5/nixpkgs
 polypixeldev/blot-cli
-potejj/coss.coss.godot
 pr0me/SAFIREFUZZ
 qxrein/onigiri
 rafia9005/gemini-term
@@ -383,7 +358,6 @@ shitcodebykaushik/System_monitor
 sielicki/nixpkgs
 sinthu28/product_service
 skyjilygao/win_task_manager
-skyne98/utf-rnn
 smalitobules/lunitool
 smalnote/rustlog
 smorimoto/nixpkgs
@@ -424,7 +398,6 @@ vusec/libaflgo
 walker84837/ryokan
 waougri/payertimes_rs
 wazaiZzz/aptos-core
-williamchildres/terminal_messenger
 willmortimer/zellij-theme-plugin
 witches-brew/movement
 woochang2/integ
@@ -436,4 +409,3 @@ zeankundev/BHCLI
 zmre/nixpkgs
 zorforge/zorforge
 zpeteman/Obolus
-zyneaa/Wave-Form
