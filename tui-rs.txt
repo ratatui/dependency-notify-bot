@@ -12,7 +12,6 @@
 0o-de-lally/libra
 0o-de-lally/libra-framework
 0o-de-lally/libra-wallet
-0o-de-lally/libra_linear_commits
 0xAdherent/tiny
 0xErwin1/expenses-project-tui
 0xFAC0/arp-watch-tui
@@ -325,7 +324,6 @@ Finradon/lcd
 Fishy-Fishes/too_many_emails
 Flaise/sclan
 Flintblocks/reth-server
-FloppyDisck/GPTerm
 Flynatol/masters-project
 Fogapod/rshub
 FollowMeDown/spotify-tui
@@ -590,7 +588,6 @@ Mu-L/termscp
 Mu-L/veloren
 MuneebRabaney/spotify-tui
 Mvmo/letter
-N48LL/tui-rGTP
 NYStud/gitui
 Nachasic/rtrackr
 NaiKiDEV/productivity-tui
@@ -941,7 +938,6 @@ abaw/rust-practices
 abcsml/rustbang
 abdallahabdelaziz1/El-Modeer
 abdulshaikh55/agora
-abhaysp95/logrocket_blog_examples
 abhi3700/sui-playground
 abhinavgunwant/dakia
 abhirajputnikku7/nixpkgs
@@ -1131,14 +1127,12 @@ baijiahei888/reth-dis
 bakoorahnin/gobang
 balrog-rust/gitui
 bartnv/meshmon
-battlemon-project/contract_deployer
 baurfamily/nr-clue
 bazeltools/bazelfe
 bazhenov/crab
 bbarwik/sui_publish_and_call_old
 bchainhub/foxar
 bczhc/rime-tui
-be2be/Railan
 behdanisohrab/playground
 bellboy-robotics/multail
 ben-kuhn/nixpkgs
@@ -1645,7 +1639,6 @@ hatoo/oha
 haukot/aports
 hauni97/diem
 hayato0909/stopwatch-tui
-heavymetalthings/ArmoredKernel
 heckmarr/ogopogo
 hecrp/LLM-train-monitor
 heeuid/rust_practice
@@ -2105,7 +2098,6 @@ mikeyhodl/snarkOS
 mikhail-ram/bananatype
 miloszkowal/pass-tui
 mimuw-jnp2-rust/project-sendino
-mind1949/practical_system_programming_for_rust_developers
 mingnus/dm-unit
 mingnus/thin-provisioning-tools
 minhchauyds1996/starknet
@@ -2200,7 +2192,6 @@ ndren/speki
 neighbour-hoods/social_sensemaker
 neilmayhew/nixpkgs
 nelson137/bf
-nenikitov/unicode-draw
 neoncrumpet/drug_wars_rust
 nerasw/veloren
 nervosnetwork/ckb-cli
@@ -2390,7 +2381,6 @@ ptr-geeks/projects
 pvolok/mprocs
 qerdinger/Project-Manager-CLI
 qlyde/adventurers
-qope/ecc2
 quadrantica/nushell
 quarufus/unath
 quffaro/wyd
@@ -2583,16 +2573,6 @@ segso/grep_tui
 segunkadri84/foundry
 sergey-suslov/passm
 sernl/termauth-rs
-sernl/tui-block
-sernl/tui-canvas
-sernl/tui-data-sparkline
-sernl/tui-layout
-sernl/tui-list
-sernl/tui-panic
-sernl/tui-popup
-sernl/tui-tabs
-sernl/tui-text-wrapper
-sernl/tui-user-input
 seryj/datafusion-tui
 setheum/setheum
 sgammon/akirataguchi115
@@ -2624,7 +2604,6 @@ shhmxy2/Wordle
 shifttabctrlalt/argocd-tui
 shigepon7/aerostream
 shinedog/nixpkgs
-shinyapes/Half-Baked
 shinyquagsire23/HashtagBlessedII
 shitcodebykaushik/System_monitor
 shivan-eyespace/md-reader
@@ -2663,12 +2642,10 @@ skyne98/utf-rnn
 skyneticist/searchterm
 slavsan/news
 sliperly/rust_text_editor
-slitchfield/tuishark
 slumericanafi/aptos-core
 slyeet03/spoify
 smalnote/rustlog
 smancill/nixpkgs
-smbroadley/chess
 smbroadley/matrix
 smbroadley/point_map
 smcgovern-proj/small_tui
@@ -2779,7 +2756,6 @@ tcpessoa/dockspy
 team-borygo/yt-mirror
 technologicalMayhem/ztl
 techpond31/smove
-tedbennett/kb
 tee-yankov/senso
 tehzhed/portnord
 teodord25/poormans-spotify
