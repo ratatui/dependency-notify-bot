@@ -1,6 +1,7 @@
 0xMiden/compiler
 0xTxbi/pantheon-probe
 0xd61/nixpkgs
+2nq/Nova
 42-DDN/esp-csi-tui-rs
 4xiaxia/opencrabs
 5afe/alphanet
@@ -46,6 +47,8 @@ Glatzel/pyxis
 Gomerlucky/everything-claude-code
 GreenOats/BobNote
 Gridness/anicli
+Gue-sa/Platform
+H4D3ZS/kortex
 HaolongChen/codex
 HaseebKhalid1507/SynapsCLI
 JP-Ellis/borrow-checker
@@ -80,6 +83,7 @@ Momin010/MowisAI
 MrAshRhodes/office-minions
 MultiplicityFoundation/RAIN
 Mutasem-mk4/sentry
+NamseEnt/namseent
 NeuroSkill-com/skill
 OneNoted/pvt
 ParthPatel00/scout
@@ -106,6 +110,7 @@ Sherlock999xxx/tachyonfx
 Sherlock999xxx/telegram_rust
 Sherlock999xxx/tensorzero
 Shresht7/Rust-Playground
+Skyline10124/lattice
 SocioProphet/smart-tree
 Sora-bluesky/winsmux
 SunnkerLocket89/codex
@@ -124,6 +129,7 @@ TriForMine/norn
 Umlatt/GeoTrace
 UnknownRori/terminal-site
 ViezeVingertjes/bubbles
+Vindex-dev/vindexos
 Vinidrummmm/codex
 Vinidrummmm/nexus-cli
 VisionaryArchitects/OpenShell
@@ -139,6 +145,7 @@ ZHangZHengEric/Sage
 Zk-nd3r/zechub-wiki
 aaronjheng/nixpkgs
 aayush-lams/pasm
+acwilsondev/future-dungeon
 aerab243/rdm
 agentty-xyz/agentty
 akaruinekooff/tolight
@@ -189,7 +196,11 @@ cavazquez/openrailsrs
 cboudereau/sol-fork
 cchexcode/neomake
 celo-org/celo-kona
+celo-org/optimism
+celo-org/reth
 cesasec/CesaConn
+chalharu/acp-orchestrator
+chapzin/jcode-harness
 christian-public/aureum
 cisagov/thorium
 clawdsolana/OpenClawd
@@ -207,6 +218,7 @@ cypher-asi/aura-swarm
 cypher-asi/the-grid
 dallay/agentsync
 dalyIsaac/ruru
+damacus/paperless-cli
 danielbodnar/intelli-shell
 denisotree/tuitab
 dmk/tui-dispatch
@@ -215,7 +227,9 @@ duyet/clickhouse-monitoring
 dzmitry-lahoda-forks/nixpkgs
 eagle19900203-boop/cli
 eduidl/mcapdecode-rs
+ein-shved/shvedpkgs
 einyx/tkr
+ekhodzitsky/oh-my-kimi
 electricapp/ccaudit
 electricsheephq/OpenViking
 emperor-jimmu/vid-extras
@@ -225,6 +239,7 @@ epicDavid-private/turborepo
 ereinaimer/taurine
 ericbmerritt/jujutsu-review
 eriirfos-eng/ternary-intelligence-stack
+evalops/maestro
 everdro1d/notify-history-tui
 fabriziosalmi/proxxx
 fabriziosalmi/zion
@@ -263,12 +278,15 @@ hyperpolymath/developer-ecosystem
 iberi22/xavier2
 idnerdidx/everything-claude-code
 igorilic/agentic
+isaacus-dev/chroma
 itscrystalline/nur-packages
+ivaquero/hunming
 ivaquero/kungfig
 j-a-vizcaino/everything-claude-code
 jRimbault/utils-rs
 jamesdeane2/macmon
 jamessizeland/p2p-game-engine
+jasval/iphone-backup
 javi0guerrero4-cloud/settl
 jbcom/paranoid-passwd
 jdhert/claurst
@@ -282,7 +300,10 @@ joshtriplett/tracing
 joyint/joy
 jrmatherly/spacebot
 jry21223/SysWeaver
+juice094/clarity
+juice094/devbase
 juice094/steamtools-accelerator
+juice094/syncthing-rust
 jylenhof/gitui
 kafkade/anvil
 kafkade/herald
@@ -295,6 +316,7 @@ kaplanelad/shellfirm
 kip93/nixpkgs
 kvkalidindi/destructive_command_guard
 kvkalidindi/llmfit
+la-haus/zeroclaw
 larpios/jujutui
 leandro754/Navidrome-tui
 leandrocp/lumis
@@ -313,6 +335,7 @@ matthandlersux/tailspin
 max-hunts/claude-usage-monitor
 maziarzamani/bouncy
 mcass19/ex_ratatui
+mina-alpha/zeroclaw-gateway
 mindbend0x/context-keeper
 mulhamna/jira-commands
 multivmlabs/quantum-foundry
@@ -333,10 +356,12 @@ omarespejel/provable-transformer-vm
 omnayak27199/pktana
 openai/codex
 oplane/lean-ctx
+ortus-boxlang/matchbox
 oxyzenQ/oxy
 paulrobello/voxel-world
 phaus/sys-wall
 phaus/zfs-snap-stats
+phylaxsystems/pcl
 pierreaubert/rele
 piersy/kterm
 piersy/reth
@@ -375,6 +400,7 @@ shusheaan/utrp
 simoabdelmoumen10-sys/everything-claude-code
 sir-siren/retro-game
 sizzlecar/orchestral
+skwuwu/Analemma-GVM
 sliamh11/Deus
 slundi/dgaard
 spiceai/datafusion-ballista
@@ -401,6 +427,7 @@ tenstorrent/tt-toplike
 thepixelabs/sanitai
 theredspoon/ironclaw
 thijsvos/torrentTUI
+tim-ireland/flux-rs
 tinythings/logjet
 tomaskovacik/office365-audit-log-collector
 tomatoo10/Vigil
@@ -420,6 +447,7 @@ valon-technologies/gestalt
 vcfxb/moxfield-cli
 vdjagilev/automerge-tui
 vicondoa/weezterm
+vicrodh/qbz
 viral-nation/vn-codex
 vladkens/macmon
 wallentx/dplex
@@ -432,6 +460,8 @@ wingnut128/rustop
 wiseaidotdev/duckduckgo
 wiseaidotdev/gems
 wolram/QuantMSS
+wvs-finance/ThetaSwap-core
+x0ne-labs/aido-runtime
 xeTaiz/snik
 xorza/Scenarium
 yanqihe/everything-claude-code
