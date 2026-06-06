@@ -4,39 +4,85 @@ on:
   schedule:
     - cron: "0 * * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
 
 jobs:
   notify:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/setup-python@v5
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
 
       - name: Send latest post to Discord
         env:
           WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: |
-          pip install feedparser requests
+          pip install requests
 
           python << 'EOF'
-          import feedparser
-          import requests
           import os
+          from pathlib import Path
 
-          feed = feedparser.parse("https://fosstodon.org/@ratatui_rs.rss")
-          entry = feed.entries[0]
+          import requests
 
-          title = entry.get("title", "New Fosstodon post")
-          link = entry.get("link", "https://fosstodon.org/@ratatui_rs")
+          BASE_URL = "https://fosstodon.org"
+          ACCOUNT = "ratatui_rs"
+          STATE_FILE = Path("fosstodon-last-id.txt")
 
-          requests.post(
+          account = requests.get(
+              f"{BASE_URL}/api/v1/accounts/lookup",
+              params={"acct": ACCOUNT},
+          )
+          account.raise_for_status()
+          account = account.json()
+
+          statuses = requests.get(
+              f"{BASE_URL}/api/v1/accounts/{account['id']}/statuses",
+              params={"exclude_replies": "true", "limit": 1},
+          )
+          statuses.raise_for_status()
+          statuses = statuses.json()
+
+          status = statuses[0]
+          post = status.get("reblog") or status
+
+          status_id = status["id"]
+          url = post["url"]
+
+          last_id = STATE_FILE.read_text().strip() if STATE_FILE.exists() else ""
+
+          if status_id == last_id:
+              print("No new Fosstodon post.")
+              raise SystemExit(0)
+
+          content = f"🐀🤖 **New squeak:** {url}"
+
+          response = requests.post(
               os.environ["WEBHOOK_URL"],
-              json={
-                  "content": (
-                      f"🐀🤖 **New squeak from @ratatui_rs**\n\n"
-                      f"{title}\n"
-                      f"{link}"
-                  )
-              },
-          ).raise_for_status()
+              json={"content": content},
+          )
+          response.raise_for_status()
+
+          STATE_FILE.write_text(status_id + "\n")
+          print(f"Posted {url}")
           EOF
+
+      - name: Commit state
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          set +e
+          git add fosstodon-last-id.txt
+          git commit -m "Update Fosstodon state"
+          git push https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git main
