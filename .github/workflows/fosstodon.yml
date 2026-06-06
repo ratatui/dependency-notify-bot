@@ -66,7 +66,7 @@ jobs:
               print("No new Fosstodon post.")
               raise SystemExit(0)
 
-          content = f"🐀🤖 **New squeak:** {url}"
+          content = f"{url}"
 
           response = requests.post(
               os.environ["WEBHOOK_URL"],
