@@ -1,39 +1,39 @@
 name: Fosstodon
 
 on:
-schedule:
-  - cron: "0 * * * *"
-workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
 jobs:
-notify:
-runs-on: ubuntu-latest
+  notify:
+    runs-on: ubuntu-latest
 
-steps:
-  - uses: actions/setup-python@v5
+    steps:
+      - uses: actions/setup-python@v5
 
-  - name: Send latest post to Discord
-    env:
-      WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-    run: |
-      pip install feedparser requests
+      - name: Send latest post to Discord
+        env:
+          WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          pip install feedparser requests
 
-      python << 'EOF'
-      import feedparser
-      import requests
-      import os
+          python << 'EOF'
+          import feedparser
+          import requests
+          import os
 
-      feed = feedparser.parse("https://fosstodon.org/@ratatui_rs.rss")
-      entry = feed.entries[0]
+          feed = feedparser.parse("https://fosstodon.org/@ratatui_rs.rss")
+          entry = feed.entries[0]
 
-      requests.post(
-          os.environ["WEBHOOK_URL"],
-          json={
-              "content": (
-                  f"🐀🤖 **New squeak from @ratatui_rs**\n\n"
-                  f"**{entry.title}**\n"
-                  f"{entry.link}"
-              )
-          },
-      ).raise_for_status()
-      EOF
+          requests.post(
+              os.environ["WEBHOOK_URL"],
+              json={
+                  "content": (
+                      f"🐀🤖 **New squeak from @ratatui_rs**\n\n"
+                      f"**{entry.title}**\n"
+                      f"{entry.link}"
+                  )
+              },
+          ).raise_for_status()
+          EOF
