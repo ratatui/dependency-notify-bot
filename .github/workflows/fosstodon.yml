@@ -26,13 +26,16 @@ jobs:
           feed = feedparser.parse("https://fosstodon.org/@ratatui_rs.rss")
           entry = feed.entries[0]
 
+          title = entry.get("title", "New Fosstodon post")
+          link = entry.get("link", "https://fosstodon.org/@ratatui_rs")
+
           requests.post(
               os.environ["WEBHOOK_URL"],
               json={
                   "content": (
                       f"🐀🤖 **New squeak from @ratatui_rs**\n\n"
-                      f"**{entry.title}**\n"
-                      f"{entry.link}"
+                      f"{title}\n"
+                      f"{link}"
                   )
               },
           ).raise_for_status()
