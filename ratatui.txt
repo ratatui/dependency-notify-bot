@@ -11,6 +11,7 @@
 0x00nier/noircast
 0x0177b11f/memory-mcp-server
 0x4ndy/pomidor
+0x53A/ractor-wormhole
 0xAlgoRhythm/john-okyere-v1
 0xB10C/nixpkgs
 0xCCF4/timetrax
@@ -40,7 +41,6 @@
 1198722360/Exam-Grading
 18488292860-coder/nx
 1Money-Co/emerald
-1WorldCapture/RustPrompt
 1nk1/tui-agent
 1twalters01/EiyoDex
 2300031147/swarmcode
@@ -57,7 +57,6 @@
 42-DDN/esp-csi-tui-rs
 4DA/netupi
 4b-n4v/rdpm
-4lxs/editor
 4xiaxia/opencrabs
 5aaee9/nixpkgs
 5afe/alphanet
@@ -66,7 +65,6 @@
 6543/batmon
 6uclz1/gh-watch
 70pher/codex
-7suyash7/eth-p2p-mempool-crawler
 8b-is/smart-tree
 9mothers/udptoxy
 9names/probe-rs
@@ -89,8 +87,6 @@ AI-Development-Studio/loom
 AI-Shell-Team/aish
 AIUELAB/docker-claude-code-template
 AKJUS/akin-hash
-AKJUS/foundry
-AKJUS/rattler-build
 AKJUS/reth
 AKJUS/tracing
 ALJAZEERAPLUS/ump-dash
@@ -165,7 +161,6 @@ Alemadtr-group/foundry
 Alemadtr-group/sui
 AlertAngel/AlertAngel
 AlertAngel/testing_programs
-AlexFolea22/CLI-March2025
 AlexanderBrevig/zettelshot
 AlexanderSlokov/Naughtian-Kallisto
 AlexandreGac/alphazero-chess
@@ -185,14 +180,15 @@ Ammar-Alnagar/Ai-Agents.rs
 AmmarAbouZor/tui-journal
 AnatolyPopov/nixpkgs
 AndreKurait/opensearch-migrations
+Andres2204/Rustacean-launcher
 AndrewBazen/mage
 AndrewBoessen/P2P-LLM
 AndrewMcDonald-Dev/glebin
-AndyHoang/stash-tui
 Anfid/wlog
 Angel-2180/MediaSort
 Anillc/nixpkgs
 Anneal-Team/Anneal-Panel
+AnodeDev/oxide
 AnthonyDickson/budgeteur-rs
 AnthonyRonning/LNsploit
 Anti-Alias/TDI
@@ -245,7 +241,7 @@ AutomataNexus/AxonML
 Automattic/vector
 Awungia112/snake_game
 Axect/pytorch_template
-Axnjr/snn_be_pro
+Axect/rust_deep_learning_bench
 Azd325/nixpkgs
 Azgrom/nushell
 AzizhanKaya/ThisCrow
@@ -285,6 +281,7 @@ Benkol003/CAC-Launcher
 Beto-prog/Lab_progAvanzata
 BiMalxMe/IntrRaCLI
 Big-jo/tpot
+BigOm112122/foundry
 BillHuang2001/nixpkgs
 BinaryMuse/ouro
 Birbwell/chat_app
@@ -302,7 +299,6 @@ BlackRoad-Forge/RoadYazi
 BlackRoad-OS-Inc/RoadGate
 BlackRoad-OS-Inc/RoadShell
 BlackRoad-OS-Inc/RoadSight
-BlackWin-OS/blackwin-htop
 Blacklotus89898/Immovable
 Blankeos/rust-practice
 BlossomiShymae/poroshell
@@ -363,6 +359,7 @@ Chainguard-Wolfi-Bites-Back/jthornber__thin-provisioning-tools
 Chainguard-Wolfi-Bites-Back/kdash-rs__kdash
 Chainguard-Wolfi-Bites-Back/sxyazi__yazi
 Chainguard-Wolfi-Bites-Back/vectordotdev__vector
+Champii/antop
 ChenMiaoi/CRIEW
 ChenXu233/YaoXiang
 Chillbruhhh/Agentic-Memory-Protocol
@@ -390,6 +387,7 @@ Code-Militia/jirust
 Coly010/nx
 Commencement-Technology/codex
 Complete-Robot/DeepSeek-TUI
+Corgea/posthog
 CorneliusCornbread/Volnita
 CortexLM/bittensor-rs
 CortexLM/cortex-cli
@@ -401,7 +399,6 @@ CorvidLabs/fledge
 CosmicJesterX/gitui
 Coucoudb/OctoScan
 Cowboylaserkittenjetshark/ski
-CramBL/mdns-scanner
 CrazyRoka/bevy
 CrimsonDart/chess
 Crinfarr/doku
@@ -455,6 +452,7 @@ Dark-Meta-Studios/Aeonmi
 DarkWanderer/vector
 Darker97/CommandHelper
 Darker97/Monday.com-Rust-Tui
+Dastari/event_commander
 David-Martel/litho-workspace
 DavidAlphaFox/dioxus
 DavidFrings/MIDI-Router
@@ -515,16 +513,15 @@ EVEZ888/codex
 EaminC/EnvGym
 Eaquo/webtoon_manga-tui_local
 EdJoPaTo/mqttui
+EdJoPaTo/ratatui-logline-table
 EdJoPaTo/tui-rs-tree-widget
 EdgarPost/roon-tui
-EdvinLndh/ssui
 EdwardTang/codex-mcp
 Eiat5522/dotfiles
 Einliterflasche/game
 Eisfunke/nixpkgs
 ElchananHaas/sts_ai_slayer
 EliahKagan/gitoxide
-EliahKagan/prodash
 Eliot00/nixpkgs
 EliotTarlov/PersonalProjects
 Elmonade/daph
@@ -541,7 +538,6 @@ Emivvvvv/emiv.tr
 EmixamPP/linux-enable-ir-emitter
 EmiyaKiritsugu3/DeepSeek-TUI
 EmreErinc/envforge
-EmuGatorUF/EmuGator
 Entropy-Financial-Technologies/entropyfa-cli
 Entropy-Foundation/reth
 EpicEric/soletra-rs
@@ -573,7 +569,6 @@ FAZuH/tomo
 FGRCL/geoclock
 FRC-6390/FRC-Athena
 FSMaxB/baby-name-tournament
-FabseGP/fabseburn
 Fabus1184/ramp
 Faheemmay75/SKILL-FORCE
 FairCompute/energy-monitoring-tool
@@ -744,6 +739,7 @@ HasinZaman/HotVectors
 HathorNetwork/hathor-forge
 HawkEyeTheRapper/codex
 Hawthorne001/optimism
+Heidelberger-Regattaverband/regatta-infopoint
 HelixDB/helix-db
 Henriklmao/display-tui
 HenryMHH/Rabbit-jump-game
@@ -803,7 +799,6 @@ IzonIcy/Spine
 J-Pai/EnvTrackerNode
 JBLDKY/probable-engine
 JM445/OxideGB
-JMANN240/termex
 JMANN240/timers
 JMARyA/vk
 JOSEPHGILBY/nuitrack-rs
@@ -861,9 +856,9 @@ JoshFieldstad/steam-proton-browser
 JoshMLeslie/rust-keys
 Joxtacy/experiments
 Joy-Kimani/veloren-master
+Juan-LukeKlopper/node_module_cleaner
 JuanMuruaOlalde/Aprendiendo_-_-_
 JulianDroste/Loki-RS
-JustinBacher/LynChat
 JustinLakra/forge
 K-dash/reviewq
 K-dash/wzcc
@@ -1020,7 +1015,6 @@ MXCRDSVFT/codexCIN
 Macchina-CLI/macchina
 MadScientist85/turborepo
 Madcowe/we-are-bored
-MadelineBaggins/maddi-type
 MagicRB/nixpkgs
 MaharshiPatel/cargo-app
 Mai0313/VibeCodingTracker
@@ -1177,7 +1171,6 @@ NeuroLift-Technologies/vortex
 NeuroSkill-com/skill
 NeverBehave/nixpkgs
 Nexora-co-th/codex
-Next-Level-Empire/posthog
 NextGenAILLC/openfang
 NexusGPU/vgpu.rs
 NfNitLoop/ratatui-wasm-backend
@@ -1201,11 +1194,14 @@ North9-Labs/Seam
 Not-A-Normal-Robot/hackclub-resolution-rust-w5
 NotAShelf/stash
 NotAShelf/tempus
+NotComplicated/tui_game_engine
 NotKeira/mc-pricer
 NotKeira/what-todo-for-rust
 Nubaeon/ecodex
 NullSeile/wstui
+Nyvo-io/exam-grading
 OHMCFXG/mpris-lyrics-rs
+OMObuan/TicTacToe
 OZoneGuy/tree-hoprs
 ObolNetwork/helios
 ObviousThr33s/the-watchers-rust
@@ -1443,7 +1439,6 @@ ShieldedLabs/zcash-dev-suite
 ShlomoScript/text-tile
 Shnob/powershell-bookmarker
 ShoryaRawal/termlab
-Shourya742/Practise_lang
 Shresht7/Rust-Playground
 Shringe/whalecrab
 Shubhankar-Dixit/Aleph
@@ -1508,7 +1503,6 @@ Strange-Knoll/chat-tui
 StratusFearMe21/dotfiles
 StrayDragon/llman
 Streq/cli-tetris
-Streq/rust-cli-minesweeper
 SudoSaturn/ShellDup
 SunnkerLocket89/codex
 Super-JK/radiorecord-tui
@@ -1555,6 +1549,7 @@ Tednoob17/toboggan
 Tejaswini4119/PhishVault
 Telcoin-Association/telcoin-network
 Telmooo/nura
+Telx-lab/telx-network
 Ten0/nixpkgs
 TeyKey1/probe-rs
 ThalesMMS/rusty-dicom-node
@@ -1569,6 +1564,7 @@ TheFinalJoke/ohmyoled
 TheFirstIstari/Benchmarks
 TheGreenCedar/CodeStory
 TheMaxMur/RS-Key
+TheMrCake/terminal-chess
 TheMrGeeBee/SigilSmith
 TheNeikos/nixpkgs
 TheRakeshPurohit/gitui
@@ -1639,7 +1635,6 @@ UMDBPP/PacketRaven
 USER31110001113/AI-Framework-experimental-wave-structure-based-
 Umlatt/GeoTrace
 UnMolDeQuimica/Comrad
-UnMolDeQuimica/noterat
 Unicorn/Radium
 Universal-Standard/codex
 UniversalStandards/codex
@@ -1670,14 +1665,11 @@ Vilhelm-Ian/TaskAthleteTUI
 Vincevdb1/nui
 Vindex-dev/vindexinstaller
 Vinetos/nixpkgs
-Vinicius-de-Morais/pipe-emulator
 Vinidrummmm/codex
 Vinidrummmm/nexus-cli
 VisVivaSpace/muad-dib
 VisionaryArchitects/OpenShell
-VitorCarvalho67/IndraColor
 Vladastos/rustmarks
-Vojtoo/Corr_text
 VolodiaPG/nixos-configs
 Vonfry/nixpkgs
 Vonr/parui
@@ -1740,11 +1732,8 @@ ZHangZHengEric/Sage
 ZachFlint/Intellicrack
 Zaczero/nixpkgs
 Zaslon-Hivemind/DustyBinaries
-Ze7111/NexTask
 Zebra-Brain/everything-claude-code
 ZecHub/zechub-wiki
-ZeeeArtiste/rust-projet
-ZeeeArtiste/rust-robot
 Zelana-Labs/zelana
 ZephyrCodesStuff/hzrd
 Zero2oneZ/claude-cage
@@ -1882,7 +1871,6 @@ akjong/longtime
 aknarts/fiobot
 aksOps/memoryd
 akshaybapat6365/codex
-akshitgaur2005/real-esrgan-burn
 akshitsinha/sema
 aktaboot/nixpkgs
 akunasoftware/akuna
@@ -1926,7 +1914,6 @@ alpenlabs/alpen
 alpha-tango-kilo/imdb-id
 alphal00p/gammaloop
 alpinelinux/aports
-alpinevm/gas
 alsyundawy/AdGuardian-Term
 altheopacheco/Lumina
 altheopacheco/Rust-GPT
@@ -1939,7 +1926,6 @@ ambroslabs/boule
 amichne/kast
 amichne/kast-rs
 amikos-tech/chroma
-amirhosseinghanipour/presto
 amkisko/scout-cli.rs
 amoeba/gromnie
 amscotti/git_metadata_reader
@@ -2060,8 +2046,10 @@ ashark-ai-05/mcp-doctor
 ashestosea/lipu-tenpo
 asheux/nit
 ashlessscythe/sap-automation
+ashutosh-rath02/taskmaster
 asian-mario/r-top
 asim215/joshuto
+asimov-platform/asimov-dataset-cli
 asincole/aws_toolkit
 askrejans/gps-to-mqtt
 askrejans/sensors-to-mqtt
@@ -2121,7 +2109,6 @@ axpdev-lab/aeroftp
 ayaka209/opencode-provider-manager
 aycanirican/nixpkgs
 ayeniswe/thegame
-aykutschuermeyer/portfolio-tracker-tui
 aymene01/nova
 azat-archive/chdig
 azerozero/grob
@@ -2135,7 +2122,7 @@ babak-kh/restopher
 babak-kh/tui-tree
 bablobutton/dutar
 bahdotsh/dbug
-bahdotsh/psr
+bahdotsh/wrkflw
 bakageddy/miss_me
 balajirajput96/codex
 balrog-rust/bevy
@@ -2180,10 +2167,12 @@ ben-toker/flowst
 bencmd88/codex
 bendlas/nixpkgs
 bengosney/tetra-master-adviser
+benhorv/stickler
 benjaminjellis/gegen
 benjisho/windows-mtr
 benkruger/flow
 benmandrew/remy
+benoitlx/kanash
 bentheiii/flist
 bentwire/rdma-playground
 beparykamrul-dev/turborepo
@@ -2208,6 +2197,7 @@ billion-token-one-task/Codex_testing_bench
 billlzzz10/hyprnote
 billlzzz26/blink-md
 billy1624/sqlx
+bilqis0653/Bilqis
 bilsen/bevy
 binarynightowl/reth-debug
 binbandit/pigment
@@ -2251,7 +2241,6 @@ bodnar-dev/smart-tree
 bodnar-dev/ssh-portfolio
 bodymindarts/command-center
 bodyscrap/buran_sample
-bojohnson5/cliq
 bolshoytoster/twitch-tui-client
 bondiano/tc
 boquila/boquilahub
@@ -2312,6 +2301,7 @@ cackle-rs/cackle
 cadebrown/ezc
 caelricluo/lightop
 caguiclajmg/nixpkgs
+cahartma/vectordotdev
 cakcakcakcak/dry-scraper
 calacuda/synth-os
 callum-jones19/terminal_typer
@@ -2428,6 +2418,7 @@ ckampfe/russ
 ckaznable/bahamut-rs
 ckaznable/bocchi
 ckaznable/bplt
+ckaznable/kao
 ckaznable/mouse-checker
 ckaznable/poketex
 ckaznable/tive
@@ -2436,6 +2427,7 @@ ckoopmann/foundry
 clasanch/gwatch
 clawdesk/clawdesk
 clawdsolana/OpenClawd
+claylittlehorse/color-theme-luaunator
 clayne/LibAFL
 clayne/git-branchless
 claytonrcarter/git-branchless
@@ -2634,6 +2626,7 @@ ddonindia/Lodestarr
 ddwalias/spacetimedb-bench
 ddz/nixpkgs
 de-sh/twozero48
+debasish-raychawdhuri/chess_terminal
 deejayem/nixpkgs
 deep60/VoidCLI
 deepanchal/dnote-tui
@@ -2721,6 +2714,7 @@ doluk/cloudflare-speed-cli
 domcyrus/rustnet
 donjordano/lazysmg
 donnyoregon/foundry
+donsimn/ai-story-game
 doomhammerhell/quantum-tunneler
 doprz/dipc
 dora-rs/dora
@@ -2737,6 +2731,7 @@ doublegate/WarGames-joshua
 doublegate/cado-nfs-modern
 doublemover/PairOfCleats
 doubleunix/wnixpkgs
+dougli1sqrd/friendly-list
 downloadjpg/clicker-game
 doyled-it/agent-view
 dpk/nixpkgs
@@ -2759,7 +2754,7 @@ drdave-flexnetos/agent_harness
 drdave-flexnetos/harness-template
 drdave-flexnetos/ruvector
 dreamcatcher-tech/codex
-dreamsoft07/snarkOS
+drewkett/mefiles
 drlucasbarbieri/codex
 drozdziak1/burn-test
 drupol/nixpkgs
@@ -2798,7 +2793,6 @@ ealmloff/dioxus
 earth-sol/code2prompt
 earth-sol/tensorzero
 earthlings-dev/codex-annex
-ebrasha/blackwin-htop
 ecash-402/ecash-402-wallet
 ecto/pond
 edanisko/backlog-cli
@@ -2814,6 +2808,7 @@ edithatogo/fyi-cli
 edoapra/nixpkgs
 edoardocostantinidev/mora
 eduidl/mcapdecode-rs
+efikay/spider-sol
 egonik-unlp/convert-invert
 ehasanaj/gemon
 eidetic-labs/craik
@@ -2870,6 +2865,7 @@ encodedfox/omnidatum
 enessari/everything-claude-code
 engineers-hub-ltd-in-house-project/rustmail
 enhulsman/bible-tui
+entrepeneur4lyf/kwaak-gui
 entrepeneur4lyf/mcp_daemon
 entur/openapi-validator
 enzoftware/silvestre
@@ -2882,6 +2878,7 @@ epicDavid-private/turborepo
 epicsagas/tdl
 epochbtc/satd
 equilibriumco/snarkOS
+erasin/lyrics-next
 eraxe/shellber
 ereinaimer/taurine
 ereslibre/nixpkgs
@@ -2907,6 +2904,7 @@ essential-contributions/spec-forest
 esteinig/cerebro
 etensor/dotfls
 ethanh20009/llcli_rs
+ethanmuller/typewriter
 ethanrutt/chadtop
 ether/pad
 ethera-labs/op-rbuilder
@@ -2932,7 +2930,6 @@ f-gagel/advent_of_code
 f2k1de/nixpkgs
 fabaff/nixpkgs
 fabienbellanger/test-ratatui
-fabiovandewaeter/Mireveil
 fabriziosalmi/aimp
 fabriziosalmi/proxxx
 fabriziosalmi/zion
@@ -3060,6 +3057,7 @@ g5c9vq2cyh-debug/everything-claude-code
 gaberger/hex
 gabrieldemian/vincenzo
 gabrielmaialva33/winx-code-agent
+gabrielo100472219/minesweeper
 gabrielsalazar777/SpreadEater
 gabrimatic/codex
 gador/nixpkgs
@@ -3069,6 +3067,7 @@ gandli/ctf-tui-launcher
 gandli/proxy-tui
 gardenfi/api-cookbook-demo
 garettmd/clauderon
+gargpratyush/git-visualiser
 garnet-labs/agent-access
 garnet-labs/cli
 garnet-labs/codex
@@ -3140,6 +3139,7 @@ gitkb/meta_git_cli
 gitrc/cfproxy
 gitseti/clap-tui
 gitui-org/gitui
+giyermo/rtop
 gjogre/clockdate-rustwidget
 gjogre/gjpanel
 glacierx/rproxy
@@ -3189,7 +3189,6 @@ goosethedev/road-to-rust-hero
 gosub-io/css-typegen
 gosub-io/gosub-engine
 gosuda/supersymphony
-gpu-mode/popcorn-cli
 gracicot/nixpkgs
 graelo/pumas
 graham33/nixpkgs
@@ -3209,6 +3208,7 @@ grindmode762-afk/DeepSeek-TUI
 gripped/archpkgbuilds
 grith-ai/grith
 groq/orchestrate
+gruozachary/ride-the-bus-mcts
 gspia/nixpkgs
 gtg7784/senv
 gtunes-dev/fspulse
@@ -3264,7 +3264,6 @@ harehare/mq-docs
 harehare/mq-edit
 harehare/mq-task
 harehare/mq-tui
-harilvfs/carch
 harpertoken/harper
 harryisfish/gitt
 haruki7049/core
@@ -3338,7 +3337,6 @@ huseynsnmz/postr
 huskercane/lnav-rs
 hustcer/nushell
 hwennnn/TypstFlow
-hxyulin/hadron
 hxyulin/prj
 hy-atharv/maclincomms
 hyli-org/hyli
@@ -3380,9 +3378,9 @@ ibrahimcesar/async-inspect
 ibrahimcesar/lucent
 icepuma/nanite
 ickshonpe/bevy
+icorbrey/jjj
 idanarye/nu_plugin_skim
 iddey/dumo
-idi8-t-here/Simple-text-Search-engine
 idnerdidx/everything-claude-code
 idvorkin/Settings
 idvorkin/obs-cli
@@ -3429,7 +3427,6 @@ intentee/paddler
 intrepion/https-ratatui.rs-tutorials-counter-app-
 intrepion/https-ratatui.rs-tutorials-hello-ratatui-
 intrigus-lgtm/LibAFL
-intuis/mnyaoo32
 invalidcharactersnotavailable/ai-local
 inversepolarity/uncl
 inverted-tree/chunkIQ
@@ -3448,6 +3445,7 @@ itiquette/gitui
 its-me-ojas/monjo-kompass
 itsCodingThing/hcmd
 itscrystalline/nur-packages
+itstaylorham/AGT
 iuy1/chat-room
 iv-nn/nixpkgs
 ivan09069/codex
@@ -3455,7 +3453,6 @@ ivan770/nixpkgs
 ivanwcampos-apk/foundry
 ivaquero/hunming
 ivaquero/kungfig
-iwzbi/lazyhf
 izhrs/cupcake
 j-a-vizcaino/everything-claude-code
 j-fulbright/rust-aws-sso-tui
@@ -3482,6 +3479,7 @@ jakob-schuster/genetic-algorithms
 jakob-schuster/matchbox
 jakobhellermann/bevy
 jakubadamw/parcel-app-cli
+jalalvandi/Teraud
 jalho/rustctl
 jamdotjar/rtweekend-tui
 james-gibson/tuner
@@ -3515,6 +3513,7 @@ jbgosselin/nixpkgs
 jbiason/random
 jboynyc/nixpkgs
 jbr/ferritin
+jbutterwick/todo-app-rs
 jclem/gist
 jclem/work
 jclem/work-old-1
@@ -3545,7 +3544,6 @@ jerzywilczek/jwtop
 jesse-slaton/cli-tools
 jessearmand/xplorertui
 jessebraham/esp-hal
-jetpham/ratzilla-vercel-template
 jfchevrette/nixpkgs
 jfheinrich-eu/commit-wizard
 jfoucher/krui
@@ -3648,7 +3646,6 @@ joyint/joy
 jpcrs/binocular
 jperkin/bob
 jpetrucciani/nixpkgs
-jpsilvashy/channel-surfer
 jqnatividad/csvlens
 jrcribb/atuin
 jrin0340-420/surfpool-validate-
@@ -3675,10 +3672,10 @@ juicie-brucie/brucenix
 julesklord/mangofetch
 julesklord/mangofetch-gui
 julesklord/quotachecker-tui
-julioformiga/42-rush-wordle
 junhocho/codex
 juninmd/tokenix
 juniorjrfsn/rust_app
+junkdog/tachyonfx-ftl
 juntaochi/amcli
 jurajpiar/foundry
 jurajpiar/optimism
@@ -3687,6 +3684,7 @@ just-every/code
 justDeeevin/view-img
 justinas/nixpkgs
 justininho/game-of-life
+justinpak13/dumbbell_terminal
 justinwangx/im-tui
 justpav05/darkest-shell
 jvanbuel/flowrs
@@ -3956,7 +3954,6 @@ lukaspustina/mhost
 lukecarr/mui
 lukestynes/swapbytes
 lukewaehner/toolbox
-lukewberg/bedrock_supervisor
 lumilinks-group/ECC-test
 luolong/gall
 lusingander/stu
@@ -4031,11 +4028,13 @@ markusmoenig/Eldiron
 martcpp/local-takkie
 martinabeleda/ripdiff
 martydill/flexorama
+maschad/junkanoo
 mason-larobina/classi-cine
 massive-com/vortex
 massivemind/everything-claude-code
 matei139101/ParadoxicalEngine
 mateusauler/jj
+matheus-git/systemd-manager-tui
 matheusfigueredo/trad
 mathiasror/turbo-bible
 mathieu-lemay/gh-dashboard
@@ -4045,7 +4044,6 @@ matiscodjia/nn_animation
 matkrin/mvg-tui
 matthandlersux/tailspin
 matthew-reed-holden/sluice
-matthewchavis8/Fuzzers
 matthewmturner/datafusion-tui
 matthiasrankin/esv-cli
 mattmagin/whoami
@@ -4065,6 +4063,7 @@ mayl/nixpkgs
 mazdak/lazyredis
 mazedesignhq-experiments/tdiff
 maziarzamani/bouncy
+mazkaaa/nerva-ai
 mberehulka/nyaa-downloader
 mberetvas/RustCom-explorer
 mbilker/sqlx
@@ -4116,7 +4115,6 @@ mherkazandjian/har
 mholgatem/GPIOnext
 mholtzscher/melt
 michaelBelsanti/nixpkgs
-michaelangeloio/qapp
 michaeldhopkins/branchdiff
 michaelhughes2501/DeepSeek-TUI
 michaelhughes2501/turborepo
@@ -4196,7 +4194,6 @@ monokrome/ducki
 monokrome/linewise
 monokrome/mkOS
 monomadic/config
-monosans/proxy-scraper-checker
 montinode/pay
 montinode/sct
 mooship/pacer
@@ -4309,6 +4306,7 @@ neoOpus/claurst
 neondatabase/appdotbuild-agent
 neonwave-dev/neon-os
 neptunao/suttabot
+nerve-terminal/Broomhilde
 nethoxa/rakoon
 netinsight/edgectl
 neuralift-ai/baml_elixir
@@ -4317,6 +4315,7 @@ never2average/fpna-thinwedge
 new-vera-field/turbo
 newAM/nixpkgs
 newellz2/ibtop
+nextlevelempire/posthog
 nexus-xyz/nexus-cli
 nexusaicorporate/tesser
 ngpal/network-usage-monitoring
@@ -4355,6 +4354,7 @@ nix-community/nix-melt
 njfdev/ncssm_hpr_2025_payload
 njfio/Tau
 njfio/fluent_cli
+nkassa/GSoC
 nkeor/gyr
 nlamirault/g1c
 nlamirault/ltui
@@ -4534,7 +4534,6 @@ pal3dreamer/vienna
 palmshed/omnitype
 palmshed/sandbox
 panicfrog/tui_games
-pansila/mcp_server_gdb
 pantaelaman/case100
 panter-dsd/tatuin
 paradigm-operations/foundry-fmt-fix
@@ -4546,7 +4545,6 @@ parchlinux/archinstall-rs
 paritytech/jamtart
 paritytech/zombienet-sdk
 parksb/ised
-partylikeits1983/compiler-hackathon-counter
 patevs/spacedrive
 patoman-bit/mother-terminal
 patrick11514/VSB
@@ -4571,6 +4569,7 @@ pbek/nixpkgs
 pchomik/pomotimer
 pcnate/home-assistant-eleksmaker-wfd1
 pcnate/oxidio
+pcolusso/kerf
 pcolusso/secure-cords
 peat-psuwit/nixpkgs
 pedromarquetti/rust-browser
@@ -4598,6 +4597,7 @@ perclft/QubitEngine
 perfloop/baml
 permacommons/ccd
 permitlayer/permitlayer
+pete23/parasite
 peteonrails/voxtype
 peterfication/git-local-review
 peterfpeterson/nexplore
@@ -4638,6 +4638,7 @@ pineapplehunter/bubblepolicy
 pinkfuwa/llumen
 pinn3/nixpkgs
 pipXBT/Vanaddy
+piscopancer/playground
 pitahayaDevSoft/poshbuddy
 pitahayaDevSoft/tropical-projectmanager
 pitipon/pinyin-ui
@@ -4797,6 +4798,7 @@ reaganmcf/r2
 realmorrisliu/alan
 rebjannik/MyShittyRougeLikeGame
 reconsumeralization/open-interpreter
+recursive-record-registry/rrr-tui
 redbadger/crux
 redox-os/redox
 reedrw/nixpkgs
@@ -4822,12 +4824,12 @@ resonant-jovian/phasma
 resonant-jovian/prismatica
 rethread-studio/rethread
 retrokiller543/nexsock
-reubeno/tui-uefi
 revesis/changelist
 rexgnu/webhook
 reyamira/models
 rfgrep/rfgrep
 rfi-irfos/ternary-intelligence-stack
+rgwood/ReiTunes
 rgwood/nushell
 rgwood/systemctl-tui
 rhendric/nixpkgs
@@ -4881,6 +4883,7 @@ robpellegrin/rust-rm
 robtfm/bevy
 rockinem/foundry
 rodriguezjasonlloyd/workwatch
+rogalio/taskx
 rogercoll/eprofiler-tui
 rollf/nixpkgs
 rom8726/clup
@@ -4899,6 +4902,7 @@ rooz-live/agentic-flow
 roptaty/dab-rtl
 roseteromeo56-cb-id/sui
 roseteromeo56/sui
+roshanlimbu/tcgit_rust
 rotarymars/Note-zsh
 rotprods/cli
 rowanG077/nixpkgs
@@ -4923,8 +4927,8 @@ rust-ui/ui
 rustl3rs/banner
 ruteckimikolaj/gcp-snap-crab
 ruteckimikolaj/pomodorust
-rv97/sheldon
 rwcrosby/ncexe
+rwrobe/cliraoke
 ryancinsight/kwavers
 ryanmaclean/vibecode-webgui
 rybmks/rust_ai
@@ -5109,6 +5113,7 @@ siiway/claude_review
 sile/magpies
 silvabyte/codeloops
 silverbee-ai/buster
+silviu-life/learn-rust
 simdimdim/nushell
 simon1494/rust_facu
 simongoricar/euphony
@@ -5135,7 +5140,6 @@ skanehira/parallels
 skchaudr/pi-hybrid
 skeuchel/nixpkgs
 skim-rs/skim
-skoove/undersea
 skrmc/hidex
 skwuwu/Analemma-GVM
 skyethepinkcat/nixpkgs
@@ -5330,7 +5334,6 @@ szaydel/nixpkgs
 t-eckert/ctrlsys
 t-lee-gh/nixpkgs
 t-nil/playground
-t-webber/mailbox
 t2o2/betfair-rs
 t4ccer/nixpkgs
 tabrezahmed51/codex
@@ -5343,8 +5346,8 @@ tahanawab4848/codex
 tahayvr/omarchyiso
 taiga-tech/receipt_tui
 taiga533/pavo
+takavfx/learn_ratatui
 takemura95/codex
-takeshiD/tatl
 takitsu21/rustatio
 tako-sh/tako
 taktiks2/yaru
@@ -5402,6 +5405,7 @@ teppyboy/toonies
 terlar/nixpkgs
 termide/termide
 terraphim/terraphim-ai
+terror/axil
 testingapisname/rust-hsm
 teutat3s/nixpkgs
 tfr-net/injust-rs
@@ -5560,7 +5564,6 @@ tyPhoon-collab/burn_sample
 tylerbutler/repoverlay
 tyranosurasmax/kabu
 tyranosurasmax/loom
-tyrantlink/plural-userproxies
 tyrchen/agent-core
 tzervas/ai-s-combinator
 tzervas/aphelion-framework-rs
@@ -5599,6 +5602,7 @@ usergitrafamg/codex
 usertam/nixpkgs
 usetero/vector
 ut-issl/capsula
+utahrobotics/actuator-controller
 utahrobotics/utah-lunabotics-2026
 utilForever/focustime
 utkarsh5026/StoreMy
@@ -5679,7 +5683,6 @@ voyage-ai/chroma
 vrealzhou/json-diff
 vsajip/jj
 vshmyhlo/synth
-vsn4ke/rogue
 vulcanen/OpenViking
 vxcozy/clitunes
 w0wl0lxd/toon-lsp
@@ -5804,7 +5807,6 @@ xworld21/nixpkgs
 xxeisenberg/sudoku
 xxxbrian/nixpkgs
 xynexus/hipfire
-xytaglyph/harpy
 xyzyx4546/lazytimer
 y-kamiya/machine-learning-samples
 y0br4h/DeepSeek-TUI
@@ -5819,7 +5821,6 @@ yatoub/susshi
 yazdostum-nettr/parsql
 yeathtit/foundry
 yeathtit/optimism
-yelinator/lazydata
 yendo-eng/codex
 yewstack/yew-playground
 yexiyue/ratatui-kit
@@ -5899,6 +5900,7 @@ zed-colonel/exoskeleton
 zedddie/tRust
 zedi-pramodh/eve
 zeenix/gimoji
+zemse/gm
 zenforic/self-awareness
 zepzeper/chess-engine
 zeri42/nixpkgs
