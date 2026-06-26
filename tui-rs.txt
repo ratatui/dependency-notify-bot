@@ -49,6 +49,7 @@
 A-Archives-and-Forks/nushell
 A-Archives-and-Forks/veloren
 A1aCr1ty/RainySummer
+A5873/synx
 AAFC-Cloud/Cloud-Terrastodon
 AFLplusplus/libafl_paper_artifacts
 AI21212019/rust-commandline-example
@@ -170,6 +171,7 @@ CSML-by-Clevy/csml-engine
 CUBETIQ/vector
 CaffeineDuck/airfarm
 CalebEverett/keyrock-task
+Carbon-Twelve-C12/supernova
 CargoLens/cargo-lens-ws
 Celeo/evemapping
 Celeo/vatsim_pilot_glance
@@ -222,6 +224,7 @@ CyberFlameGO/veloren
 DEFCONPRO/snarkOS
 DI0IK/gpu-hashing
 DLFW/joshuto
+DaKingof/nixpkgs
 DadyaBorya/tui_backup
 Daksh14/croc-look
 DanEscher98/myTutorials
@@ -255,6 +258,7 @@ DioxusLabs/rink
 DishankChauhan/rusty-sandbox
 Doesntmeananything/packrat
 Dong-Hyeon-Yu/optme
+Donnykk/Mooncl
 Dovineowuor/NFT-Marketplace
 DrakeEvans/foundry
 DrunkenToast/ruest-client
@@ -468,6 +472,7 @@ Louis-Amas/reth-fork
 LrsNate/timer-rs
 LucaSchinnerl/barsh
 LunaticHacker/lemmy-terminal-viewer
+LutiDrist/mytool
 LutiDrist/rust-mytools
 Luxvao/rust
 Ly4m/advent-of-code
@@ -616,6 +621,7 @@ RJ0088/renegade-fi
 RadiatedMonkey/dioxus
 RadicalZephyr/nattty
 RafaelKuhn/peek-obj
+RafiulPaceProjects/rust_https_Server
 RainbowCookie32/rusty-torrents
 RaitoBezarius/buildxyz
 Ramilito/kubesess
@@ -681,6 +687,7 @@ Sh00ty/MeFuzz
 ShabbirHasan1/gitui
 ShabbirHasan1/gobang
 ShabbirHasan1/lean_tui
+ShabbirHasan1/librecdj
 ShabbirHasan1/spotify-tui
 SheldonNico/Exercises
 Shiva953/sol-clix
@@ -915,6 +922,7 @@ amolgawai/coding-playground
 amorison/sudoku-solver
 andrasio/nushell
 andreijiroh-dev/alpinelinux-aports
+andrewCohn/crustyTyping
 andrewhickman/shardik
 androse-labs/pazaak-rs
 andyrbell/rust-for-java-developers
@@ -997,6 +1005,7 @@ aureliusbtc/foundry
 austin226/advent-of-code-2023
 austinabell/bonsai-chess
 autokludge/mewz
+autoschematic-sh/autoschematic
 avencera/splitmonic
 avhz/RustQuant
 avivelmakias1/lazystow
@@ -1008,6 +1017,7 @@ azahi/nixpkgs
 azjgard/pr
 azorng/material
 b-/atuin
+b-illy-d/newsboy
 b333z/nushell
 babak-kh/restopher
 babak-kh/tui-tree
@@ -1081,6 +1091,7 @@ caphosra/monopolizer
 carrion256/waku
 cartrius/resource-manager
 carzum/termviz
+casonadams/oma
 cassc/foundry
 cateiru/servant
 catornot/r2proximity-chat
@@ -1094,6 +1105,7 @@ ceejbot/modcache
 ceejimus/zellij-runner
 celeranis/playit-agent
 celo-org/optimism
+centralware/SimpleNIX
 ceonlabs/arcan-nixos-asahi
 ceppelli/solana-gossip-tui
 cerdelen/42_education_projects
@@ -1116,6 +1128,7 @@ charlesinwald/rustinx
 charlesinwald/rusty_read
 cherbie/soundcloud-tui
 cheshirskycode/oha
+chewsglass/Solana-Meteora-Believe.app-Sniper
 chewsglass/Solana-Rust-Pump.fun-Sniper
 chipsalliance/OmnixtendEndpoint
 chirag-bgh/eye-of-reth
@@ -1214,6 +1227,7 @@ david072/conways-game-of-life-tui
 david47k/boxbopper
 davidiw/aptos-core
 dayeya/Bamba
+dbrafael/qop
 dbranford/booktop
 dbrgn/shtcx-rs
 ddaletski/irename-rs
@@ -1390,6 +1404,8 @@ frankh/atuin
 frectonz/lobste-rs
 fredlb/fred_podplayer_tui
 fredykoci/hyperqueue
+fricze/jonathan
+fricze/marianna
 fritzrehde/unsw-comp6991-workshops-24t3
 fritzrehde/watchbind
 frostdpr/braille-balls
@@ -1541,6 +1557,7 @@ ionarevamp/Rustemon
 ipfs-force-community/damocles
 irishmaestro/fubar
 iruzo/msailor
+ishan211/iSearch
 ismeade/rust-exp
 isubasinghe/tintindb
 it4ch1-007/Buzz
@@ -1573,6 +1590,7 @@ jbellerb/x
 jbonachera/nanoproxy
 jcaesar/kafka-totop
 jcaromiq/adh-rust
+jdhirst/banksystem-rs
 jenggo/macchina
 jernejmarcic/RustyPlayer
 jespermunkeby/patch
@@ -1640,6 +1658,7 @@ jthornber/thin-provisioning-tools
 jtickle/learn-rust-cards
 jtrv/osintui
 jugeeya/UltimateTrainingModpack
+juicie-brucie/brucenix
 julianschuler/chords
 junghyun397/VirtualController
 juspay/dioxus
@@ -1776,6 +1795,7 @@ lotuscommunity/lotus
 lovesegfault/abx
 lparcq/procmon-oprs
 lpil/lpil
+lpolish/dockertop
 lpraneis/aranet4-dashboard
 lsytj0413/ancla
 lucas-cauhe/chip8-rusterpreter
@@ -1807,6 +1827,7 @@ malkmusl/change_wallpaper
 mamh-mixed/nushell-nushell
 mammothcoding/passgen-console-linuxwin
 manifest-cyber/nixpkgs
+manishdotsqlite/todo-cli
 manuelpepe/chess-tui
 mapbased/fluvio
 marcSoda/tuib
@@ -1923,6 +1944,7 @@ movementlabsxyz/m2-sui-explorer
 movementlabsxyz/move
 movementlabsxyz/movement
 movementlabsxyz/movement-aptos-core
+movementlabsxyz/movement-migration
 movementlabsxyz/sui
 movq/aports
 mprosk/miditerm
@@ -2003,6 +2025,7 @@ nolood/rust-tui-todo-list
 nonast/libra2
 nonomal/gping
 noraj/fontfor
+notBroman/parse-me
 notamicrodose/cointracker-cli
 noviadi/system-monitor
 npv2k1/learn-sui
@@ -2054,6 +2077,8 @@ orotalt/nushell
 osmak1234/quicktick-tty
 otatski/vivify
 oteca58/lyhat
+otter-sec/aptos-ctf-framework
+otter-sec/aptos-test-adapter
 ourgal/snowfall
 owonwo/learning-rust
 owrior/todo_list
@@ -2092,6 +2117,7 @@ philschatz/puzzlescript-rust
 phodal/quake
 phylaxsystems/phoundry
 pianohacker/pachinko
+pickupp-dev/csml-engine
 pierreyoda/hncli
 piersy/sui
 pinage404/nixpkgs
@@ -2148,6 +2174,7 @@ radical-semiconductor/woodpecker
 radicle-dev/radicle-tui
 radiumhacker/snarkOS
 radlinskii/donkeytype
+rafia9005/gemini-term
 rage/tmc-cli-rust
 raheaneyno1/foundry
 railwayapp/cliv3
@@ -2384,6 +2411,7 @@ soanvig/yt-mirror
 sofamaniac/music_server
 solomonerous/sui
 sophiajt/nushell
+sorinirimies/netrunner_cli
 sota-zk-labs/aptos-rs-sdk
 sota-zk-labs/aptos-testcontainer
 sota-zk-labs/madara-orchestrator
@@ -2507,6 +2535,7 @@ tokio-rs/console
 tokio-rs/console-gsoc
 tom-tan/aports
 tomasmedellin/rustymetrics
+tomm-g/soundMixerRS
 tommyshem/learn-to-code
 tong2prosperity/ctree_k
 tonyb983/noted
