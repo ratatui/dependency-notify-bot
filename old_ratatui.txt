@@ -160,7 +160,6 @@ AiTH-Solutions/agnt.harness-microclaw
 AiTH-Solutions/agnt.harness-openfang
 AiTH-Solutions/agnt.harness-zeroclaw
 AiTH-Solutions/security-bitwarden-agent-access
-AidanV/shim
 Aivyx-Agent/aivyx
 Ajlow2000/playground
 Ajustor/storingUnicorns
@@ -282,7 +281,6 @@ BeeBoyD/ripsync
 BeetleBot/FountTUI
 BenFradet/allumette
 BenMcConville/IsaacLab_CLI
-BenediktBroich/nixpkgs
 Bestbuybaby/arrowhead
 Bestbuybaby/everything-claude-code
 BiMalxMe/IntrRaCLI
@@ -326,7 +324,6 @@ C2R-Marketing/herdr
 C2R-Marketing/mesh-llm
 C2R-Marketing/warp
 CIROH-UA/rust-lstm
-CISO-99/ECC
 COMP6991UNSW/termgame
 CTRQuko/claurstcode
 CaffeeLake/nixpkgs
@@ -1206,6 +1203,7 @@ OneNoted/Prism-TUI
 OneNoted/orators
 OneNoted/pvt
 OnlineChefGroep/herdr
+OpenAgentID/oas-glyph
 OpenCoven/coven
 OpenDevicePartnership/odp-platform-common
 OpenKeyring/oak-keyring
@@ -1712,7 +1710,6 @@ Y0usaf3/kris-watcher
 Y0usaf3/shiggy
 Y0usaf3/tui_chat_app_client
 YUCLing/netease-watcher
-Yarny0/nixpkgs
 Yasin-Ahmed-Kamal-Khan/stemmgpt
 YasinYA/basket
 YesYouKenSpace/DiDiCi
@@ -3745,6 +3742,7 @@ kbrdn1/gwm-cli
 kchernokozinsky/lazyprop
 kcrt/mailsearch-rust
 keinsell/neuronek
+kenhaesler/ccroute
 kennypassenier/homelab
 kennywillbe/rustydocker
 kentyja12/todoist-CLI
@@ -3755,7 +3753,6 @@ kevzero/dioxus
 key-bound/firefly
 keyam1124/usedu
 keysmashes/nixpkgs
-keyvizsla/floo
 kfiz/nixpkgs
 khmilevoi/termcraft
 khulnasoft-bot/return
@@ -5013,6 +5010,7 @@ sdkmode/sdkmode
 seaasses/address-artisan
 seakayone/chat
 seanybaggins/nixpkgs
+sebastiancaraballo/polyglot
 sebasv/grove
 sebosp/eframe-sc2
 sebosp/s2protocol-rs
@@ -5301,6 +5299,7 @@ swilcox/rtrax
 switz/plc-touch
 swizzard/samazing
 swooby/SuperCodex
+sxndmxn/grxxt
 sy4may0/menahel
 sydlexius/media-automation
 symmitri/buzz
@@ -5735,11 +5734,11 @@ woomoody/NumDesTools
 workersio/s2-workload
 worldcoin/world-chain
 wormholelabs-xyz/foundry
+worxbend/airgradient-cli
 worxbend/obs-stats
 worxbend/obsctl-rs
 woss/fork-vector
 wow-look-at-my/grok-build
-wqpl/wq
 wrvsrx/nixpkgs
 wsquarepa/JupyterCLI
 wsquarepa/LibLLM
@@ -5924,6 +5923,7 @@ zoza1982/cairn
 zryambus/paproxy
 zspacelabs/bimm
 zuiyu1998/bevy
+zuli2021/zuli-proxybroker-extended
 zummenix/mfinance
 zxfsee/afterburner
 zys-contrib/turborepo
