@@ -6,6 +6,7 @@
 0xgsvs/todo_tui
 0xkaushik-ai/System_monitor
 0xnullifier/AptWeaver
+149segolte/carton
 371tti/rwe
 485angelprocess/t800-emulator
 6543/batmon
@@ -15,6 +16,8 @@ Aditaya08/Auction01
 Agustin-Mediotti/todo-app
 AhmedAbdeen7/Linux-Process-Manager
 Ajalsr/rust-todo-list
+AkashSingh123/FastDDSModifications
+AkashSingh123/dual_relay
 AkhilKamath/rust_stuff
 Alemadtr-group/aptos-core
 Alex-Grimes/dashoxide
@@ -54,6 +57,7 @@ Dustin4444/diem
 Emadalshamery/aptos-core
 EmrePiconbello/sui
 Entropy-Foundation/aptos-core
+FZDSLR/nixpkg-loong64-test
 Fanalogy/Proffx-Dioxus
 Figura-Goofballs/goofy-bbs
 Finradon/lcd
@@ -73,6 +77,7 @@ ISTA-SPiDerS/Anthemius
 IliyanKostov9/nixpkgs
 Jayesh2291/chat-app
 Jitendra2603/Hvim
+JiwanChung/turm_gpu
 JoeRu/nixpkgs
 JohnDaWalka/move
 JohnDaWalka/move-on-aptos
@@ -115,7 +120,9 @@ PKWadsy/codebase-concat
 Patricia-dev83/Boss-Loop-station
 Pazl27/typy-cli
 Peter-L-SVK/TermTalk
+Pewpenguin/DragonBallTUI
 PoorRican/browsr
+PrabhaharanNM/Gsync-rst
 ProxiRun/proxirun
 ProxyAi/rusty-browser-manager
 QEDK/reth
@@ -138,6 +145,7 @@ Sawsqr68/aptos-core
 See887777/aptos-core
 SergZen/asn1_viewer
 ShabbirHasan1/librecdj
+Shopify/nixpkgs
 Sin-Estres-dev/aptos-core
 SourashisB/rust-projects
 Sunrisies/v2025
@@ -161,6 +169,7 @@ UmiNetwork/op-move
 Vritra4/move
 W3W-EdU/nixpkgs
 Wizardwalt/Janus-Omega-OS
+Wladoo/holochain
 Xelezard/btel_table
 XuHugo/blockVM
 YoungHaKim7/rust_crossbeam_training
@@ -208,6 +217,7 @@ bellboy-robotics/multail
 biohazel/tuipool
 blais/options-chain-vibecoding
 bmrips/nixpkgs
+borngraced/dotfiles
 btbxbob/sinuous
 canardleteer/tari
 cartrius/resource-manager
@@ -256,6 +266,7 @@ equilibriumco/polkavm-move
 equilibriumco/substrate-move
 ethannhu/rusty-jukebox
 ethanrutt/chadtop
+ethosx-yc/econia
 ethosx-yc/econia-dss
 evanjt/heartrace
 everruns/spotify-tui
@@ -264,6 +275,7 @@ expl01txx/retro-pack-v2
 fCorleone/LOKI-for-Aptos
 fathom-io/fluvio
 felipetruman/fuzzing-101-solutions
+firatozbey/sui
 flushedface/look-at-my-profile
 fork-the-planet/atlassian___rocker
 formal-land/move
@@ -273,6 +285,7 @@ fricze/marianna
 fritzrehde/unsw-comp6991-workshops-24t3
 frostdpr/braille-balls
 fullscreen-triangle/trebuchet
+gbechtold/nomad-app
 gedigi/aptos-core
 gethsun1/sui
 gnostr-org/gnostr-templates
@@ -284,6 +297,7 @@ gul3isg00/Rust_Issue_Tracker_And_Experimentation
 guzzdev/blackjack
 gwapIgot/aptos-core
 gyrusdentatus/nymcat
+hecrp/LLM-train-monitor
 heghness/vector
 helgesander/security-windows-checker
 hruday-HMS69/cryptowatch
@@ -298,17 +312,22 @@ immunefi-team/attackathon-movement-aptos-core
 initia-labs/movevm
 invalidcharactersnotavailable/ai-local
 ishan211/iSearch
+ismeade/rust-exp
 itsjustmustafa/wik
 jRicardoLima/Server_manager
 jacobpeake/mSight
 jdhirst/banksystem-rs
 jkulubya/nixpkgs
+jmweir/xtv
 joaquinbejar/tastytrade
 jocades/rit
 joe-corcoran/task-flow
+joefiorini/jj-gh-pr
 joefrost01/ecs_ai_compliance
 joelybahh/rust-micro-cron
 johngao122/ISE-Module-Planner
+josh-ja-walker/sorts_tui
+joshfelm/monitor-tui
 jr0dsgarage/DirSync
 jsteeleiv/dirt
 jtrv/osintui
@@ -330,9 +349,12 @@ kykurniawan/rustui
 lantos1618/whisper_test
 layus/nixpkgs
 leo-mendonca/Algoritmos_2024
+linzhi555/music-rs
 lizongying/run
 llin590/akirataguchi115
 loaki/aso
+lonyelon/rdiary
+lotuscommunity/lotus
 lpolish/dockertop
 lsytj0413/ancla
 ludoplex/dioxus
@@ -346,6 +368,7 @@ masfahru/masfahru
 mattgil/2048
 maxmerc/stockli
 maxrdz/RusTTY
+maxwnewcomer/contactor
 mcxross/deepbook-terminal
 meng-xu-cs/aptos-core
 mhoff12358/dungeon_stranding
@@ -379,10 +402,12 @@ notamicrodose/cointracker-cli
 notrevenant/windows-update-manager
 noviadi/system-monitor
 nsavvide/RustyDiscord
+nsavvide/RustySongs
 nunniii/myc.rs-examples-rs
 obaraelijah/adguard-tui
 officialdarksheao/budgey
 ohdaveed/crosup
+orezsuxen/tock
 otter-sec/aptos-ctf-framework
 otter-sec/aptos-test-adapter
 ourgal/snowfall
@@ -414,12 +439,14 @@ rm289/sui
 rnpgp/nixpkgs
 robert2687/sui
 rohit077/fluvio
+rollingghost/cli-task-tracker
 rsubramani/pomodoro-timer
 sZeta99/SEBAS
 sadministrator/ziggurat
 sahibzada-allahyar/DemocratizingAI-Rust-OS-and-Lang
 saidutt46/domain-check
 saksham-tomer/vim_terminal
+saman0i0/FinTrackR
 sanderkohnstamm/mavshark
 saronic-technologies/nixpkgs
 schooldanlp6/marstui-rustio
@@ -458,6 +485,7 @@ thefu/tui-folder-cmp
 thmasq/alacritty-themes-rs
 thoreinstein/nixpkgs
 titanson2/move
+tkmxqrdxddd/logviewer-systemd
 tkp1990/task_manager_cli
 tomm-g/soundMixerRS
 tong2prosperity/ctree_k
@@ -470,6 +498,7 @@ vbv-nyk/hoary
 vibhorjoshi/sui
 victor06-git/rustProgramms
 vitrioil/digup
+vortex314/zenoh-projects
 vpalmerio/MoveGameDB
 vusec/hw-fuzzing-driver
 vusec/libaflgo
