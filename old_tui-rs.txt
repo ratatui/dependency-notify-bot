@@ -185,10 +185,16 @@ Cortantse/rust2048
 CrackerCat/kmon
 Credit-is-First/cargo-debug
 CyberFlameGO/ALVR
+CyberFlameGO/all-is-cubes
 CyberFlameGO/atuin
+CyberFlameGO/bottom
+CyberFlameGO/dua-cli
+CyberFlameGO/foundry
 CyberFlameGO/gitoxide
 CyberFlameGO/gobang
 CyberFlameGO/nushell
+CyberFlameGO/onefuzz
+CyberFlameGO/pulseshitter
 CyberFlameGO/smokey
 CyberFlameGO/veloren
 DEFCONPRO/snarkOS
@@ -222,6 +228,7 @@ Dhghomon/finance-tool
 Dhi13man/rust_text_editor
 DhruvDh/context-gather
 DiarmuidEnright/Trading-display
+DioxusLabs/rink
 DishankChauhan/rusty-sandbox
 Doesntmeananything/packrat
 Dong-Hyeon-Yu/optme
@@ -249,6 +256,7 @@ Eraden/bitque
 Etto48/HexPatch
 Ex-32/ferris-finder
 FZDSLR/nixpkg-loong64-test
+Fabus1184/ramp
 FakeMichau/lma
 Fanalogy/Proffx-Dioxus
 FantasyTeddy/macchina
@@ -276,6 +284,7 @@ Galxe/gravity-sdk
 Garmelon/cove
 GenesysGo/intuition
 George-Miao/clashctl
+Gerb-Voogt/tulok-reborn
 Gigas002/diskonaut-ng
 GitWitIt420/nixpkgs
 GitoxideLabs/prodash
@@ -330,6 +339,7 @@ JacobLinCool/missile-launcher
 JacquelineCasey/ConnectFour
 JaoCR/typing-reader
 Jaso5/chatty-rs
+JayTee42/weight-wb
 Jayesh2291/chat-app
 JerryKwan/starcoin
 JesperAxelsson/termilog
@@ -349,6 +359,7 @@ Jspascal/git-contribution-analyzer
 Juedsd/Sui-move--NFT-Market
 Julien-R44/fast-ssh
 Jumongweb/Sui
+JustBobinAround/JEF
 JustusFluegel/sqlx
 K2Da/hrkk
 KRTirtho/portfolio
@@ -379,6 +390,7 @@ Kundxn/CLI
 Kyagara/crescent
 Kz1wg/calrpn
 LAPKB/PMcore
+LMH01/alpha_tui
 LWEdslev/pomotui
 LXNavigation/runner
 Lander-Rust/antigen-v4
@@ -481,6 +493,7 @@ Narayanbhat166/kittui-racer
 Narfinger/TheoryGrabber
 Nextdoor/vector
 Niederb/writingbuddy
+Niedzwiedzw/studio-barlog-ctl
 Nine-At-A-Time-Media/diem
 NoahKirchner/diamondback
 NoirHQ/engine
@@ -569,6 +582,7 @@ RoseBlume/aports-prs
 RuleBrittonica/3712_Rust_Research_Project
 Runeword/dotfiles
 Ryandc20/pask
+RyzinRiley/nixpkgs
 SINHASantos/fluvio
 SKAJohanVenter/tango-controls-tui
 SOF3/gping
@@ -577,6 +591,8 @@ SWvheerden/tari
 Sakibimam/Sui-DevBot
 SaladinoBelisario/fluvio
 Sam9212/tui_wrapper
+SamKenX-Hub-Community/SAMkenXSiliconUI_suix
+SamKenX-Hub-Community/SAMkenxweb3-proxy
 Sands-45/xlv
 SanjayUG/Real-time-monitoring-dashboard-and-terminal-user-interface-TUI-for-Crankshaft-GSoC2025-
 Saref111/budget-manager
@@ -627,6 +643,7 @@ SourashisB/rust-projects
 SpaceNerde/voyager
 StephanMalan/type_defender
 Sunrisies/v2025
+Super-JK/radiorecord-tui
 Supermetal-Inc/planus
 Surfndez/move-sui
 SusankShakya/Gods-Creaton
@@ -734,6 +751,7 @@ Yubico/yubihsm-manager
 Yumshot/yum_notes
 YuseiWhite/sui
 Zageron/rrr
+Zeal-L/UNSW
 ZegWe/music-player
 ZeroEkkusu/foundry
 ZeroNoFun/vmcrack
@@ -1115,6 +1133,7 @@ digikata/fluvio
 digitalprk/dicrs
 dist-svc/dsf
 dist-svc/dsf-client
+dist-svc/dsf-daemon
 dist-svc/dsf-iot
 dist-svc/dsf-iot-demo
 dist-svc/eval
@@ -1403,6 +1422,7 @@ jRicardoLima/Server_manager
 jacobkaufmann/evangelion
 jacoblurye/topdio
 jacobpeake/mSight
+jacoloves/new_lab
 jadenaccord/emulatorr
 jafioti/lm_test
 jafriyie1/nushell
@@ -1419,6 +1439,7 @@ jcaromiq/adh-rust
 jdhirst/banksystem-rs
 jeffa5/block-breaker-tui
 jenggo/macchina
+jernejmarcic/RustyPlayer
 jespermunkeby/patch
 jewlexx/twentyfourtyeight
 jgerrish/tui-command-bar-widget
@@ -1460,6 +1481,10 @@ josesustaita/catmodoro
 josh-ja-walker/sorts_tui
 joshcbrown/pogodoro
 joshfelm/monitor-tui
+joshka/console
+joshka/dua-cli
+joshka/prodash
+joshka/tui-crates
 joshskeen/githist-rs
 joshuachp/feedrs
 joshuamegnauth54/star-torrent
@@ -1915,6 +1940,7 @@ pskrgag/rdisas
 psurply/dwfv
 psy-repos-rust/gitui
 psy-repos-rust/oha
+ptr-geeks/projects
 pvolok/dekit
 qlyde/adventurers
 quadrantica/nushell
@@ -1926,6 +1952,7 @@ qxrein/onigiri
 r0ps3c/aports
 race604/clock-tui
 radical-semiconductor/woodpecker
+radicle-dev/radicle-tui
 radlinskii/donkeytype
 rafia9005/gemini-term
 rage/tmc-cli-rust
@@ -1950,6 +1977,7 @@ reedts/jackal
 regerj/register_generator
 regular-dev/nevermind-neu
 reihera/ao3-tui
+renegade-fi/renegade-stylus-contracts
 replydev/cotp
 resi1ience/rust-wordle
 rethread-studio/rethread
@@ -2000,6 +2028,7 @@ rzru/pokerust-tui
 rzvxa/trellminal
 s00d/monit-tool
 s0hv/optimal-maze-builder-rust
+s0lst1ce/idle-crawler
 sZeta99/SEBAS
 sZeta99/borrow
 sachnr/tmux-fzy
@@ -2077,6 +2106,7 @@ shady-d3v/todo_rust
 shaneikennedy/ktui
 shaokun11/move-me2
 shaokun11/move-sui-me
+shaokun11/movesui
 shaokun11/test-subnet-v2
 shaokun11/testmove
 sharingcloud/github-scbot
