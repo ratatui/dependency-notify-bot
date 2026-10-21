@@ -89,8 +89,6 @@ AfrozSaqlain/Papr
 AgentEnder/pristine
 AgroUPlus/Wander
 Ahmed-Hamdy101/ECC
-AiFeatures/ECC
-AiFeatures/VulnClaw
 AiFeatures/agent-os
 AiFeatures/mesh-llm
 AiFeatures/openhuman
@@ -265,6 +263,7 @@ Danondso/zytunes-suite
 Dargon789/reth
 Dark-Alex-17/managarr
 DarkWanderer/vector
+DarkWaveLabs/rtop
 DataDog/omnigent
 Dauthdaert/chest
 Davey-Hughes/daveyutils
@@ -345,7 +344,6 @@ FakeMichau/lma
 Fanteria/todotxt-tui
 FelixSchausberger/vitals
 Fen0l/nutsh
-Fenzhuanvip/buzz
 FerrahWolfeh/lanforge
 FerriteLabs/ferrite
 FerroxLabs/wayland-core
@@ -400,6 +398,7 @@ GitoxideLabs/gitoxide
 GitoxideLabs/prodash
 Glubiz/zirv-cli
 Gnarlsley/ratatui_test1_1
+Gnarlsley/weather_util_test_1_1
 Gobidev/zdftext
 Goldziher/basemind
 GridWork-dev/gridwork
@@ -475,6 +474,7 @@ Iddn-full/mistral-vibe
 IgorArkhipov/unpin
 ImaginaryInfinity/squiid-calculator
 Incanta/omnigent
+Incredibuild-RND/nushell
 InfectedGriffon/Refunge
 InflectionAI/posthog
 Interchouette-ITC/InterFire
@@ -550,7 +550,6 @@ KhaiNguyenIUH/torrentide
 KhanhVy0910/zeroclaw-lab
 KiidxAtlas/dial
 Kiingo/buzz
-KikiKian/dispatch
 KingDasWinx/Dexo
 Kipnetic/jcode
 Kirikmelet/music_player
@@ -716,6 +715,7 @@ Nexartis/codesearch
 Nexartis/nexartis-harness-codex
 Nexartis/nexartis-harness-grok-build
 Nexus-os2026/nexus-os
+Nia-Server/NiaCore
 Nicolas0315/codex
 NightVibes33/codex
 NightVibes33/grok-fs-ios
@@ -864,6 +864,7 @@ S6U5/mdgrid
 SBogorad/vimit
 SKAJohanVenter/tango-controls-tui
 SKYIOUS/COD
+SOF3/lpl
 SPECTRADataSolutions/grok-build
 Sakzz1994/foundry
 Salling3650/LaTeX-Project-Manager
@@ -1346,6 +1347,7 @@ booiris/baybo
 boozec/sigma
 boris-valero/termuner
 borjamoskv/teorema-robinson-moskv
+bos/jj-musubi
 bounded-systems/toolpath
 bowline-sh/bowline
 bozza-man/hacksguard
@@ -1429,7 +1431,6 @@ charlieh0tel/smartclockmon
 cheerfulScumbag/tonguetyped
 childmindresearch/headjack
 chipsalliance/OmnixtendEndpoint
-chmuri/rstorrent
 chophe/imagai-cli
 chophe/rustwatch
 chquandogong/qhud
@@ -1565,7 +1566,6 @@ decoyhq/decoy
 deepanchal/dnote-tui
 deepc0py/incant
 defai-digital/akidb
-defai-digital/ax-engine
 defi-wonderland/optimism
 deg4uss3r/trss
 deifactor/deimos
@@ -1639,6 +1639,7 @@ doublegate/ProRT-IP
 doublegate/Rusty2600
 doublegate/RustySNES
 doublegate/qbz
+dpc/rhex
 dragonked2/alphacode
 drewzemke/todoist-tui
 drizjet/laneterm
@@ -2060,7 +2061,6 @@ its-banana-coder/noida
 itsypkin/ChocoFactory
 ivajon/boomerang
 ivancernja/maestro
-jLantxa/mapache
 jackmaxwil/yi
 jadenaccord/emulatorr
 jaemk/migrant
@@ -2413,6 +2413,7 @@ matti/cheese
 matti/memtop
 matti/power
 matze/git-utils
+mausolusikreatif/maukode
 max-niederman/ttyper
 maxgfr/aparte
 maximumstock/nixpkgs
@@ -2713,7 +2714,6 @@ orhun/kmon
 orhun/systeroid
 originalFactor/Messenger
 orofarne/meshfox
-osiris-ratings/pgdog
 oskarizu/git-nav-rs
 osmak1234/pomodoro
 ostapw2/Terminal-trading-DOS
@@ -3026,6 +3026,7 @@ sdkmode/sdkmode
 sdr5b/OpenPulseHF
 seamoss/Textrix
 sean-imus/brumm
+seanmars/codex-relay
 seapagan/labeldeck
 seapagan/terminal-file-manager
 sebastiancaraballo/polyglot
@@ -3082,6 +3083,7 @@ shirosoralumie648/kianacode
 shivrm/svift
 shomykohai/frostix
 shroom00/slsk-rs
+shuttle-hq/shuttle-tui
 shuv1337/sess
 shwetankg07/Arch-Sense
 shyal/leetcode
@@ -3098,6 +3100,7 @@ simdimdim/nushell
 simongoricar/euphony
 simpllyf/vizgres
 sinotca529/uart
+sitehub-dk/buzz
 sivizius/nixpkgs
 sjoerd2025/gitoxide
 sjoerd2025/warpgate
